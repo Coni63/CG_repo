@@ -118,6 +118,7 @@
 | Box of Cigars                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/box-of-cigars)                              |
 | De-FizzBuzzer                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/de-fizzbuzzer)                              |
 | ANEO Sponsored Puzzle                   | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/aneo)                                       |
+| Trits (Balanced Ternary Computing)      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)           |
 | Counting Squares on Pegs                | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/counting-squares-on-pegs)                   |
 | Number of paths between 2 points        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/number-of-paths-between-2-points)           |
 | Guessing n Cheating                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/guessing-n-cheating)                        |
@@ -127,6 +128,7 @@
 | Robbery optimisation                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/robbery-optimisation)                       |
 | Length of Syracuse Conjecture Sequence  | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)     |
 | RotaTetris                              | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/rotatetris)                                 |
+| A child's play                          | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/a-childs-play)                              |
 | Find the replacement                    | medium   | :white_check_mark: | [Link](https://www.codingame.com/training/medium/find-the-replacement)                       |
 | Short accounts make long friends        | medium   | :white_check_mark: | [Link](https://www.codingame.com/training/medium/short-accounts-make-long-friends)           |
 | Minifier CGS                            | medium   | :white_check_mark: | [Link](https://www.codingame.com/training/medium/cgs-minifier)                               |
@@ -164,7 +166,6 @@
 | Bag of Balls                            | medium   |                    | [Link](https://www.codingame.com/training/medium/bag-of-balls)                               |
 | Simplified Monopoly? Turns Prediction   | medium   |                    | [Link](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction)       |
 | Bulgarian solitaire                     | medium   |                    | [Link](https://www.codingame.com/training/medium/bulgarian-solitaire)                        |
-| Trits (Balanced Ternary Computing)      | medium   |                    | [Link](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)           |
 | Depot organization                      | medium   |                    | [Link](https://www.codingame.com/training/medium/depot-organization)                         |
 | The Optimal Urinal Problem              | medium   |                    | [Link](https://www.codingame.com/training/medium/the-optimal-urinal-problem)                 |
 | Brackets, Extended Edition              | medium   |                    | [Link](https://www.codingame.com/training/medium/brackets-extended-edition)                  |
@@ -198,7 +199,6 @@
 | Knights Jam                             | medium   |                    | [Link](https://www.codingame.com/training/medium/knights-jam)                                |
 | The Hooch Clash Grouch                  | medium   |                    | [Link](https://www.codingame.com/training/medium/the-hooch-clash-grouch)                     |
 | Smooth Factory                          | medium   |                    | [Link](https://www.codingame.com/training/medium/smooth-factory)                             |
-| A child's play                          | medium   |                    | [Link](https://www.codingame.com/training/medium/a-childs-play)                              |
 | Detective Pikaptcha EP3                 | medium   |                    | [Link](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)                    |
 | Skynet Revolution - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/skynet-revolution-episode-2)                  |
 | The Bridge                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-bridge-episode-2)                         |
