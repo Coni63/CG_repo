@@ -56,8 +56,11 @@
 | Count as I count                        | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/count-as-i-count)                             |
 | Are The Clumps Normal                   | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/are-the-clumps-normal)                        |
 | Smooth!                                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/smooth)                                       |
+| A child's play                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/a-childs-play)                                |
 | Detective Pikaptcha EP1                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep1)                      |
 | Detective Pikaptcha EP2                 | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/detective-pikaptcha-ep2)                      |
+| Happy Numbers                           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/happy-numbers)                                |
+| Dolbear's Law                           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/dolbears-law)                                 |
 | Skynet Revolution - Episode 1           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                |
 | The Last Crusade - Episode 1            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                 |
 | Mars Lander - Episode 2                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
@@ -127,8 +130,7 @@
 | Seam Carving                            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/seam-carving)                               |
 | Robbery optimisation                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/robbery-optimisation)                       |
 | Length of Syracuse Conjecture Sequence  | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)     |
-| RotaTetris                              | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/rotatetris)                                 |
-| A child's play                          | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/a-childs-play)                              |
+| Detective Pikaptcha EP3                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)                    |
 | Find the replacement                    | medium   | :white_check_mark: | [Link](https://www.codingame.com/training/medium/find-the-replacement)                       |
 | Short accounts make long friends        | medium   | :white_check_mark: | [Link](https://www.codingame.com/training/medium/short-accounts-make-long-friends)           |
 | Minifier CGS                            | medium   | :white_check_mark: | [Link](https://www.codingame.com/training/medium/cgs-minifier)                               |
@@ -199,7 +201,7 @@
 | Knights Jam                             | medium   |                    | [Link](https://www.codingame.com/training/medium/knights-jam)                                |
 | The Hooch Clash Grouch                  | medium   |                    | [Link](https://www.codingame.com/training/medium/the-hooch-clash-grouch)                     |
 | Smooth Factory                          | medium   |                    | [Link](https://www.codingame.com/training/medium/smooth-factory)                             |
-| Detective Pikaptcha EP3                 | medium   |                    | [Link](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)                    |
+| Battleship                              | medium   |                    | [Link](https://www.codingame.com/training/medium/battleship)                                 |
 | Skynet Revolution - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/skynet-revolution-episode-2)                  |
 | The Bridge                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-bridge-episode-2)                         |
 | Super calculateur                       | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/super-computer)                               |
@@ -241,6 +243,7 @@
 | Apple tree                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/apple-tree)                                   |
 | Expand the polynomial                   | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/expand-the-polynomial)                        |
 | Discrete Log Problem                    | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/discrete-log-problem)                         |
+| Detective Pikaptcha EP4                 | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)                      |
 | Indentation CGX                         | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/cgx-formatter)                                |
 | Inertia ride                            | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/inertia-ride)                                 |
 | Tester avant Valider!                   | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/test-before-validate!)                        |
@@ -312,7 +315,6 @@
 | Closest Number                          | hard     |                    | [Link](https://www.codingame.com/training/hard/closest-number)                               |
 | Nonogram inversor                       | hard     |                    | [Link](https://www.codingame.com/training/hard/nonogram-inversor)                            |
 | Basic Decision Tree - 2                 | hard     |                    | [Link](https://www.codingame.com/training/hard/basic-decision-tree---2)                      |
-| Detective Pikaptcha EP4                 | hard     |                    | [Link](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)                      |
 | La résistance                           | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-resistance)                             |
 | The barnyard                            | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-barnyard)                               |
 | The Crime Scene                         | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-crime-scene)                            |
@@ -357,6 +359,7 @@
 | High-rise buildings                     | expert   |                    | [Link](https://www.codingame.com/training/expert/high-rise-buildings)                        |
 | CG Chat interpreter - Part 1            | expert   |                    | [Link](https://www.codingame.com/training/expert/cg-chat-interpreter---part-1)               |
 | Cross the lines                         | expert   |                    | [Link](https://www.codingame.com/training/expert/cross-the-lines)                            |
+| Breach                                  | expert   |                    | [Link](https://www.codingame.com/training/expert/breach)                                     |
 | Don't Panic                             | codegolf | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/codegolf/don't-panic)                           |
 | Power of Thor                           | codegolf | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/codegolf/power-of-thor)                         |
 | Températures                            | codegolf | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/codegolf/temperature-code-golf)                 |
@@ -368,6 +371,7 @@
 | The Great Dispatch                      | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/the-great-dispatch-disabled)       |
 | A*Craft                                 | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/a-star-craft)                      |
 | Bender - Episode 4                      | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/bender---episode-4)                |
+| CGFunge Prime                           | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/cgfunge-prime)                     |
 | Tron Battle                             | multi    |                    | [Link](https://www.codingame.com/multiplayer/bot-programming/tron-battle)                    |
 | Game of Drones                          | multi    |                    | [Link](https://www.codingame.com/multiplayer/bot-programming/game-of-drones)                 |
 | Platinum Rift - Episode 2               | multi    |                    | [Link](https://www.codingame.com/multiplayer/bot-programming/platinum-rift-episode-2)        |
