@@ -96,6 +96,7 @@
 | The experience for creating puzzles     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/the-experience-for-creating-puzzles)        |
 | Elementary cellular automaton           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/elementary-cellular-automaton)              |
 | Simple fraction to mixed number         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number)            |
+| Queneau Numbers                         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/queneau-numbers)                            |
 | Army ants                               | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/army-ants)                                  |
 | Carmichael numbers                      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/carmichael-numbers)                         |
 | Langton's ant                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/langtons-ant)                               |
@@ -120,13 +121,18 @@
 | Magic Square                            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/magic-square)                               |
 | Box of Cigars                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/box-of-cigars)                              |
 | De-FizzBuzzer                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/de-fizzbuzzer)                              |
+| Simplified Monopoly? Turns Prediction   | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction)       |
 | ANEO Sponsored Puzzle                   | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/aneo)                                       |
+| Bulgarian solitaire                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/bulgarian-solitaire)                        |
 | Trits (Balanced Ternary Computing)      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)           |
 | Counting Squares on Pegs                | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/counting-squares-on-pegs)                   |
+| Kaprekar's routine                      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/kaprekars-routine)                          |
 | Number of paths between 2 points        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/number-of-paths-between-2-points)           |
 | Guessing n Cheating                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/guessing-n-cheating)                        |
 | IP mask calculating                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/ip-mask-calculating)                        |
+| Green Valleys                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/green-valleys)                              |
 | Elliptic curve cryptography             | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/elliptic-curve-cryptography)                |
+| Rearrange string to two numbers         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers)            |
 | Seam Carving                            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/seam-carving)                               |
 | Robbery optimisation                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/robbery-optimisation)                       |
 | Length of Syracuse Conjecture Sequence  | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)     |
@@ -144,7 +150,6 @@
 | Othello                                 | medium   |                    | [Link](https://www.codingame.com/training/medium/othello)                                    |
 | Snake encoding                          | medium   |                    | [Link](https://www.codingame.com/training/medium/snake-encoding)                             |
 | CGFunge interpreter                     | medium   |                    | [Link](https://www.codingame.com/training/medium/cgfunge-interpreter)                        |
-| Queneau Numbers                         | medium   |                    | [Link](https://www.codingame.com/training/medium/queneau-numbers)                            |
 | Reversed Look-and-say                   | medium   |                    | [Link](https://www.codingame.com/training/medium/reversed-look-and-say)                      |
 | Near-Palindromes                        | medium   |                    | [Link](https://www.codingame.com/training/medium/near-palindromes)                           |
 | 2󫎾 Rubik?s cube movements            | medium   |                    | [Link](https://www.codingame.com/training/medium/222-rubiks-cube-movements)                  |
@@ -166,12 +171,9 @@
 | Paper labyrinth                         | medium   |                    | [Link](https://www.codingame.com/training/medium/paper-labyrinth)                            |
 | Brackets, Ultimate Edition              | medium   |                    | [Link](https://www.codingame.com/training/medium/brackets-ultimate-edition)                  |
 | Bag of Balls                            | medium   |                    | [Link](https://www.codingame.com/training/medium/bag-of-balls)                               |
-| Simplified Monopoly? Turns Prediction   | medium   |                    | [Link](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction)       |
-| Bulgarian solitaire                     | medium   |                    | [Link](https://www.codingame.com/training/medium/bulgarian-solitaire)                        |
 | Depot organization                      | medium   |                    | [Link](https://www.codingame.com/training/medium/depot-organization)                         |
 | The Optimal Urinal Problem              | medium   |                    | [Link](https://www.codingame.com/training/medium/the-optimal-urinal-problem)                 |
 | Brackets, Extended Edition              | medium   |                    | [Link](https://www.codingame.com/training/medium/brackets-extended-edition)                  |
-| Kaprekar's routine                      | medium   |                    | [Link](https://www.codingame.com/training/medium/kaprekars-routine)                          |
 | Maximum sub-sequence                    | medium   |                    | [Link](https://www.codingame.com/training/medium/maximum-sub-sequence)                       |
 | Dice probability calculator             | medium   |                    | [Link](https://www.codingame.com/training/medium/dice-probability-calculator)                |
 | Enigma - 3 rotors without plugboard     | medium   |                    | [Link](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard)        |
@@ -182,7 +184,6 @@
 | Guessing digits                         | medium   |                    | [Link](https://www.codingame.com/training/medium/guessing-digits)                            |
 | Equalizing arrays                       | medium   |                    | [Link](https://www.codingame.com/training/medium/equalizing-arrays)                          |
 | Dynamic sorting                         | medium   |                    | [Link](https://www.codingame.com/training/medium/dynamic-sorting)                            |
-| Green Valleys                           | medium   |                    | [Link](https://www.codingame.com/training/medium/green-valleys)                              |
 | Goro Want Chocolate                     | medium   |                    | [Link](https://www.codingame.com/training/medium/goro-want-chocolate)                        |
 | \ Domino Puzzle /                       | medium   |                    | [Link](https://www.codingame.com/training/medium/domino-puzzle)                              |
 | EUROPEAN RUGBY CHAMPIONS CUP RANKING    | medium   |                    | [Link](https://www.codingame.com/training/medium/european-rugby-champions-cup-ranking)       |
@@ -190,7 +191,6 @@
 | Go competition                          | medium   |                    | [Link](https://www.codingame.com/training/medium/go-competition)                             |
 | Barcode scanner                         | medium   |                    | [Link](https://www.codingame.com/training/medium/barcode-scanner)                            |
 | Fishing With A Stick                    | medium   |                    | [Link](https://www.codingame.com/training/medium/fishing-with-a-stick)                       |
-| Rearrange string to two numbers         | medium   |                    | [Link](https://www.codingame.com/training/medium/rearrange-string-to-two-numbers)            |
 | Palindromic Decomposition               | medium   |                    | [Link](https://www.codingame.com/training/medium/palindromic-decomposition)                  |
 | Shikaku Solver                          | medium   |                    | [Link](https://www.codingame.com/training/medium/shikaku-solver)                             |
 | Regular polygons                        | medium   |                    | [Link](https://www.codingame.com/training/medium/regular-polygons)                           |
@@ -202,6 +202,7 @@
 | The Hooch Clash Grouch                  | medium   |                    | [Link](https://www.codingame.com/training/medium/the-hooch-clash-grouch)                     |
 | Smooth Factory                          | medium   |                    | [Link](https://www.codingame.com/training/medium/smooth-factory)                             |
 | Battleship                              | medium   |                    | [Link](https://www.codingame.com/training/medium/battleship)                                 |
+| Surakarta                               | medium   |                    | [Link](https://www.codingame.com/training/medium/surakarta)                                  |
 | Skynet Revolution - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/skynet-revolution-episode-2)                  |
 | The Bridge                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-bridge-episode-2)                         |
 | Super calculateur                       | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/super-computer)                               |
