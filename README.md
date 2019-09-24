@@ -63,6 +63,7 @@
 | Dolbear's Law                           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/dolbears-law)                                 |
 | A story to go in circles                | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/a-story-to-go-in-circles)                     |
 | Hello, World!                           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/hello-world)                                  |
+| Rectangle Partition                     | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rectangle-partition)                          |
 | Skynet Revolution - Episode 1           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                |
 | The Last Crusade - Episode 1            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                 |
 | Mars Lander - Episode 2                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
@@ -100,6 +101,7 @@
 | Elementary cellular automaton           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/elementary-cellular-automaton)              |
 | Simple fraction to mixed number         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/simple-fraction-to-mixed-number)            |
 | Queneau Numbers                         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/queneau-numbers)                            |
+| Quaternion Multiplication               | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/quaternion-multiplication)                  |
 | Army ants                               | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/army-ants)                                  |
 | Carmichael numbers                      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/carmichael-numbers)                         |
 | Langton's ant                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/langtons-ant)                               |
@@ -136,6 +138,7 @@
 | Short accounts make long friends        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/short-accounts-make-long-friends)           |
 | Number of paths between 2 points        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/number-of-paths-between-2-points)           |
 | Guessing n Cheating                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/guessing-n-cheating)                        |
+| Digit sum successor                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/digit-sum-successor)                        |
 | IP mask calculating                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/ip-mask-calculating)                        |
 | Green Valleys                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/green-valleys)                              |
 | Elliptic curve cryptography             | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/elliptic-curve-cryptography)                |
@@ -145,6 +148,9 @@
 | Robbery optimisation                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/robbery-optimisation)                       |
 | Length of Syracuse Conjecture Sequence  | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)     |
 | Detective Pikaptcha EP3                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)                    |
+| Dice galaxy                             | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/dice-galaxy)                                |
+| A Coin Guessing Game                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/a-coin-guessing-game)                       |
+| Windmill problem                        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/windmill-problem)                           |
 | Le chemin de dominos                    | medium   |                    | [Link](https://www.codingame.com/training/medium/dominoes-path)                              |
 | DDCG Mapper                             | medium   |                    | [Link](https://www.codingame.com/training/medium/ddcg-mapper)                                |
 | The Ultimate Test                       | medium   |                    | [Link](https://www.codingame.com/training/medium/the-ultimate-test)                          |
@@ -153,7 +159,6 @@
 | Othello                                 | medium   |                    | [Link](https://www.codingame.com/training/medium/othello)                                    |
 | Snake encoding                          | medium   |                    | [Link](https://www.codingame.com/training/medium/snake-encoding)                             |
 | CGFunge interpreter                     | medium   |                    | [Link](https://www.codingame.com/training/medium/cgfunge-interpreter)                        |
-| Quaternion Multiplication               | medium   |                    | [Link](https://www.codingame.com/training/medium/quaternion-multiplication)                  |
 | Reversed Look-and-say                   | medium   |                    | [Link](https://www.codingame.com/training/medium/reversed-look-and-say)                      |
 | Near-Palindromes                        | medium   |                    | [Link](https://www.codingame.com/training/medium/near-palindromes)                           |
 | 2󫎾 Rubik?s cube movements            | medium   |                    | [Link](https://www.codingame.com/training/medium/222-rubiks-cube-movements)                  |
@@ -182,7 +187,6 @@
 | Enigma - 3 rotors without plugboard     | medium   |                    | [Link](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard)        |
 | HTML table cell split                   | medium   |                    | [Link](https://www.codingame.com/training/medium/html-table-cell-split)                      |
 | Straddling Checkerboard Cryptography    | medium   |                    | [Link](https://www.codingame.com/training/medium/straddling-checkerboard-cryptography)       |
-| Digit sum successor                     | medium   |                    | [Link](https://www.codingame.com/training/medium/digit-sum-successor)                        |
 | 2-player game on a calculator           | medium   |                    | [Link](https://www.codingame.com/training/medium/2-player-game-on-a-calculator)              |
 | Guessing digits                         | medium   |                    | [Link](https://www.codingame.com/training/medium/guessing-digits)                            |
 | Equalizing arrays                       | medium   |                    | [Link](https://www.codingame.com/training/medium/equalizing-arrays)                          |
@@ -207,10 +211,13 @@
 | Surakarta                               | medium   |                    | [Link](https://www.codingame.com/training/medium/surakarta)                                  |
 | Identifying data structure              | medium   |                    | [Link](https://www.codingame.com/training/medium/identifying-data-structure)                 |
 | Fun with Set theory                     | medium   |                    | [Link](https://www.codingame.com/training/medium/fun-with-set-theory)                        |
+| Let's Go To The Cinema!                 | medium   |                    | [Link](https://www.codingame.com/training/medium/lets-go-to-the-cinema)                      |
+| Photo Booth Transformation              | medium   |                    | [Link](https://www.codingame.com/training/medium/photo-booth-transformation)                 |
 | Skynet Revolution - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/skynet-revolution-episode-2)                  |
 | The Bridge                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-bridge-episode-2)                         |
 | Super calculateur                       | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/super-computer)                               |
 | Montagnes russes                        | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/roller-coaster)                               |
+| Indentation CGX                         | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/cgx-formatter)                                |
 | R閟eau TAN                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/tan-network)                                  |
 | S閝uen鏰ge du g閚鬽e                    | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/genome-sequencing)                            |
 | Surface                                 | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/surface)                                      |
@@ -249,7 +256,6 @@
 | Expand the polynomial                   | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/expand-the-polynomial)                        |
 | Discrete Log Problem                    | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/discrete-log-problem)                         |
 | Detective Pikaptcha EP4                 | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/detective-pikaptcha-ep4)                      |
-| Indentation CGX                         | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/cgx-formatter)                                |
 | Inertia ride                            | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/inertia-ride)                                 |
 | Tester avant Valider!                   | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/test-before-validate!)                        |
 | Don't Panic - Episode 2                 | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/don't-panic-episode-2)                        |
@@ -370,8 +376,8 @@
 | Chuck Norris - Code Golf                | codegolf | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/codegolf/chuck-norris-codesize)                 |
 | Code of the Rings                       | optim    | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/optimization/code-of-the-rings)                 |
 | Code vs Zombies                         | optim    | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/optimization/code-vs-zombies)                   |
+| CodinGame Sponsored Challenge           | optim    | :heavy_check_mark: | [Link](https://www.codingame.com/multiplayer/optimization/codingame-sponsored-contest)       |
 | Mars Lander                             | optim    | :white_check_mark: | [Link](https://www.codingame.com/multiplayer/optimization/mars-lander)                       |
-| CodinGame Sponsored Challenge           | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/codingame-sponsored-contest)       |
 | The Great Dispatch                      | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/the-great-dispatch-disabled)       |
 | A*Craft                                 | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/a-star-craft)                      |
 | Bender - Episode 4                      | optim    |                    | [Link](https://www.codingame.com/multiplayer/optimization/bender---episode-4)                |
