@@ -125,6 +125,7 @@
 | Porcupine Fever                         | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/porcupine-fever)                            |
 | Magic Square                            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/magic-square)                               |
 | Find the replacement                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/find-the-replacement)                       |
+| The Grand Festival - I                  | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/the-grand-festival---i)                     |
 | Box of Cigars                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/box-of-cigars)                              |
 | De-FizzBuzzer                           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/de-fizzbuzzer)                              |
 | Simplified Monopoly? Turns Prediction   | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/simplified-monopoly-turns-prediction)       |
@@ -148,6 +149,7 @@
 | Robbery optimisation                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/robbery-optimisation)                       |
 | Length of Syracuse Conjecture Sequence  | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/length-of-syracuse-conjecture-sequence)     |
 | Detective Pikaptcha EP3                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/detective-pikaptcha-ep3)                    |
+| Identifying data structure              | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/identifying-data-structure)                 |
 | Dice galaxy                             | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/dice-galaxy)                                |
 | A Coin Guessing Game                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/a-coin-guessing-game)                       |
 | Windmill problem                        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/windmill-problem)                           |
@@ -172,7 +174,6 @@
 | Plight Of The Fellowship Of The Ring    | medium   |                    | [Link](https://www.codingame.com/training/medium/plight-of-the-fellowship-of-the-ring)       |
 | Bingo!                                  | medium   |                    | [Link](https://www.codingame.com/training/medium/bingo)                                      |
 | Gravity Centrifuge Tuning               | medium   |                    | [Link](https://www.codingame.com/training/medium/gravity-centrifuge-tuning)                  |
-| The Grand Festival - I                  | medium   |                    | [Link](https://www.codingame.com/training/medium/the-grand-festival---i)                     |
 | Polydivisible number                    | medium   |                    | [Link](https://www.codingame.com/training/medium/polydivisible-number)                       |
 | The Grand Festival - II                 | medium   |                    | [Link](https://www.codingame.com/training/medium/the-grand-festival---ii)                    |
 | Format string validation                | medium   |                    | [Link](https://www.codingame.com/training/medium/format-string-validation)                   |
@@ -209,10 +210,10 @@
 | Smooth Factory                          | medium   |                    | [Link](https://www.codingame.com/training/medium/smooth-factory)                             |
 | Battleship                              | medium   |                    | [Link](https://www.codingame.com/training/medium/battleship)                                 |
 | Surakarta                               | medium   |                    | [Link](https://www.codingame.com/training/medium/surakarta)                                  |
-| Identifying data structure              | medium   |                    | [Link](https://www.codingame.com/training/medium/identifying-data-structure)                 |
 | Fun with Set theory                     | medium   |                    | [Link](https://www.codingame.com/training/medium/fun-with-set-theory)                        |
 | Let's Go To The Cinema!                 | medium   |                    | [Link](https://www.codingame.com/training/medium/lets-go-to-the-cinema)                      |
 | Photo Booth Transformation              | medium   |                    | [Link](https://www.codingame.com/training/medium/photo-booth-transformation)                 |
+| Light Bulbs                             | medium   |                    | [Link](https://www.codingame.com/training/medium/light-bulbs)                                |
 | Skynet Revolution - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/skynet-revolution-episode-2)                  |
 | The Bridge                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-bridge-episode-2)                         |
 | Super calculateur                       | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/super-computer)                               |
@@ -245,6 +246,7 @@
 | Execution Circle                        | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/execution-circle)                             |
 | The max surface box                     | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-max-surface-box)                          |
 | Timer for Clash of Code                 | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/timer-for-clash-of-code)                      |
+| Hanoi tower                             | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/hanoi-tower)                                  |
 | n Queens                                | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/n-queens)                                     |
 | Levenshtein distance                    | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/levenshtein-distance)                         |
 | Highest truncated pyramid               | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/highest-truncated-pyramid)                    |
@@ -294,7 +296,6 @@
 | Hit the road                            | hard     |                    | [Link](https://www.codingame.com/training/hard/hit-the-road)                                 |
 | Wall Street                             | hard     |                    | [Link](https://www.codingame.com/training/hard/wall-street)                                  |
 | Rocket mice                             | hard     |                    | [Link](https://www.codingame.com/training/hard/rocket-mice)                                  |
-| Hanoi tower                             | hard     |                    | [Link](https://www.codingame.com/training/hard/hanoi-tower)                                  |
 | Turing machine                          | hard     |                    | [Link](https://www.codingame.com/training/hard/turing-machine)                               |
 | Cheat Solving                           | hard     |                    | [Link](https://www.codingame.com/training/hard/cheat-solving)                                |
 | Code your own Automaton2000, step 1     | hard     |                    | [Link](https://www.codingame.com/training/hard/code-your-own-automaton2000-step-1)           |
