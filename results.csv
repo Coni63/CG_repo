@@ -1,16 +1,16 @@
 id,achievementCount,attemptCount,communityCreation,creationTime,description,detailsPageUrl,doneAchievementCount,globalTotal,lastActivity,level,mode,position,solvedCount,testSessionHandle,title,total,type,validatorScore,xpPoints,feedbackAvg,feedbackCount
-1,3,55956,False,2014-07-16 13:25:18.000000000,"Le virus de la résistance se propage à travers le réseau Skynet. Mais Skynet se défend ! Empêchez Skynet de détruire le virus en coupant les bons liens du réseau...<br>
+1,3,56067,False,2014-07-16 13:25:18.000000000,"Le virus de la résistance se propage à travers le réseau Skynet. Mais Skynet se défend ! Empêchez Skynet de détruire le virus en coupant les bons liens du réseau...<br>
 <br>
 <u>Algo</u> : recherche dans un graphe.<br>
 <br>
-<i>Ce défi facile est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Skynet - Le Final&nbsp;». Une fois résolu allez vous confronter au deuxième défi «&nbsp;Skynet&nbsp;contre-attaque&nbsp;»sur le même thème mais avec une difficulté accrue !</i>",/training/medium/skynet-revolution-episode-1,3,,2019-07-26 15:34:22.688000000,medium,,,31807,37819577b3990cd63492da5e8688b35cfa3b7f5,Skynet Revolution - Episode 1,,SOLO,100,150.0,4.731224033237456,3129
-4,2,379828,False,2014-07-23 08:13:21.000000000,"Le marteau de Thor, <i>Mjöllnir</i> a perdu tout pouvoir... Saurez-vous guider Thor vers l'éclair de puissance afin de redonner sa force au marteau&nbsp;?<br>
+<i>Ce défi facile est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Skynet - Le Final&nbsp;». Une fois résolu allez vous confronter au deuxième défi «&nbsp;Skynet&nbsp;contre-attaque&nbsp;»sur le même thème mais avec une difficulté accrue !</i>",/training/medium/skynet-revolution-episode-1,3,,2019-07-26 15:34:22.688000000,medium,,,31869,37819577b3990cd63492da5e8688b35cfa3b7f5,Skynet Revolution - Episode 1,,SOLO,100,150.0,4.730916030534351,3144
+4,2,381419,False,2014-07-23 08:13:21.000000000,"Le marteau de Thor, <i>Mjöllnir</i> a perdu tout pouvoir... Saurez-vous guider Thor vers l'éclair de puissance afin de redonner sa force au marteau&nbsp;?<br>
 <br>
 <u>Algo</u> : vérification de conditions (if...).<br>
 <br>
-<i>Ce défi facile est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Ragnarök&nbsp;». Une fois la marteau réactivé vous pourrez tenter d'affronter les géants dans le deuxième défi, plus difficile : «&nbsp;Thor contre les géants&nbsp;» !</i>",/training/easy/power-of-thor-episode-1,2,,2019-07-27 20:47:17.038000128,easy,,,238825,37542667842fae110bd7bc244b4eebc7927c25c,Power of Thor - Episode 1,,SOLO,100,50.0,4.443610634648371,18656
-5,2,196522,False,2014-07-23 08:14:24.000000000,Il fait froid ! Saurez-vous trouver la température la plus proche de zéro dans un relevé de températures ?,/training/easy/temperatures,2,,2017-07-15 08:56:55.223000064,easy,,,140764,3760408937c17934059ee020ae0f137f92a4ba9,Températures,,CODE,100,50.0,4.241130575592522,13586
-6,2,112608,False,2014-07-23 08:16:54.000000000,"Vous-vous sentez un âme d'artiste ? Mais vous êtes informaticien :( Alors pourquoi ne pas essayer l'...
+<i>Ce défi facile est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Ragnarök&nbsp;». Une fois la marteau réactivé vous pourrez tenter d'affronter les géants dans le deuxième défi, plus difficile : «&nbsp;Thor contre les géants&nbsp;» !</i>",/training/easy/power-of-thor-episode-1,2,,2019-07-27 20:47:17.038000128,easy,,,239798,37542667842fae110bd7bc244b4eebc7927c25c,Power of Thor - Episode 1,,SOLO,100,50.0,4.444450348015515,18821
+5,2,197479,False,2014-07-23 08:14:24.000000000,Il fait froid ! Saurez-vous trouver la température la plus proche de zéro dans un relevé de températures ?,/training/easy/temperatures,2,,2017-07-15 08:56:55.223000064,easy,,,141486,3760408937c17934059ee020ae0f137f92a4ba9,Températures,,CODE,100,50.0,4.2425084052039175,13682
+6,2,113093,False,2014-07-23 08:16:54.000000000,"Vous-vous sentez un âme d'artiste ? Mais vous êtes informaticien :( Alors pourquoi ne pas essayer l'...
 <pre>
    __    ___   ___  ____  ____      __    ____  ____ 
   /__\  / __) / __)(_  _)(_  _)    /__\  (  _ \(_  _)
@@ -19,385 +19,385 @@ id,achievementCount,attemptCount,communityCreation,creationTime,description,deta
 </pre><br>
 Dans ce défi, transformez des chaînes de caractères en ASCII ART.<br>
 <br>
-<u>Algo</u> : stockage et parcours de tableau.",/training/easy/ascii-art,2,,2017-09-17 09:41:33.336999936,easy,,,75350,37612433492b02b8dfb1d5ce584f10b1aa174dd,ASCII Art,,CODE,100,50.0,4.434502693469978,7611
-7,2,88487,False,2014-07-23 08:19:26.000000000,"La binaire c'est bien ! Mais le unaire c'est mieux !<br>
+<u>Algo</u> : stockage et parcours de tableau.",/training/easy/ascii-art,2,,2017-09-17 09:41:33.336999936,easy,,,75644,37612433492b02b8dfb1d5ce584f10b1aa174dd,ASCII Art,,CODE,100,50.0,4.434924360980699,7668
+7,2,88830,False,2014-07-23 08:19:26.000000000,"La binaire c'est bien ! Mais le unaire c'est mieux !<br>
 <br>
 Mettez vos compétences d'encodeur à l'épreuve dans ce défi où il vous faudra transformer des messages en «&nbsp;unaire&nbsp;» (0 00 000 0...).<br>
 <br>
-<u>Algo</u> : encodage/décodage.",/training/easy/chuck-norris,2,,2018-08-13 15:54:40.916999936,easy,,,64379,3761504deb84534c75a88ff4325125ce6109a7f,Chuck Norris,,CODE,100,50.0,4.262055614220345,5682
-8,2,64525,False,2014-07-23 08:20:14.000000000,"Retour aux sources dans ce défi où vous devrez associer des noms de fichiers et leur type MIME.<br>
+<u>Algo</u> : encodage/décodage.",/training/easy/chuck-norris,2,,2018-08-13 15:54:40.916999936,easy,,,64588,3761504deb84534c75a88ff4325125ce6109a7f,Chuck Norris,,CODE,100,50.0,4.262633327504808,5719
+8,2,64737,False,2014-07-23 08:20:14.000000000,"Retour aux sources dans ce défi où vous devrez associer des noms de fichiers et leur type MIME.<br>
 <br>
-<u>Algo</u> :  maps, découpage de chaînes.",/training/easy/mime-type,2,,2016-03-03 15:00:18.127000064,easy,,,53499,3772275b8d5e5d57a88bf1a7c5bd34dec083907,MIME Type,,CODE,100,50.0,4.2240545294635,4548
-9,2,57048,False,2014-07-23 08:21:00.000000000,"Vous voulez sauver des vies ? Alors aidez-nous à trouver le défibrillateur le plus proche d'une position donnée dans la ville de Montpellier !<br>
+<u>Algo</u> :  maps, découpage de chaînes.",/training/easy/mime-type,2,,2016-03-03 15:00:18.127000064,easy,,,53661,3772275b8d5e5d57a88bf1a7c5bd34dec083907,MIME Type,,CODE,100,50.0,4.226151495306701,4581
+9,2,57204,False,2014-07-23 08:21:00.000000000,"Vous voulez sauver des vies ? Alors aidez-nous à trouver le défibrillateur le plus proche d'une position donnée dans la ville de Montpellier !<br>
 <br>
-<u>Algo</u> : Calcul de distances, Big data.",/training/easy/defibrillators,2,,2018-08-13 15:23:07.871000064,easy,,,48699,37719850ccd814b6e63345d1bb3282f7e19c8d6,Défibrillateurs,,CODE,100,50.0,4.257994186046512,4128
-10,3,78473,False,2014-07-23 08:21:52.000000000,"Pour rendre une course entre deux chevaux intéressante, il vous faudra trouver les chevaux ayant les niveaux les plus proches.<br>
+<u>Algo</u> : Calcul de distances, Big data.",/training/easy/defibrillators,2,,2018-08-13 15:23:07.871000064,easy,,,48825,37719850ccd814b6e63345d1bb3282f7e19c8d6,Défibrillateurs,,CODE,100,50.0,4.261235279980774,4161
+10,3,78743,False,2014-07-23 08:21:52.000000000,"Pour rendre une course entre deux chevaux intéressante, il vous faudra trouver les chevaux ayant les niveaux les plus proches.<br>
 <br>
-<u>Algo</u> : tri, recherche de minimum.",/training/easy/horse-racing-duals,3,,2016-03-03 15:00:18.127000064,easy,,,61081,3773955b67125e027fb902e98438ef93689e7ef,Chevaux de course,,CODE,100,75.0,4.269126424308193,5529
-11,2,18952,False,2014-07-23 08:23:21.000000000,"Indiana est bloqué dans un tunnel, aidez-le à s'échapper !<br>
+<u>Algo</u> : tri, recherche de minimum.",/training/easy/horse-racing-duals,3,,2016-03-03 15:00:18.127000064,easy,,,61275,3773955b67125e027fb902e98438ef93689e7ef,Chevaux de course,,CODE,100,75.0,4.271551724137931,5568
+11,2,18979,False,2014-07-23 08:23:21.000000000,"Indiana est bloqué dans un tunnel, aidez-le à s'échapper !<br>
 <br>
 Dans ce premier niveau, vous devez juste vous familiariser avec le fonctionnement du tunnel : votre objectif est de prédire les déplacements d'Indiana dans ce tunnel.<br>
 <br>
 <u>Algo</u> : maps.<br>
 <br>
 
-<i>Ce défi fait partie d'une série de deux exercices proposé lors du challenge «&nbsp;The Last Crusade&nbsp;». Une fois résolu, dirigez-vous vers le niveau 2 où les choses vont largement se compliquer !</i>",/training/medium/the-last-crusade-episode-1,2,,2016-03-03 15:00:18.127000064,medium,,,15237,3841598df96356220249bd183571e7322f49b50,The Last Crusade - Episode 1,,SOLO,100,100.0,4.410404624277457,1211
-12,3,30870,False,2014-07-23 08:24:27.000000000,"Votre vaisseau d'exploration de Mars vous emmène au dessus d'une zone rocheuse particulièrement difficile. Il vous faudra revoir et améliorer votre technique d'approche pour vous poser en douceur et sûrement sur le sol martien !<br>
+<i>Ce défi fait partie d'une série de deux exercices proposé lors du challenge «&nbsp;The Last Crusade&nbsp;». Une fois résolu, dirigez-vous vers le niveau 2 où les choses vont largement se compliquer !</i>",/training/medium/the-last-crusade-episode-1,2,,2016-03-03 15:00:18.127000064,medium,,,15260,3841598df96356220249bd183571e7322f49b50,The Last Crusade - Episode 1,,SOLO,100,100.0,4.411184210526316,1216
+12,3,30987,False,2014-07-23 08:24:27.000000000,"Votre vaisseau d'exploration de Mars vous emmène au dessus d'une zone rocheuse particulièrement difficile. Il vous faudra revoir et améliorer votre technique d'approche pour vous poser en douceur et sûrement sur le sol martien !<br>
 <br>
 <u>Algo</u> : Asservissement en rotation, position, vitesse.<br>
 <br>
-<i>Ce défi moyen est le deuxième d'une série de trois exercices proposés lors du challenge «&nbsp;Mars Lander&nbsp;». Une fois résolu allez vous confronter au troisième défi «&nbsp;Mars&nbsp;Lander - Level 3&nbsp;»sur le même thème mais avec une difficulté accrue !</i>",/training/medium/mars-lander-episode-2,3,,2019-07-26 15:36:14.856000000,medium,,,8949,37744321ad44053ee082d12a59b5ede72863a43,Mars Lander - Episode 2,,SOLO,100,150.0,4.632142857142857,1120
-13,2,21406,False,2014-07-23 08:25:49.000000000,"Il faut savoir prendre des risques et miser sur des actions qui n'ont pas l'air bien fiables. Il faut aussi savoir vendre avant d'avoir tout perdu. La bourse, c'est compliqué. C'est pourquoi nous vous proposons d'écrire un programme pour simplifier tout cela et nous permettre d'investir en toute confiance.<br>
+<i>Ce défi moyen est le deuxième d'une série de trois exercices proposés lors du challenge «&nbsp;Mars Lander&nbsp;». Une fois résolu allez vous confronter au troisième défi «&nbsp;Mars&nbsp;Lander - Level 3&nbsp;»sur le même thème mais avec une difficulté accrue !</i>",/training/medium/mars-lander-episode-2,3,,2019-07-26 15:36:14.856000000,medium,,,8969,37744321ad44053ee082d12a59b5ede72863a43,Mars Lander - Episode 2,,SOLO,100,150.0,4.6341030195381885,1126
+13,2,21449,False,2014-07-23 08:25:49.000000000,"Il faut savoir prendre des risques et miser sur des actions qui n'ont pas l'air bien fiables. Il faut aussi savoir vendre avant d'avoir tout perdu. La bourse, c'est compliqué. C'est pourquoi nous vous proposons d'écrire un programme pour simplifier tout cela et nous permettre d'investir en toute confiance.<br>
 Rassurez-vous, vous n'aurez pas besoin d'être un crack... boursier ?
 <br>
 <br>
 <u>Algo</u> : Recherches dans un set de valeurs.<br>
-<br>",/training/medium/stock-exchange-losses,2,,2016-03-03 16:40:12.391000064,medium,,,18248,38074376e3524d5da5fbac8f10b6cbe76935040,Pertes en bourse,,CODE,100,100.0,4.290300546448087,1464
-14,2,13431,False,2014-07-23 08:28:17.000000000,"Aujourd'hui vous êtes chargé de relier un ensemble de maisons au réseau général. Seulement voilà, votre collègue étourdi a oublié une partie du stock de bobines de câbles avant de partir ce matin. Vous regardez la camionnette à moitié vide en soupirant. Pfff, il va falloir se débrouiller pour utiliser la longueur de câble la plus courte possible.<br>
+<br>",/training/medium/stock-exchange-losses,2,,2016-03-03 16:40:12.391000064,medium,,,18281,38074376e3524d5da5fbac8f10b6cbe76935040,Pertes en bourse,,CODE,100,100.0,4.2944369063772045,1474
+14,2,13448,False,2014-07-23 08:28:17.000000000,"Aujourd'hui vous êtes chargé de relier un ensemble de maisons au réseau général. Seulement voilà, votre collègue étourdi a oublié une partie du stock de bobines de câbles avant de partir ce matin. Vous regardez la camionnette à moitié vide en soupirant. Pfff, il va falloir se débrouiller pour utiliser la longueur de câble la plus courte possible.<br>
 <br>
 <u>Algo</u> : Distance optimale.<br>
-<br>",/training/medium/network-cabling,2,,2017-07-22 21:47:17.119000064,medium,,,9744,38406481ee4dd40cd364688afb2997750add6a3,Câblage réseau,,CODE,100,100.0,4.2457293035479635,761
-15,2,14655,False,2014-07-23 08:29:25.000000000,"Une séquence de Conway est une suite amusante où un élément décrit l'élément précédent, et ce récursivement. De la fumée vous sortira des oreilles après avoir démêlé ce mic-mac !
+<br>",/training/medium/network-cabling,2,,2017-07-22 21:47:17.119000064,medium,,,9753,38406481ee4dd40cd364688afb2997750add6a3,Câblage réseau,,CODE,100,100.0,4.2460732984293195,764
+15,2,14677,False,2014-07-23 08:29:25.000000000,"Une séquence de Conway est une suite amusante où un élément décrit l'élément précédent, et ce récursivement. De la fumée vous sortira des oreilles après avoir démêlé ce mic-mac !
 <br>
 <br>
 <u>Algo</u> : Conway sequence.<br>
 <br>
-",/training/medium/conway-sequence,2,,2016-03-03 15:00:18.127000064,medium,,,13459,380761625b498d6a1199f95386c8002f7487749,Suite de Conway,,CODE,100,100.0,4.351378958120531,979
-16,2,14775,False,2014-07-23 08:30:22.000000000,"Tous ces numéros de téléphone à retenir ! Et si on inventait une nouvelle manière de stocker les numéros en mémoire afin qu'ils prennent le moins de place possible ? C'est à vous qu'incombe cette lourde tâche, mais nous sommes sûrs que vous réussirez sans problème à surmonter ce défi. On s'appelle ?<br>
+",/training/medium/conway-sequence,2,,2016-03-03 15:00:18.127000064,medium,,,13482,380761625b498d6a1199f95386c8002f7487749,Suite de Conway,,CODE,100,100.0,4.35030549898167,982
+16,2,14792,False,2014-07-23 08:30:22.000000000,"Tous ces numéros de téléphone à retenir ! Et si on inventait une nouvelle manière de stocker les numéros en mémoire afin qu'ils prennent le moins de place possible ? C'est à vous qu'incombe cette lourde tâche, mais nous sommes sûrs que vous réussirez sans problème à surmonter ce défi. On s'appelle ?<br>
 <br>
 <u>Algo</u> : optimisation de stockage.<br>
-<br>",/training/medium/telephone-numbers,2,,2016-03-03 15:00:18.127000064,medium,,,12142,3814183481d3217a774125f24b2e1263e8e6994,Numéros de téléphone,,CODE,100,100.0,4.414120126448894,949
-17,2,10984,False,2014-07-23 08:31:39.000000000,"Il est parfois intéressant de retrouver quels sont les auteurs qui ont influencé notre écrivain préféré. Et si on s'essayait à cet exercice, en trouvant qui a hérité de qui, au moyen d'un graphe d'influence ?
+<br>",/training/medium/telephone-numbers,2,,2016-03-03 15:00:18.127000064,medium,,,12153,3814183481d3217a774125f24b2e1263e8e6994,Numéros de téléphone,,CODE,100,100.0,4.4176285414480585,953
+17,2,11005,False,2014-07-23 08:31:39.000000000,"Il est parfois intéressant de retrouver quels sont les auteurs qui ont influencé notre écrivain préféré. Et si on s'essayait à cet exercice, en trouvant qui a hérité de qui, au moyen d'un graphe d'influence ?
 <br>
 <br>
 <u>Algo</u> : Parcours de graphe.<br>
-<br>",/training/medium/dwarfs-standing-on-the-shoulders-of-giants,2,,2016-03-03 16:24:18.337999872,medium,,,9027,38500034328499191d2ba3f4bcb5264684b50d2,Des nains sur des épaules de géants,,CODE,100,100.0,4.3907380607814765,691
-18,2,13044,False,2014-07-23 08:34:02.000000000,"Bender, robot dépressif depuis que son intelligence artificielle a été amoindrie, erre dans les rues pour trouver la cabine à suicide la plus proche. Pour l'empêcher de commettre l'irréparable, vous vous voyez confier la tâche de prédire le chemin qu'empruntera Bender afin de pouvoir l'intercepter. Vous aurez à votre disposition la logique des déplacements du robot. Qu'est-ce que vous faites encore là ? Courez au secours de Bender !
+<br>",/training/medium/dwarfs-standing-on-the-shoulders-of-giants,2,,2016-03-03 16:24:18.337999872,medium,,,9040,38500034328499191d2ba3f4bcb5264684b50d2,Des nains sur des épaules de géants,,CODE,100,100.0,4.390173410404624,692
+18,2,13066,False,2014-07-23 08:34:02.000000000,"Bender, robot dépressif depuis que son intelligence artificielle a été amoindrie, erre dans les rues pour trouver la cabine à suicide la plus proche. Pour l'empêcher de commettre l'irréparable, vous vous voyez confier la tâche de prédire le chemin qu'empruntera Bender afin de pouvoir l'intercepter. Vous aurez à votre disposition la logique des déplacements du robot. Qu'est-ce que vous faites encore là ? Courez au secours de Bender !
 <br>
 <br>
 <u>Algo</u> : Calcul de trajectoire.<br>
 <br>
-<i>Si vous aimez Bender et Futurama, n'hésitez pas à vous essayer aux autres exercices (sur des thèmes différents) proposés qui incluent Bender,  «&nbsp;Bender - La machine à fric&nbsp;» et «&nbsp;Bender - Complexité&nbsp;».</i>",/training/medium/bender-episode-1,2,,2017-11-08 10:03:19.524999936,medium,,,8266,380953967cb06ac2268cf1917a63c2018910a5a,Bender - Episode 1,,CODE,100,100.0,4.542245989304813,935
-19,2,14092,False,2014-07-23 08:34:48.000000000,"Quand vous jouez au scrabble le dimanche en famille, la situation dégénère souvent très vite. Quel est le meilleur coup à jouer ? Faut-il poser ""Flasque"" ou ""Flaques"" ? Que va faire grand-mère au coup prochain ? Nous vous proposons un exercice pour calculer quel est le meilleur mot à jouer parmi une liste de mot possibles.
+<i>Si vous aimez Bender et Futurama, n'hésitez pas à vous essayer aux autres exercices (sur des thèmes différents) proposés qui incluent Bender,  «&nbsp;Bender - La machine à fric&nbsp;» et «&nbsp;Bender - Complexité&nbsp;».</i>",/training/medium/bender-episode-1,2,,2017-11-08 10:03:19.524999936,medium,,,8279,380953967cb06ac2268cf1917a63c2018910a5a,Bender - Episode 1,,CODE,100,100.0,4.542735042735043,936
+19,2,14113,False,2014-07-23 08:34:48.000000000,"Quand vous jouez au scrabble le dimanche en famille, la situation dégénère souvent très vite. Quel est le meilleur coup à jouer ? Faut-il poser ""Flasque"" ou ""Flaques"" ? Que va faire grand-mère au coup prochain ? Nous vous proposons un exercice pour calculer quel est le meilleur mot à jouer parmi une liste de mot possibles.
 <br>
 <br>
 <u>Algo</u> : Pondération.<br>
-<br>",/training/medium/scrabble,2,,2016-03-03 15:00:18.127000064,medium,,,11937,38496809f9248e5b7df353cf3ea34967bdce9c7,Scrabble,,CODE,100,100.0,4.417979610750695,1079
-20,2,13247,False,2014-07-23 08:35:43.000000000,"Le TARDIS, vaisseau inter-espace-temps, s'est posé sur une planète étrange. La population locale, les Oods, cherchent à faire un cadeau à un autre Ood, mais n'arrivent pas à trouver un moyen de répartir équitablement leur budget. Aidez le Docteur à trouver un système pour décider quelle doit être la contribution de chaque Ood.
+<br>",/training/medium/scrabble,2,,2016-03-03 15:00:18.127000064,medium,,,11954,38496809f9248e5b7df353cf3ea34967bdce9c7,Scrabble,,CODE,100,100.0,4.415285451197054,1086
+20,2,13264,False,2014-07-23 08:35:43.000000000,"Le TARDIS, vaisseau inter-espace-temps, s'est posé sur une planète étrange. La population locale, les Oods, cherchent à faire un cadeau à un autre Ood, mais n'arrivent pas à trouver un moyen de répartir équitablement leur budget. Aidez le Docteur à trouver un système pour décider quelle doit être la contribution de chaque Ood.
 <br>
 <br>
 <u>Algo</u> : Répartition.<br>
 <br>
-<i>Ce défi est le premier des deux exercices proposés lors du challenge «&nbsp;Doctor Who&nbsp;». Si vous aimez Doctor Who et voulez essayer un exercice plus compliqué, un autre exercice est disponible sur un thème différent, «&nbsp;Doctor Who - Partitions de Musique&nbsp;»</i>",/training/medium/the-gift,2,,2016-03-03 15:00:18.127000064,medium,,,11137,3841789b92b8306a88b7f55ce1fbbc6e173d68c,Le cadeau,,CODE,100,100.0,4.357060849598163,871
-21,2,10389,False,2014-07-23 08:37:19.000000000,"On sait tous maintenant que la fin du monde n'a pas eu lieu le 21 décembre 2012. Mais c'est vrai qu'il est facile de mal interpréter les calculs mayas, tant leur système de numération était compliqué !<br />
+<i>Ce défi est le premier des deux exercices proposés lors du challenge «&nbsp;Doctor Who&nbsp;». Si vous aimez Doctor Who et voulez essayer un exercice plus compliqué, un autre exercice est disponible sur un thème différent, «&nbsp;Doctor Who - Partitions de Musique&nbsp;»</i>",/training/medium/the-gift,2,,2016-03-03 15:00:18.127000064,medium,,,11153,3841789b92b8306a88b7f55ce1fbbc6e173d68c,Le cadeau,,CODE,100,100.0,4.358533791523482,873
+21,2,10399,False,2014-07-23 08:37:19.000000000,"On sait tous maintenant que la fin du monde n'a pas eu lieu le 21 décembre 2012. Mais c'est vrai qu'il est facile de mal interpréter les calculs mayas, tant leur système de numération était compliqué !<br />
 Aidez-nous à trouver la date de la prochaine apocalypse en déchiffrant des messages venus d'un autre temps.
 <br>
 <br>
 <u>Algo</u> : Changement de bases numériques.<br>
-<br>",/training/medium/mayan-calculation,2,,2016-03-03 15:00:18.127000064,medium,,,8484,3816620f17fb31995dea575c0057208a1711335,Calcul Maya,,CODE,100,100.0,4.423230974632844,749
-22,2,14704,False,2014-07-23 08:55:30.000000000,"Le réseau Skynet est toujours en activité, même si le virus de la Résistance continue de se propager. Aidez le virus et affaiblissez Skynet, en coupant l'accès à ses ressources. Le sort de l'Humanité dépend de vous.
+<br>",/training/medium/mayan-calculation,2,,2016-03-03 15:00:18.127000064,medium,,,8494,3816620f17fb31995dea575c0057208a1711335,Calcul Maya,,CODE,100,100.0,4.424,750
+22,2,14746,False,2014-07-23 08:55:30.000000000,"Le réseau Skynet est toujours en activité, même si le virus de la Résistance continue de se propager. Aidez le virus et affaiblissez Skynet, en coupant l'accès à ses ressources. Le sort de l'Humanité dépend de vous.
 <br>
 <br>
 <u>Algo</u> : Parcours et recherche dans un graphe.<br>
 <br>
 <i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Skynet - Le final&nbsp;». Avant de vous y essayer, pensez à regarder le niveau précédent, «&nbsp;Skynet - Le virus&nbsp;», sur le même thème mais avec une difficulté moindre.</i>
-",/training/hard/skynet-revolution-episode-2,2,,2018-08-22 16:48:05.267000064,hard,,,4067,3814137b400ed8184cd77998731d4a237feee10,Skynet Revolution - Episode 2,,SOLO,100,250.0,4.789699570815451,699
-23,3,7494,False,2014-07-23 08:56:37.000000000,"Prenez le contrôle de la résistance contre les machines. Après avoir réussi à capturer des Moto-Terminators, vous devez les reprogrammer avec un cheval de troie pour   et leur avoir injecté un virus dans un groupe de Moto-Terminator et vous devez les diriger dans le centre névralgique de Skynet.<br />
+",/training/hard/skynet-revolution-episode-2,2,,2018-08-22 16:48:05.267000064,hard,,,4075,3814137b400ed8184cd77998731d4a237feee10,Skynet Revolution - Episode 2,,SOLO,100,250.0,4.790299572039943,701
+23,3,7526,False,2014-07-23 08:56:37.000000000,"Prenez le contrôle de la résistance contre les machines. Après avoir réussi à capturer des Moto-Terminators, vous devez les reprogrammer avec un cheval de troie pour   et leur avoir injecté un virus dans un groupe de Moto-Terminator et vous devez les diriger dans le centre névralgique de Skynet.<br />
 <br />
 <u>Algo</u> : Parcours d'arbre en profondeur ou Retour sur trace.<br />
 <br />
-<i>Ce défi est le second d'une série de deux exercices proposés lors du challenge «&nbsp;Skynet Révolution&nbsp;». Lors du premier défi vous deviez diriger une Moto-Terminator vers une plate-forme. Dans «&nbsp;Skynet - Le Pont&nbsp;», vous devrez contrôler plusieurs motos et éviter les obstacles. Bien plus dur !</i>",/training/hard/the-bridge-episode-2,3,,2018-02-16 23:25:49.358000128,hard,,,1820,3821749d8b06268cf169d88fc69151437385373,The Bridge,,SOLO,100,375.0,4.62109375,256
-24,2,22651,False,2014-07-23 08:57:18.000000000,"Fraîchement débarqué, le capitaine Kirk doit se rendre à la salle de contrôle de la base, perdue au fin fond d'un dédale de couloirs et de cul-de-sacs. Il vous faudra l'aider à retrouver son chemin au coeur de ce labyrinthe. Il faut faire vite, le temps vous est compté.
+<i>Ce défi est le second d'une série de deux exercices proposés lors du challenge «&nbsp;Skynet Révolution&nbsp;». Lors du premier défi vous deviez diriger une Moto-Terminator vers une plate-forme. Dans «&nbsp;Skynet - Le Pont&nbsp;», vous devrez contrôler plusieurs motos et éviter les obstacles. Bien plus dur !</i>",/training/hard/the-bridge-episode-2,3,,2018-02-16 23:25:49.358000128,hard,,,1822,3821749d8b06268cf169d88fc69151437385373,The Bridge,,SOLO,100,375.0,4.607003891050583,257
+24,2,22727,False,2014-07-23 08:57:18.000000000,"Fraîchement débarqué, le capitaine Kirk doit se rendre à la salle de contrôle de la base, perdue au fin fond d'un dédale de couloirs et de cul-de-sacs. Il vous faudra l'aider à retrouver son chemin au coeur de ce labyrinthe. Il faut faire vite, le temps vous est compté.
 <br>
 <br>
 <u>Algo</u> : Recherche de chemin optimal.<br>
 <br>
-<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Kirk's Quest&nbsp;». Avant de vous y essayer, échauffez vous sur le niveau facile «&nbsp;La Descente&nbsp;», qui met aussi en scène le capitaine Kirk.</i>",/training/hard/the-labyrinth,0,,2018-02-06 15:33:24.108000000,hard,,,3926,3821692d6abb260b1043235daa6d26ea8552f4b,Le labyrinthe,,SOLO,38,250.0,4.719063545150502,598
-25,2,4670,False,2014-07-23 08:58:17.000000000,"Thor a enfin récupéré son marteau. Juste à temps, car des hordes de géants sont en train de fondre sur lui pour le neutraliser. Mais il ne s'arrêteront pas là ! les géants veulent ensuite prendre le contrôle d'Asgard et conquérir tous les mondes de l'Yggdrasil. Mettez au point votre stratégie guerrière pour vaincre tous les géants et empêcher Ragnarok.<br>
+<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Kirk's Quest&nbsp;». Avant de vous y essayer, échauffez vous sur le niveau facile «&nbsp;La Descente&nbsp;», qui met aussi en scène le capitaine Kirk.</i>",/training/hard/the-labyrinth,0,,2018-02-06 15:33:24.108000000,hard,,,3931,3821692d6abb260b1043235daa6d26ea8552f4b,Le labyrinthe,,SOLO,38,250.0,4.72,600
+25,2,4688,False,2014-07-23 08:58:17.000000000,"Thor a enfin récupéré son marteau. Juste à temps, car des hordes de géants sont en train de fondre sur lui pour le neutraliser. Mais il ne s'arrêteront pas là ! les géants veulent ensuite prendre le contrôle d'Asgard et conquérir tous les mondes de l'Yggdrasil. Mettez au point votre stratégie guerrière pour vaincre tous les géants et empêcher Ragnarok.<br>
 <br>
-<i>Ce défi difficile est le deuxième d'une série de deux exercices proposés lors du challenge «&nbsp;Ragnarok&nbsp;». Pour bien démarrer avec ce challenge, utilisez votre code du défi «&nbsp;Le marteau de Thor&nbsp;», qui vous servira de base pour déplacement le héros.</i>",/training/hard/power-of-thor-episode-2,0,,2017-07-30 15:30:32.148000000,hard,,,899,3873060049bdb49798da4bcb6269c8ea67e6123,Power of Thor - Episode 2,,SOLO,20,250.0,4.494736842105263,95
-26,2,4226,False,2014-07-23 09:01:09.000000000,"Le département de recherche de votre université a fait récemment l'acquisition d'un magnifique super calculateur. Seulement voilà, tout le monde veut l'utiliser. Un chercheur du labo de chimie veut réaliser une série de calculs d'une semaine, votre collègue Martin voudrait y accéder pour ""juste un petit truc qui prend pas de temps, c'est promis"", etc... Bref, cela ne va pas être chose aisée d'organiser l'emploi du temps de cette machine. A vous de planifier quelles sera l'ordre et le nombre d'expériences qui tourneront sur le calculateur pour permettre au maximum de demandes d'être satisfaites.<br>
+<i>Ce défi difficile est le deuxième d'une série de deux exercices proposés lors du challenge «&nbsp;Ragnarok&nbsp;». Pour bien démarrer avec ce challenge, utilisez votre code du défi «&nbsp;Le marteau de Thor&nbsp;», qui vous servira de base pour déplacement le héros.</i>",/training/hard/power-of-thor-episode-2,2,,2019-10-07 12:37:15.849999872,hard,,,902,3873060049bdb49798da4bcb6269c8ea67e6123,Power of Thor - Episode 2,,SOLO,100,250.0,4.510204081632653,98
+26,2,4234,False,2014-07-23 09:01:09.000000000,"Le département de recherche de votre université a fait récemment l'acquisition d'un magnifique super calculateur. Seulement voilà, tout le monde veut l'utiliser. Un chercheur du labo de chimie veut réaliser une série de calculs d'une semaine, votre collègue Martin voudrait y accéder pour ""juste un petit truc qui prend pas de temps, c'est promis"", etc... Bref, cela ne va pas être chose aisée d'organiser l'emploi du temps de cette machine. A vous de planifier quelles sera l'ordre et le nombre d'expériences qui tourneront sur le calculateur pour permettre au maximum de demandes d'être satisfaites.<br>
 <br>
 <u>Algo</u> : Ordonnancement.<br>
-<br>",/training/hard/super-computer,2,,2016-03-24 17:04:11.956000000,hard,,,2859,387275179e1635f7cc936f65bf653e17ed30b13,Super calculateur,,CODE,100,250.0,4.427312775330397,227
-27,3,5802,False,2014-07-23 09:01:57.000000000,"On aime tous les montagnes russes. Mais il y a des gens qui aiment les gens qui aiment les montagnes russes. C'est gens, aujourd'hui, c'est vous. Vous êtes chargés de compter les recettes d'une attraction dans un parc. Espérons qu'il y ait plus de hauts que de bas.<br>
+<br>",/training/hard/super-computer,2,,2016-03-24 17:04:11.956000000,hard,,,2866,387275179e1635f7cc936f65bf653e17ed30b13,Super calculateur,,CODE,100,250.0,4.4298245614035086,228
+27,3,5816,False,2014-07-23 09:01:57.000000000,"On aime tous les montagnes russes. Mais il y a des gens qui aiment les gens qui aiment les montagnes russes. C'est gens, aujourd'hui, c'est vous. Vous êtes chargés de compter les recettes d'une attraction dans un parc. Espérons qu'il y ait plus de hauts que de bas.<br>
 <br>
 <u>Algo</u> : Calculs.<br>
-<br>",/training/hard/roller-coaster,2,,2016-03-05 14:14:03.097999872,hard,,,3945,3821919a63b367d573237a07b6cda0053170f13,Montagnes russes,,CODE,100,375.0,4.58354114713217,401
-28,2,3431,False,2014-07-23 09:04:27.000000000,"Chez CodinGame on aime réinventer la roue. XML, JSON etc. c'est bien mais pour un web meilleur nous avons inventé notre propre format de données textuelles (nommé CGX) pour représenter de l'information structurée.?
+<br>",/training/hard/roller-coaster,2,,2016-03-05 14:14:03.097999872,hard,,,3952,3821919a63b367d573237a07b6cda0053170f13,Montagnes russes,,CODE,100,375.0,4.58457711442786,402
+28,2,3439,False,2014-07-23 09:04:27.000000000,"Chez CodinGame on aime réinventer la roue. XML, JSON etc. c'est bien mais pour un web meilleur nous avons inventé notre propre format de données textuelles (nommé CGX) pour représenter de l'information structurée.?
 <br />
 Pour ce défi, il vous sera demandé d'écrire un programme capable d'identifier des blocs de texte en respectant les règles de formatage CGX.
 <u>Algo</u> : Formatage de texte.<br>
-<br>",/training/hard/cgx-formatter,2,,2019-09-05 18:34:31.071000064,hard,,,2513,390293851ed2e1a6d03bb2e0b234435b569f068,Indentation CGX,,CODE,100,250.0,4.357843137254902,204
+<br>",/training/hard/cgx-formatter,2,,2019-09-05 18:34:31.071000064,hard,,,2516,390293851ed2e1a6d03bb2e0b234435b569f068,Indentation CGX,,CODE,100,250.0,4.357843137254902,204
 29,2,2331,False,2014-07-23 09:05:15.000000000,"""Ouais, grave. Attends... Je vais devoir raccrocher, j'entre dans le métro... Non, pas le grossiste... Ouais... Ok, ben on se retrouve devant le musée alors... Non, pas celui-là, l'autre à côté de la place où on a pris un café l'autre jour. Prends le tram, ligne 6. Ouais. Ok. Salut.""<br />
 <br>
 <br>
 <u>Algo</u> : Recherche de chemin optimal.<br>
 <br>",/training/hard/tan-network,2,,2018-04-14 10:11:54.606000128,hard,,,1502,38739343b47fd17fedcf956dc37adb917e4056d,Réseau TAN,,CODE,100,250.0,4.303030303030303,132
-30,2,3607,False,2014-07-23 09:07:05.000000000,"Guanine, Thymine, Cytosine... Vous avez peut-être appris tout cela en cours de biologie au lycée, mais l'avez tout de suite oublié. Rassurez-vous, nous aussi. Le but de ce défi est de trouver comment superposer des chaînes de nucléotides (pardon, de caractères) de manière à ce qu'elles prennent le moins de place possible.<br>
+30,2,3613,False,2014-07-23 09:07:05.000000000,"Guanine, Thymine, Cytosine... Vous avez peut-être appris tout cela en cours de biologie au lycée, mais l'avez tout de suite oublié. Rassurez-vous, nous aussi. Le but de ce défi est de trouver comment superposer des chaînes de nucléotides (pardon, de caractères) de manière à ce qu'elles prennent le moins de place possible.<br>
 <br>
 <u>Algo</u> : Reconnaissance de motifs.<br>
-<br>",/training/hard/genome-sequencing,2,,2016-03-10 17:32:36.116000000,hard,,,2524,39035390c19c4101211b03e2774dfe5ffe349ab,Séquençage du génôme,,CODE,100,250.0,4.38265306122449,196
-31,2,3933,False,2014-07-23 09:07:27.000000000,"Saviez-vous que la distance entre votre pouce et votre auriculaire déployé fait approximativement 20cm ? Cela s'appelle l'empan. Très utile pour évaluer des distances, non ? en parlant d'évaluer des distances, sortez votre compas et vos équerre, car il vous faudra mesurer des surfaces dans ce défi.",/training/hard/surface,2,,2018-02-17 23:29:15.606000128,hard,,,3000,3876814e4bf99cca71735606f7c868ada62f73e,Surface,,CODE,100,250.0,4.602678571428571,224
-32,2,2955,False,2014-07-23 09:09:13.000000000,"Jackpot ! Bender se retrouve dans le bâtiment de CodinGame, véritable dédale de couloirs sans fin et comportant de nombreuses pièces. Les employés de CodinGame étant un peu distraits, ils laissent tomber des billets de banque sur leur passage (vers la machine à café, la piscine, le baby-foot, ...). Il y a un gros pactole à récupérer, et Bender n'est pas prêt de le manquer.<br>
+<br>",/training/hard/genome-sequencing,2,,2016-03-10 17:32:36.116000000,hard,,,2529,39035390c19c4101211b03e2774dfe5ffe349ab,Séquençage du génôme,,CODE,100,250.0,4.381909547738694,199
+31,2,3939,False,2014-07-23 09:07:27.000000000,"Saviez-vous que la distance entre votre pouce et votre auriculaire déployé fait approximativement 20cm ? Cela s'appelle l'empan. Très utile pour évaluer des distances, non ? en parlant d'évaluer des distances, sortez votre compas et vos équerre, car il vous faudra mesurer des surfaces dans ce défi.",/training/hard/surface,2,,2018-02-17 23:29:15.606000128,hard,,,3004,3876814e4bf99cca71735606f7c868ada62f73e,Surface,,CODE,100,250.0,4.604444444444445,225
+32,2,2958,False,2014-07-23 09:09:13.000000000,"Jackpot ! Bender se retrouve dans le bâtiment de CodinGame, véritable dédale de couloirs sans fin et comportant de nombreuses pièces. Les employés de CodinGame étant un peu distraits, ils laissent tomber des billets de banque sur leur passage (vers la machine à café, la piscine, le baby-foot, ...). Il y a un gros pactole à récupérer, et Bender n'est pas prêt de le manquer.<br>
 Aidez-le à ramasser un max de billets et à quitter le bâtiment avant que les employés de CodinGame ne le dépècent pour récupérer sa mémoire vive.<br>
 <br>
 <u>Algo</u> : Trajectoire pondérée.<br>
 <br>
-<i>Si vous aimez Bender et Futurama, essayez-donc les deux autres défis sur le même thème,  «&nbsp;Bender - Un robot dépressif&nbsp;» and «&nbsp;Bender - Complexité&nbsp;».</i>",/training/hard/bender-episode-2,2,,2016-03-08 17:04:18.563000064,hard,,,2089,3875577643028d69855f2ee98cd07665b6b5a4b,Bender - Episode 2,,CODE,100,250.0,4.541176470588235,170
-33,2,2473,False,2014-07-23 09:10:25.000000000,"Bender revient dans une aventure où plusieurs programmes écrits par des CodinGamers lui sont proposés, mais avant de les exécuter il veut pouvoir évaluer leurs performances. A vous de définir la complexité de ces algorithmes et choisir le plus optimal.<br>
+<i>Si vous aimez Bender et Futurama, essayez-donc les deux autres défis sur le même thème,  «&nbsp;Bender - Un robot dépressif&nbsp;» and «&nbsp;Bender - Complexité&nbsp;».</i>",/training/hard/bender-episode-2,2,,2016-03-08 17:04:18.563000064,hard,,,2093,3875577643028d69855f2ee98cd07665b6b5a4b,Bender - Episode 2,,CODE,100,250.0,4.543859649122807,171
+33,2,2476,False,2014-07-23 09:10:25.000000000,"Bender revient dans une aventure où plusieurs programmes écrits par des CodinGamers lui sont proposés, mais avant de les exécuter il veut pouvoir évaluer leurs performances. A vous de définir la complexité de ces algorithmes et choisir le plus optimal.<br>
 <br>
 <u>Algo</u> : Calcul de complexité.<br>
 <br>
-<i>Si vous aimez Bender et Futurama, essayez-donc les deux autres défis sur le même thème,  «&nbsp;Bender - Un robot dépressif&nbsp;» and «&nbsp;Bender - La machine à fric&nbsp;».</i>",/training/hard/bender-episode-3,2,,2017-07-22 21:51:38.561999872,hard,,,1424,3876831c5f3eedea1bfe8966675568a7208f0cd,Bender - Episode 3,,CODE,100,250.0,4.097087378640777,103
-35,2,3350,False,2014-07-23 09:21:29.000000000,"On lui avait pourtant dit : les temples maudits, ce n'est pas une tasse de thé ! Mais Indiana Jones n'écoute que sa bravoure, et le voilà dévalant en trombe un labyrinthe mouvant, poursuivi par des rochers manquant de l'écraser comme une crêpe.<br>
+<i>Si vous aimez Bender et Futurama, essayez-donc les deux autres défis sur le même thème,  «&nbsp;Bender - Un robot dépressif&nbsp;» and «&nbsp;Bender - La machine à fric&nbsp;».</i>",/training/hard/bender-episode-3,2,,2017-07-22 21:51:38.561999872,hard,,,1426,3876831c5f3eedea1bfe8966675568a7208f0cd,Bender - Episode 3,,CODE,100,250.0,4.104761904761904,105
+35,2,3354,False,2014-07-23 09:21:29.000000000,"On lui avait pourtant dit : les temples maudits, ce n'est pas une tasse de thé ! Mais Indiana Jones n'écoute que sa bravoure, et le voilà dévalant en trombe un labyrinthe mouvant, poursuivi par des rochers manquant de l'écraser comme une crêpe.<br>
 Aidez-le à trouver la sortie en évitant les pièges !
 <br>
 <br>
 <u>Algo</u> : Recherche de chemins.<br>
 <br>
-<i>Ce défi difficile est le deuxième d'une série de deux exercices proposés lors du challenge «&nbsp;The Last Crusade&nbsp;». Avant de vous y essayer, nous vous recommandons si ce n'est pas déjà fait de démarrer par le premier niveau, un défi facile qui vous fournira une base de code avant de vous attaquer à celui-ci.</i>",/training/hard/the-last-crusade-episode-2,0,,2018-02-06 21:33:47.263000064,hard,,,804,38714162b846eec9d41ea8f344491f5897cc061,The Last Crusade - Episode 2,,SOLO,32,250.0,4.483516483516484,91
-36,2,3464,False,2014-07-23 09:22:32.000000000,"<i>""Oups, j'ai oublié mon chapeau.""</i><br>
+<i>Ce défi difficile est le deuxième d'une série de deux exercices proposés lors du challenge «&nbsp;The Last Crusade&nbsp;». Avant de vous y essayer, nous vous recommandons si ce n'est pas déjà fait de démarrer par le premier niveau, un défi facile qui vous fournira une base de code avant de vous attaquer à celui-ci.</i>",/training/hard/the-last-crusade-episode-2,0,,2018-02-06 21:33:47.263000064,hard,,,805,38714162b846eec9d41ea8f344491f5897cc061,The Last Crusade - Episode 2,,SOLO,32,250.0,4.483516483516484,91
+36,2,3487,False,2014-07-23 09:22:32.000000000,"<i>""Oups, j'ai oublié mon chapeau.""</i><br>
 Indy revient dans une nouvelle série de dédales inédits et diablement compliqués pour vérifier si vous avez vraiment l'étoffe d'un vrai archéologue ! (Doctorat d'études en archéologie : facultatif. Savoir programmer en étant poursuivi par un rocher d'une tonne et demi : vivement recommandé.)
 <br>
 <br>
 <u>Algo</u> : Recherche de chemins.<br>
 <br>
-<i>Ce défi expert est le dernier (et inédit !) volet d'une série de trois exercices dont les deux premiers ont été proposés lors du challenge «&nbsp;The Last Crusade&nbsp;». Avant de vous y essayer, nous vous recommandons si ce n'est pas déjà fait de démarrer par les deux niveaux précédents qui vous fourniront une base de code avant de vous attaquer à celui-ci.</i>",/training/expert/the-last-crusade-episode-3,0,,,expert,,,278,,The Last Crusade - Episode 3,,SOLO,0,500.0,4.32258064516129,62
-37,2,4529,False,2014-07-23 09:23:21.000000000,"Bip. Biiiip. Bip. Bip.<br />
+<i>Ce défi expert est le dernier (et inédit !) volet d'une série de trois exercices dont les deux premiers ont été proposés lors du challenge «&nbsp;The Last Crusade&nbsp;». Avant de vous y essayer, nous vous recommandons si ce n'est pas déjà fait de démarrer par les deux niveaux précédents qui vous fourniront une base de code avant de vous attaquer à celui-ci.</i>",/training/expert/the-last-crusade-episode-3,0,,,expert,,,281,,The Last Crusade - Episode 3,,SOLO,0,500.0,4.317460317460317,63
+37,2,4552,False,2014-07-23 09:23:21.000000000,"Bip. Biiiip. Bip. Bip.<br />
 Au musée de la résistance se trouvent beaucoup de relevés d'échanges télégraphiques, mais ceux-ci sont encore encodés en code Morse. Pas de chance, c'est vous le stagiaire du musée à qui on va confier la basse besogne de décoder tous ces messages. Écrivez donc un programme qui fera le travail à votre place ;) . Une bonne occasion pour apprendre ce langage et briller en société.<br />
 Bip. Biiip. Bip. Bip.
 <br>
 <br>
 <u>Algo</u> : Déchiffrement.<br>
-<br>",/training/expert/the-resistance,2,,2018-09-02 07:52:24.584999936,expert,,,1775,3918706089ccb3ca8257c25e96309c334651a15,La résistance,,CODE,100,500.0,4.5855263157894735,304
-38,2,1912,False,2014-07-23 09:24:17.000000000,"Le Docteur s'est encore retrouvé dans de beaux draps. Un alien fort antipathique menace de s'approprier le TARDIS, son vaisseau spatial et temporel. Alors qu'une douce mélodie lui parvient à l'oreille, il sait que c'est sa dernier chance. Vite ! Aidez-le à retrouver les notes pour contrer les attaques de l'extra-terrestre.<br>
+<br>",/training/expert/the-resistance,2,,2018-09-02 07:52:24.584999936,expert,,,1786,3918706089ccb3ca8257c25e96309c334651a15,La résistance,,CODE,100,500.0,4.588235294117647,306
+38,2,1919,False,2014-07-23 09:24:17.000000000,"Le Docteur s'est encore retrouvé dans de beaux draps. Un alien fort antipathique menace de s'approprier le TARDIS, son vaisseau spatial et temporel. Alors qu'une douce mélodie lui parvient à l'oreille, il sait que c'est sa dernier chance. Vite ! Aidez-le à retrouver les notes pour contrer les attaques de l'extra-terrestre.<br>
 Pas besoin de savoir jouer du Mozart pour ce défi, et personne ne vous entendra chanter faux.
 <br>
 <br>
 <u>Algo</u> : Traitement d'images sous forme de tableaux de bits.<br>
 <br>
-<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Doctor Who&nbsp;». Avant de vous y essayer, pensez à regarder le niveau précédent, «&nbsp;Doctor Who - Le cadeau&nbsp;», sur le thème de Doctor Who et plus facile pour s'échauffer.</i>",/training/expert/music-scores,0,,2018-08-14 16:51:04.295000064,expert,,,973,39029082da7beda5f143d0ca406ff4df549a80d,Partitions de musique,,CODE,0,500.0,4.571428571428571,105
-39,3,3733,False,2014-07-23 09:25:46.000000000,"Vos radars ont détecté des signaux fortement intéressants qui pourraient potentiellement amener le robot martien à découvrir des formes de vie actives sur mars ! Le seul problème est que ces signaux semblent provenir d'une série de cavernes, et vous devrez améliorer votre système pour que le vaisseau puisse se poser à l'intérieur de la caverne et décharger le robot d'exploration. Si vous réussissez, c'est à coup sûr la légion d'honneur. Bonne chance, commandant.<br>
+<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Doctor Who&nbsp;». Avant de vous y essayer, pensez à regarder le niveau précédent, «&nbsp;Doctor Who - Le cadeau&nbsp;», sur le thème de Doctor Who et plus facile pour s'échauffer.</i>",/training/expert/music-scores,0,,2018-08-14 16:51:04.295000064,expert,,,978,39029082da7beda5f143d0ca406ff4df549a80d,Partitions de musique,,CODE,0,500.0,4.5754716981132075,106
+39,3,3751,False,2014-07-23 09:25:46.000000000,"Vos radars ont détecté des signaux fortement intéressants qui pourraient potentiellement amener le robot martien à découvrir des formes de vie actives sur mars ! Le seul problème est que ces signaux semblent provenir d'une série de cavernes, et vous devrez améliorer votre système pour que le vaisseau puisse se poser à l'intérieur de la caverne et décharger le robot d'exploration. Si vous réussissez, c'est à coup sûr la légion d'honneur. Bonne chance, commandant.<br>
 <br>
 <u>Algo</u> : Asservissement en rotation, position, vitesse.<br>
 <br>
-<i>Ce défi difficile est le troisième et dernier d'une série de trois exercices proposés lors du challenge «&nbsp;Mars Lander&nbsp;». Si vous avez des difficultés avec ce défi, n'hésitez pas à commencer par les deux niveaux précédents, «&nbsp;Mars&nbsp;Lander - Niveau 1 et 2&nbsp;»sur le même thème mais avec une difficulté moindre.</i>",/training/expert/mars-lander-episode-3,1,,2017-06-29 15:12:47.180000000,expert,,,771,3893822b684d517a5b9e72da94f1e643a3ce3b1,Mars Lander - Episode 3,,SOLO,50,750.0,4.629370629370629,143
-40,3,157655,False,2014-08-10 18:19:17.000000000,"Vous voilà commandant de la mission d'exploration <i>Mars&nbsp;Lander</i>, destinée à l'atterrissage d'un robot d'exploration du sol martien. Vos supérieurs à la NASA attendent beaucoup de votre part et vous aurez à prouver que vous avez l'étoffe d'un grand commandant intersidéral. Vous devrez faire atterrir le vaisseau sur mars en faisant attention à ce que l'arrivée se fasse en douceur.<br>
+<i>Ce défi difficile est le troisième et dernier d'une série de trois exercices proposés lors du challenge «&nbsp;Mars Lander&nbsp;». Si vous avez des difficultés avec ce défi, n'hésitez pas à commencer par les deux niveaux précédents, «&nbsp;Mars&nbsp;Lander - Niveau 1 et 2&nbsp;»sur le même thème mais avec une difficulté moindre.</i>",/training/expert/mars-lander-episode-3,1,,2017-06-29 15:12:47.180000000,expert,,,772,3893822b684d517a5b9e72da94f1e643a3ce3b1,Mars Lander - Episode 3,,SOLO,50,750.0,4.631944444444445,144
+40,3,158375,False,2014-08-10 18:19:17.000000000,"Vous voilà commandant de la mission d'exploration <i>Mars&nbsp;Lander</i>, destinée à l'atterrissage d'un robot d'exploration du sol martien. Vos supérieurs à la NASA attendent beaucoup de votre part et vous aurez à prouver que vous avez l'étoffe d'un grand commandant intersidéral. Vous devrez faire atterrir le vaisseau sur mars en faisant attention à ce que l'arrivée se fasse en douceur.<br>
 <br>
 <u>Algo</u> : Asservissement en vitesse.<br>
 <br>
-<i>Ce défi facile est le premier d'une série de trois exercices proposés lors du challenge «&nbsp;Mars Lander&nbsp;». Une fois résolu allez vous confronter au deuxième défi «&nbsp;Mars&nbsp;Lander - Level 2&nbsp;»sur le même thème mais avec une difficulté accrue !</i>",/training/easy/mars-lander-episode-1,3,,2016-03-03 15:00:18.127000064,easy,,,120776,37610657655cd7cdcef8dd9266d926e6cb56c04,Mars Lander - Episode 1,,SOLO,100,75.0,4.29670596815364,8227
-41,2,79172,False,2014-08-10 19:57:32.000000000,"<i>NA NA NA NA NA BATMAN</i><br>
+<i>Ce défi facile est le premier d'une série de trois exercices proposés lors du challenge «&nbsp;Mars Lander&nbsp;». Une fois résolu allez vous confronter au deuxième défi «&nbsp;Mars&nbsp;Lander - Level 2&nbsp;»sur le même thème mais avec une difficulté accrue !</i>",/training/easy/mars-lander-episode-1,3,,2016-03-03 15:00:18.127000064,easy,,,121339,37610657655cd7cdcef8dd9266d926e6cb56c04,Mars Lander - Episode 1,,SOLO,100,75.0,4.296841089944539,8294
+41,2,79974,False,2014-08-10 19:57:32.000000000,"<i>NA NA NA NA NA BATMAN</i><br>
 Une aventure de Batman comme on les aime : le Joker, des bombes, des otages, un compte à rebours, et un héros. Le héros, c'est vous. A vous de retrouver et désamorcer les bombes avant qu'elles n'explosent ! Alfred a tout prévu pour cela, et vous confie un détecteur de chaleur réglé sur la signature thermique des bombes du Joker. Facile ? On va voir.
 <br>
 <br>
 <u>Algo</u> : Convergence.<br>
 <br>
-<i>Ce défi moyen est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Shadows of the Knight&nbsp;». Une fois résolu, pourquoi ne pas tenter de coder le niveau suivant, «&nbsp;Triangulation&nbsp;», sur le même thème mais avec une difficulté accrue.</i>",/training/medium/shadows-of-the-knight-episode-1,2,,2016-03-03 15:00:18.127000064,medium,,,37172,37948176d59cf632aca21016800d20bdd0b2e34,Shadows of the Knight - Episode 1,,SOLO,100,100.0,4.588809239346873,5022
-42,3,8774,False,2014-08-10 20:00:22.000000000,"Le Joker est toujours en fuite ! En parlant de fuite, ça sent le gaz. Une nouvelle série de bombes a été placée dans les immeubles de la cité par le Joker. Armé du tout nouveau détecteur d'Alfred, ALF2.0, il vous faudra jouer des pieds et mains pour escalader ces immeubles et aller désamorcer les bombes.
+<i>Ce défi moyen est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Shadows of the Knight&nbsp;». Une fois résolu, pourquoi ne pas tenter de coder le niveau suivant, «&nbsp;Triangulation&nbsp;», sur le même thème mais avec une difficulté accrue.</i>",/training/medium/shadows-of-the-knight-episode-1,2,,2016-03-03 15:00:18.127000064,medium,,,37426,37948176d59cf632aca21016800d20bdd0b2e34,Shadows of the Knight - Episode 1,,SOLO,100,100.0,4.587702010248325,5074
+42,3,8843,False,2014-08-10 20:00:22.000000000,"Le Joker est toujours en fuite ! En parlant de fuite, ça sent le gaz. Une nouvelle série de bombes a été placée dans les immeubles de la cité par le Joker. Armé du tout nouveau détecteur d'Alfred, ALF2.0, il vous faudra jouer des pieds et mains pour escalader ces immeubles et aller désamorcer les bombes.
 <br>
 <br>
 <u>Algo</u> : Triangulation.<br>
 <br>
-<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Shadows of the Knight&nbsp;». Avant de vous y essayer, pensez à regarder le niveau précédent, «&nbsp;Détecteur de chaleur&nbsp;», sur le même thème mais avec une difficulté moindre.</i>",/training/expert/shadows-of-the-knight-episode-2,1,,2019-07-29 17:07:36.972000000,expert,,,1186,38938524ef8cdb1824ca66013e63dffc3b666c8,Shadows of the Knight - Episode 2,,SOLO,62,750.0,4.551971326164875,279
-43,1,1201793,False,2014-08-10 20:01:04.000000000,"Une mission didacticiel pour les nouveaux venus. Défendez la planète des attaques de vaisseaux extra-terrestres, armé d'un canon-laser automatisé.
+<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Shadows of the Knight&nbsp;». Avant de vous y essayer, pensez à regarder le niveau précédent, «&nbsp;Détecteur de chaleur&nbsp;», sur le même thème mais avec une difficulté moindre.</i>",/training/expert/shadows-of-the-knight-episode-2,1,,2019-07-29 17:07:36.972000000,expert,,,1195,38938524ef8cdb1824ca66013e63dffc3b666c8,Shadows of the Knight - Episode 2,,SOLO,62,750.0,4.555160142348755,281
+43,1,1208789,False,2014-08-10 20:01:04.000000000,"Une mission didacticiel pour les nouveaux venus. Défendez la planète des attaques de vaisseaux extra-terrestres, armé d'un canon-laser automatisé.
 
 <br>
 <br>
 <u>Algo</u>: recherche d'un minimum.<br>
 <br>
-<i>Ce défi très simple vous apprendra à utiliser l'IDE CodinGame en seulement quelques étapes.</i>",/training/easy/onboarding,1,,2016-03-03 15:00:18.127000064,tutorial,,,1006791,3754225339a13f861088688ec76646b21df72c5,Onboarding,,SOLO,100,5.0,4.641524185050478,58838
-44,2,4277,False,2014-09-27 18:34:07.000000000,"Aidez V à hacker le super-ordinateur «&nbsp;Destin&nbsp;» à partir de son vPad en plaçant correctement des fork-bombes seules capable de détruire ses défenses.
+<i>Ce défi très simple vous apprendra à utiliser l'IDE CodinGame en seulement quelques étapes.</i>",/training/easy/onboarding,1,,2016-03-03 15:00:18.127000064,tutorial,,,1012878,3754225339a13f861088688ec76646b21df72c5,Onboarding,,SOLO,100,5.0,4.64165277005744,59367
+44,2,4284,False,2014-09-27 18:34:07.000000000,"Aidez V à hacker le super-ordinateur «&nbsp;Destin&nbsp;» à partir de son vPad en plaçant correctement des fork-bombes seules capable de détruire ses défenses.
 <br>
 <br>
 <u>Algo</u> : force brute simple.<br>
 <br>
-<i>Ce défi difficile a été proposé lors du challenge «&nbsp;Vox Codei&nbsp;».</i>",/training/hard/vox-codei-episode-1,2,,2018-01-29 19:22:04.494000128,hard,,,1484,387304510b53b84aee97468166ba55cc2334df6,Vox Codei - Episode 1,,SOLO,100,250.0,4.658385093167702,161
-46,2,1636,False,2014-09-29 11:55:12.000000000,"Aidez V à hacker le super-ordinateur «&nbsp;Destin&nbsp;» à partir de son vPad en plaçant correctement des fork-bombes seules capable de détruire ses défenses.
+<i>Ce défi difficile a été proposé lors du challenge «&nbsp;Vox Codei&nbsp;».</i>",/training/hard/vox-codei-episode-1,2,,2018-01-29 19:22:04.494000128,hard,,,1488,387304510b53b84aee97468166ba55cc2334df6,Vox Codei - Episode 1,,SOLO,100,250.0,4.662576687116564,163
+46,2,1643,False,2014-09-29 11:55:12.000000000,"Aidez V à hacker le super-ordinateur «&nbsp;Destin&nbsp;» à partir de son vPad en plaçant correctement des fork-bombes seules capable de détruire ses défenses.
 <br>
 <br>
 <u>Algo</u> : brute-force, exploration.<br>
 <br>
-<i>Une version plus difficile du défi «&nbsp;Vox Codei&nbsp;» avec des blocs qui bougent !</i>",/training/expert/vox-codei-episode-2,0,,2018-02-17 23:51:01.246000128,expert,,,235,39238841d7f2fb5c4047037afa0402ec69215ab,Vox Codei - Episode 2,,SOLO,0,500.0,4.909090909090909,55
-47,2,33572,False,2014-10-25 18:06:21.000000000,"Marvin se retrouve coincé dans un générateur de clones ! Préparez votre serviette et aidez-le (ou les) à s'échapper en bloquant judicieusement des clones pour permettre à l'un d'entre eux d'atteindre la sortie en emprutant les bons ""Allègres Transports Verticaux"".
+<i>Une version plus difficile du défi «&nbsp;Vox Codei&nbsp;» avec des blocs qui bougent !</i>",/training/expert/vox-codei-episode-2,0,,2018-02-17 23:51:01.246000128,expert,,,238,39238841d7f2fb5c4047037afa0402ec69215ab,Vox Codei - Episode 2,,SOLO,0,500.0,4.909090909090909,55
+47,2,33654,False,2014-10-25 18:06:21.000000000,"Marvin se retrouve coincé dans un générateur de clones ! Préparez votre serviette et aidez-le (ou les) à s'échapper en bloquant judicieusement des clones pour permettre à l'un d'entre eux d'atteindre la sortie en emprutant les bons ""Allègres Transports Verticaux"".
 <br>
 <br>
 <u>Algo</u> : glouton.<br>
 <br>
-<i>Ce défi fait partie d'une série de deux exercices proposés lors du challenge «&nbsp;Don't Panic&nbsp;». Une fois résolu, dirigez-vous vers le niveau 2 où les choses vont largement se compliquer !</i>",/training/medium/don't-panic-episode-1,2,,2016-03-04 17:53:10.012000000,medium,,,23812,379631395ddfc157192fcad850ec3562a4c4715,Don't Panic - Episode 1,,SOLO,100,100.0,4.463886500429923,2326
-48,2,6332,False,2014-10-25 18:16:29.000000000,"Marvin est toujours coincé dans un générateur de clones ! Et aucun ascenseur pour atteindre la sortie ! Pourquoi ne pas sacrifier un ou deux clones pour construire les ascenseurs nécessaires ? Après tout seul un Marvin doit s'échapper pour continuer sa vie de déprime...
+<i>Ce défi fait partie d'une série de deux exercices proposés lors du challenge «&nbsp;Don't Panic&nbsp;». Une fois résolu, dirigez-vous vers le niveau 2 où les choses vont largement se compliquer !</i>",/training/medium/don't-panic-episode-1,2,,2016-03-04 17:53:10.012000000,medium,,,23878,379631395ddfc157192fcad850ec3562a4c4715,Don't Panic - Episode 1,,SOLO,100,100.0,4.466239316239316,2340
+48,2,6344,False,2014-10-25 18:16:29.000000000,"Marvin est toujours coincé dans un générateur de clones ! Et aucun ascenseur pour atteindre la sortie ! Pourquoi ne pas sacrifier un ou deux clones pour construire les ascenseurs nécessaires ? Après tout seul un Marvin doit s'échapper pour continuer sa vie de déprime...
 <br>
 <br>
 <u>Algo</u> : recherche de chemin le plus court, optimisation.<br>
 <br>
-<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Don't Panic&nbsp;». Avant de vous y essayer, échauffez-vous sur le niveau moyen «&nbsp;Les Clones&nbsp;».</i>",/training/hard/don't-panic-episode-2,1,,2018-08-13 15:03:02.665999872,hard,,,884,38666168343928940ce265512f826bbdc54d8c1,Don't Panic - Episode 2,,SOLO,70,250.0,4.680473372781065,169
-49,2,17862,False,2015-02-03 09:18:35.000000000,"<strong>Tentez ce défi et entrez dans le monde de Nintendo</strong>
+<i>Ce défi difficile est le second des deux exercices proposés lors du challenge «&nbsp;Don't Panic&nbsp;». Avant de vous y essayer, échauffez-vous sur le niveau moyen «&nbsp;Les Clones&nbsp;».</i>",/training/hard/don't-panic-episode-2,1,,2019-10-08 11:30:43.120000000,hard,,,886,38666168343928940ce265512f826bbdc54d8c1,Don't Panic - Episode 2,,SOLO,70,250.0,4.678362573099415,171
+49,2,17947,False,2015-02-03 09:18:35.000000000,"<strong>Tentez ce défi et entrez dans le monde de Nintendo</strong>
 <br />
 Trouvez une solution, faites-vous contacter et rencontrez l'équipe tech de Nintendo.
 <br />
-<em>Cet exercice n'est disponible qu'en C++</em>",/training/expert/nintendo-sponsored-contest,0,,,expert,,,344,3873448c55968b2a909be8494a2d24823cc99d7,Nintendo Sponsored Challenge,,CODE,0,500.0,4.714285714285714,42
-50,2,22963,False,2015-02-03 09:56:16.000000000,"<strong>Tentez ce défi et entrez dans le monde de Winamax</strong>
+<em>Cet exercice n'est disponible qu'en C++</em>",/training/expert/nintendo-sponsored-contest,0,,,expert,,,346,3873448c55968b2a909be8494a2d24823cc99d7,Nintendo Sponsored Challenge,,CODE,0,500.0,4.72093023255814,43
+50,2,23018,False,2015-02-03 09:56:16.000000000,"<strong>Tentez ce défi et entrez dans le monde de Winamax</strong>
 <br />
-Trouvez une solution, faites-vous contacter et rencontrez l'équipe tech de Winamax.",/training/medium/winamax-battle,2,,2016-03-03 15:00:18.127000064,medium,,,14884,3833755290e6ca0c7840841652c13cbb16c42a8,La Bataille,,CODE,100,100.0,4.184738955823293,498
+Trouvez une solution, faites-vous contacter et rencontrez l'équipe tech de Winamax.",/training/medium/winamax-battle,2,,2016-03-03 15:00:18.127000064,medium,,,14925,3833755290e6ca0c7840841652c13cbb16c42a8,La Bataille,,CODE,100,100.0,4.183235867446394,513
 51,0,15848,False,2015-02-03 10:01:03.000000000,"<strong>Tentez ce défi et entrez dans le monde de Teads</strong>
 <br />
 Trouvez une solution, faites-vous contacter et rencontrez l'équipe tech de Teads.",/training/medium/teads-sponsored-contest-hidden,0,,2016-03-05 09:19:20.076000000,medium,,,7200,384786172700e68c25f640237cc1be348cba98d,Teads Sponsored Challenge,,CODE,100,,4.25,40
-54,2,98484,False,2015-04-25 17:59:59.000000000,"Sion est attaquée de toutes parts ! Les humains libres comptent sur vous pour recoder le mécanisme d'armement des APUs (Armored Personal Unit) et donner à l'humanité un avantage décisif. Première phase : coder le mécanisme d'initialisation de l'APU.
+54,2,98751,False,2015-04-25 17:59:59.000000000,"Sion est attaquée de toutes parts ! Les humains libres comptent sur vous pour recoder le mécanisme d'armement des APUs (Armored Personal Unit) et donner à l'humanité un avantage décisif. Première phase : coder le mécanisme d'initialisation de l'APU.
 <br>
 
 <br>
 <u>Algo</u> : parcours de tableau.<br>
 <br>
-<i>Ce défi fait partie d'une série de deux exercices proposés lors du challenge «&nbsp;There is no Spoon&nbsp;». Une fois résolu, dirigez-vous vers le défi «&nbsp;APU : Phase d'amélioration&nbsp;» où les choses vont largement se compliquer !</i>",/training/medium/there-is-no-spoon-episode-1,2,,2016-03-03 15:00:18.127000064,medium,,,44949,37838296a6b6add5b363722c083a43bed5ce10c,There is no Spoon - Episode 1,,SOLO,100,100.0,4.405258764607679,4792
-55,2,6142,False,2015-04-25 19:08:58.000000000,"Sion est attaquée de toutes parts ! Les humains libres comptent sur vous pour recoder le mécanisme d'armement des APUs (Armored Personal Unit) et donner à l'humanité un avantage décisif. Deuxième phase : améliorer le circuit d'alimentation de l'APU sans court-circuit ni surchauffe.
+<i>Ce défi fait partie d'une série de deux exercices proposés lors du challenge «&nbsp;There is no Spoon&nbsp;». Une fois résolu, dirigez-vous vers le défi «&nbsp;APU : Phase d'amélioration&nbsp;» où les choses vont largement se compliquer !</i>",/training/medium/there-is-no-spoon-episode-1,2,,2016-03-03 15:00:18.127000064,medium,,,45114,37838296a6b6add5b363722c083a43bed5ce10c,There is no Spoon - Episode 1,,SOLO,100,100.0,4.404687824102883,4821
+55,2,6149,False,2015-04-25 19:08:58.000000000,"Sion est attaquée de toutes parts ! Les humains libres comptent sur vous pour recoder le mécanisme d'armement des APUs (Armored Personal Unit) et donner à l'humanité un avantage décisif. Deuxième phase : améliorer le circuit d'alimentation de l'APU sans court-circuit ni surchauffe.
 <br>
 
 <br>
 <u>Algo</u> : brute-force, récursion, heuristiques, backtracking.<br>
 <br>
-<i>Ce défi fait partie d'une série de deux exercices proposés lors du challenge «&nbsp;There is no Spoon&nbsp;». Avant de vous y essayer, échauffez-vous sur le niveau moyen «&nbsp;APU : Phase d'initialisation&nbsp;».</i>",/training/hard/there-is-no-spoon-episode-2,1,,2019-09-03 15:27:40.288999936,hard,,,904,38861825054dab068c9110b37e4bb7b652017c1,There is no Spoon - Episode 2,,SOLO,54,250.0,4.716216216216216,148
-56,0,7225,False,2015-04-28 16:49:34.000000000,"Votre vaisseau d'exploration de Mars vous emmène au dessus d'une zone rocheuse particulièrement difficile. Il vous faudra revoir et améliorer votre technique d'approche pour vous poser en douceur et sûrement sur le sol martien !<br>
+<i>Ce défi fait partie d'une série de deux exercices proposés lors du challenge «&nbsp;There is no Spoon&nbsp;». Avant de vous y essayer, échauffez-vous sur le niveau moyen «&nbsp;APU : Phase d'initialisation&nbsp;».</i>",/training/hard/there-is-no-spoon-episode-2,2,,2019-10-08 09:20:36.964999936,hard,,,905,38861825054dab068c9110b37e4bb7b652017c1,There is no Spoon - Episode 2,,SOLO,100,250.0,4.718120805369128,149
+56,0,7268,False,2015-04-28 16:49:34.000000000,"Votre vaisseau d'exploration de Mars vous emmène au dessus d'une zone rocheuse particulièrement difficile. Il vous faudra revoir et améliorer votre technique d'approche pour vous poser en douceur et sûrement sur le sol martien !<br>
 <br>
 <u>Algo</u> : Asservissement en rotation, position, vitesse.<br>
 <br>
-<i>Ce défi est de type optimisation. Il faudra consommer le moins de fuel possible.</i>",/multiplayer/optimization/mars-lander,0,2838.0,,optim,OPTIM,2277.0,2413,3923859371be4438a2b310884f5184dcfac6cc2,Mars Lander,2838.0,SOLO,84,,4.6,235
-57,0,10534,False,2015-04-28 17:02:57.000000000,"Marvin se retrouve coincé dans un générateur de clones ! Préparez votre serviette et aidez-le (ou les) à s'échapper en bloquant judicieusement des clones pour permettre à l'un d'entre eux d'atteindre la sortie en emprutant les bons ""Allègres Transports Verticaux"".
+<i>Ce défi est de type optimisation. Il faudra consommer le moins de fuel possible.</i>",/multiplayer/optimization/mars-lander,0,2855.0,,optim,OPTIM,2291.0,2425,3923859371be4438a2b310884f5184dcfac6cc2,Mars Lander,2855.0,SOLO,84,,4.600840336134453,238
+57,0,10555,False,2015-04-28 17:02:57.000000000,"Marvin se retrouve coincé dans un générateur de clones ! Préparez votre serviette et aidez-le (ou les) à s'échapper en bloquant judicieusement des clones pour permettre à l'un d'entre eux d'atteindre la sortie en emprutant les bons ""Allègres Transports Verticaux"".
 <br>
 <br>
 <u>Algo</u> : glouton.<br>
 <br>
-<i>Le défi est de réduire la taille de son code au maximum.</i>",/multiplayer/codegolf/don't-panic,0,7201.0,,codegolf,CODESIZE,1423.0,5571,393194607017943071d79b8d4f5f97c53b97119,Don't Panic,7201.0,SOLO,100,,4.437923250564334,443
-58,0,25078,False,2015-04-28 17:36:17.000000000,"Le marteau de Thor, <i>Mjöllnir</i> a perdu tout pouvoir... Saurez-vous guider Thor vers l'éclair de puissance afin de redonner sa force au marteau&nbsp;?<br>
+<i>Le défi est de réduire la taille de son code au maximum.</i>",/multiplayer/codegolf/don't-panic,0,7217.0,,codegolf,CODESIZE,1415.0,5580,393194607017943071d79b8d4f5f97c53b97119,Don't Panic,7217.0,SOLO,100,,4.4387527839643655,449
+58,0,25149,False,2015-04-28 17:36:17.000000000,"Le marteau de Thor, <i>Mjöllnir</i> a perdu tout pouvoir... Saurez-vous guider Thor vers l'éclair de puissance afin de redonner sa force au marteau&nbsp;?<br>
 <br>
 <u>Algo</u> : vérification de conditions (if...).<br>
 <br>
-<i>Le défi est de réduire la taille de son code au maximum.</i>",/multiplayer/codegolf/power-of-thor,0,24176.0,,codegolf,CODESIZE,1917.0,18861,3931872bcf83da63895b5c0b23406fe01640e15,Power of Thor,24176.0,SOLO,100,,4.442098092643052,1468
-60,0,7953,False,2015-06-29 07:57:37.394000000,"Aide Bilbo à s'échapper de la forêt enchantée en lui envoyant une séquence d'instructions spécifiques depuis le haut de ta tour de magicien. Essaye de garder ta séquence aussi court que possible afin que Bilbo ne reste pas coincer trop longtemps. 
+<i>Le défi est de réduire la taille de son code au maximum.</i>",/multiplayer/codegolf/power-of-thor,0,24232.0,,codegolf,CODESIZE,1918.0,18905,3931872bcf83da63895b5c0b23406fe01640e15,Power of Thor,24232.0,SOLO,100,,4.442789438050101,1477
+60,0,7981,False,2015-06-29 07:57:37.394000000,"Aide Bilbo à s'échapper de la forêt enchantée en lui envoyant une séquence d'instructions spécifiques depuis le haut de ta tour de magicien. Essaye de garder ta séquence aussi court que possible afin que Bilbo ne reste pas coincer trop longtemps. 
 <br>
 <br>
 <u>Sujet</u>: Code d'une machine de Turing.<br>
 <br>
-<i>Pour ce puzzle, vous devez réduire la taille du programme généré (en output) au maximum.</i>",/multiplayer/optimization/code-of-the-rings,0,3646.0,,optim,OPTIM,140.0,3196,3923868a5470617fa4190fe048440b1de5d17bf,Code of the Rings,3646.0,SOLO,100,,4.598958333333333,384
-63,0,14699,False,2014-03-03 00:00:00.000000000,"Dans ce jeu vous êtes un programme aux commandes du bolide mythique de tron : le lumicycle. Le lumicycle se déplace en ligne droite et ne peut tourner qu'à 90° laissant un ruban de lumière solide dans son sillage. Chaque lumicycle et son ruban associé ont une couleur differente sur la Grille.
-Si un lumicycle s'arrête, heurte un ruban de lumière ou sort de la Grille, il sera instantanément mis hors-jeu. Le dernier cycle en jeu gagne la manche.",/multiplayer/bot-programming/tron-battle,0,5410.0,2014-03-14 18:57:47.000000000,multi,,,0,29413388cd47db3b79df0d7c5a3c49baa56eaa,Tron Battle,5410.0,ARENA,0,,4.809523809523809,315
-64,0,10749,False,2014-04-07 00:00:00.000000000,"Une équipe de géologues découvre que de récentes failles terrestres ont fait remonter à la surface un minéral encore méconnu de l?homme, le Krysal, aux vertus régénérantes sans égal?
-Le but de votre mission est de dominer des zones de Krysal en dirigeant entre 3 et 11 drones selon les parties et vous êtes confronté à 1, 2 ou 3 autres joueurs disposant chacun d?autant de drones que vous.",/multiplayer/bot-programming/game-of-drones,0,2857.0,2019-09-21 02:43:18.247000064,multi,,463.0,0,4835743597e18b0549077b4d2e418207131db64,Game of Drones,786.0,ARENA,0,,4.576388888888889,144
-65,0,4046,False,2015-01-30 00:00:00.000000000,"Ce jeu fait suite à Platinum Rift dans lequel votre objectif était de retourner sur Terre pour miner et extraire un maximum de Platine servant à augmenter la population de votre faction.
-Dans Platinum Rift 2, vos nouvelles unités sont créées dans votre base et votre objectif est de capturer la base adverse.",/multiplayer/bot-programming/platinum-rift-episode-2,0,1533.0,2019-09-29 15:23:49.412999936,multi,,819.0,0,381409054da1230bbc8c2df443d678002c96b6d,Platinum Rift - Episode 2,1533.0,MULTI,0,,4.64,75
-66,0,5865,False,2014-09-02 00:00:00.000000000,"Toute forme de vie biologique a depuis longtemps disparu de la Terre. Celle-ci a été éliminée il y a plus de 200 000 ans par des êtres synthétiques et pensants, les Platicons.
+<i>Pour ce puzzle, vous devez réduire la taille du programme généré (en output) au maximum.</i>",/multiplayer/optimization/code-of-the-rings,0,3657.0,,optim,OPTIM,127.0,3208,3923868a5470617fa4190fe048440b1de5d17bf,Code of the Rings,3657.0,SOLO,100,,4.601036269430052,386
+63,0,14712,False,2014-03-03 00:00:00.000000000,"Dans ce jeu vous êtes un programme aux commandes du bolide mythique de tron : le lumicycle. Le lumicycle se déplace en ligne droite et ne peut tourner qu'à 90° laissant un ruban de lumière solide dans son sillage. Chaque lumicycle et son ruban associé ont une couleur differente sur la Grille.
+Si un lumicycle s'arrête, heurte un ruban de lumière ou sort de la Grille, il sera instantanément mis hors-jeu. Le dernier cycle en jeu gagne la manche.",/multiplayer/bot-programming/tron-battle,0,5418.0,2014-03-14 18:57:47.000000000,multi,,,0,29413388cd47db3b79df0d7c5a3c49baa56eaa,Tron Battle,5418.0,ARENA,0,,4.809523809523809,315
+64,0,10755,False,2014-04-07 00:00:00.000000000,"Une équipe de géologues découvre que de récentes failles terrestres ont fait remonter à la surface un minéral encore méconnu de l?homme, le Krysal, aux vertus régénérantes sans égal?
+Le but de votre mission est de dominer des zones de Krysal en dirigeant entre 3 et 11 drones selon les parties et vous êtes confronté à 1, 2 ou 3 autres joueurs disposant chacun d?autant de drones que vous.",/multiplayer/bot-programming/game-of-drones,0,2860.0,2019-09-21 02:43:18.247000064,multi,,462.0,0,4835743597e18b0549077b4d2e418207131db64,Game of Drones,785.0,ARENA,0,,4.576388888888889,144
+65,0,4051,False,2015-01-30 00:00:00.000000000,"Ce jeu fait suite à Platinum Rift dans lequel votre objectif était de retourner sur Terre pour miner et extraire un maximum de Platine servant à augmenter la population de votre faction.
+Dans Platinum Rift 2, vos nouvelles unités sont créées dans votre base et votre objectif est de capturer la base adverse.",/multiplayer/bot-programming/platinum-rift-episode-2,0,1536.0,2019-09-30 06:41:59.872999936,multi,,810.0,0,381409054da1230bbc8c2df443d678002c96b6d,Platinum Rift - Episode 2,1536.0,MULTI,0,,4.64,75
+66,0,5868,False,2014-09-02 00:00:00.000000000,"Toute forme de vie biologique a depuis longtemps disparu de la Terre. Celle-ci a été éliminée il y a plus de 200 000 ans par des êtres synthétiques et pensants, les Platicons.
 La période glaciaire touchant à sa fin, il est temps pour les Platicons de retourner sur Terre pour miner, extraire un maximum de Platine et ainsi produire plus de membres de leur faction.
-Vous êtes à la tête d'une faction et votre objectif est de reconquérir la planète Terre.",/multiplayer/bot-programming/platinum-rift-episode-1,0,1781.0,2019-09-23 12:03:22.144000000,multi,,756.0,0,9865913da299b039a596ba46f77739812f6665c,Platinum Rift - Episode 1,779.0,ARENA,0,,4.4935064935064934,77
-67,0,11799,False,2015-02-23 00:00:00.000000000,"Cette fois, pas de robots d'acier, pas de jetons gloutons ou de drones guerriers, CodinGame vous propose de commencer cette année en douceur avec un jeu de plateau... à la CodinGame... Aidez nos charmants petits démons, les Codincarachas, à traverser un plateau de jeu pour retrouver la liberté.",/multiplayer/bot-programming/great-escape,0,3480.0,2019-09-02 10:51:29.894000128,multi,,98.0,0,6738131364e1f4fc81466c524a24c7e4d9568ba,Great escape,602.0,ARENA,0,,4.492753623188406,138
-68,0,7113,False,2014-09-01 00:00:00.000000000,"Votre objectif est simple : programmer le déplacement de vos jetons lors d'une partie de PokerChipRace pour gagner.
+Vous êtes à la tête d'une faction et votre objectif est de reconquérir la planète Terre.",/multiplayer/bot-programming/platinum-rift-episode-1,0,1782.0,2019-10-04 15:18:48.036000000,multi,,757.0,0,9865913da299b039a596ba46f77739812f6665c,Platinum Rift - Episode 1,780.0,ARENA,0,,4.4935064935064934,77
+67,0,11811,False,2015-02-23 00:00:00.000000000,"Cette fois, pas de robots d'acier, pas de jetons gloutons ou de drones guerriers, CodinGame vous propose de commencer cette année en douceur avec un jeu de plateau... à la CodinGame... Aidez nos charmants petits démons, les Codincarachas, à traverser un plateau de jeu pour retrouver la liberté.",/multiplayer/bot-programming/great-escape,0,3492.0,2019-10-03 23:25:14.601999872,multi,,113.0,0,6738131364e1f4fc81466c524a24c7e4d9568ba,Great escape,608.0,ARENA,0,,4.496402877697841,139
+68,0,7114,False,2014-09-01 00:00:00.000000000,"Votre objectif est simple : programmer le déplacement de vos jetons lors d'une partie de PokerChipRace pour gagner.
 Une partie de PokerChipRace se joue sur un tapis où des jetons se déplacent, mangent des gouttes de pétrole et d'autres jetons ou se font manger avec l'objectif de devenir les seuls survivants.",/multiplayer/bot-programming/poker-chip-race,0,2163.0,2016-03-14 16:14:19.092999936,multi,,,0,38793267d27233d1d4bb947e78908cbada41aea,Poker Chip Race,2163.0,ARENA,0,,4.3283582089552235,67
-69,0,18502,False,2015-10-08 00:00:00.000000000,"Nom de Zeus ! Marty vient de libérer toute l'énergie nécessaire à son retour en 1985. Heureusement, le Doc lui a confectionné un dispositif capable de récupérer l'énergie positronique générée par les fluctuations du continuum espace-temps afin d'accumuler les 2,21 gigowatts nécessaire à son voyage dans le temps.
-Vous devez l'aider à programmer son overboard pour accumuler assez d?énergie avant que Biff ne reviennent avant lui.",/multiplayer/bot-programming/back-to-the-code,0,4569.0,,multi,,,0,3874147fd60408a3d1709accbdbe321c360e7d5,Back to the Code,4569.0,MULTI,0,,4.2875,80
-70,0,13100,False,2015-12-16 14:33:53.469000000,"Protégez les humains durant une apocalypse de zombies en contrôlant Ash, un homme lourdement armé d'une mitrailleuse. Marquez plus de points en tuant plusieurs zombies pendant un même tour. Plus il y a d'humains encore en vie et plus vous gagnerez de points en tuant des zombies. Est-ce que vous allez privilégier le fait de sauver un maximum de vies ou est-ce que vous allez essayer d'exploser les zombies de la manière la plus originale qui soit ?
+69,0,18504,False,2015-10-08 00:00:00.000000000,"Nom de Zeus ! Marty vient de libérer toute l'énergie nécessaire à son retour en 1985. Heureusement, le Doc lui a confectionné un dispositif capable de récupérer l'énergie positronique générée par les fluctuations du continuum espace-temps afin d'accumuler les 2,21 gigowatts nécessaire à son voyage dans le temps.
+Vous devez l'aider à programmer son overboard pour accumuler assez d?énergie avant que Biff ne reviennent avant lui.",/multiplayer/bot-programming/back-to-the-code,0,4570.0,,multi,,,0,3874147fd60408a3d1709accbdbe321c360e7d5,Back to the Code,4570.0,MULTI,0,,4.296296296296297,81
+70,0,13147,False,2015-12-16 14:33:53.469000000,"Protégez les humains durant une apocalypse de zombies en contrôlant Ash, un homme lourdement armé d'une mitrailleuse. Marquez plus de points en tuant plusieurs zombies pendant un même tour. Plus il y a d'humains encore en vie et plus vous gagnerez de points en tuant des zombies. Est-ce que vous allez privilégier le fait de sauver un maximum de vies ou est-ce que vous allez essayer d'exploser les zombies de la manière la plus originale qui soit ?
 <br>
 <br>
-<i>Pour ce puzzle, vous devez maximiser le nombre de points obtenus à chaque jeu de test.</i>",/multiplayer/optimization/code-vs-zombies,0,5240.0,,optim,OPTIM,1382.0,3205,392387661640f8682d6acba73416ec189fc55a4,Code vs Zombies,5240.0,SOLO,100,,4.670491803278688,610
-71,0,27368,False,2016-01-08 17:40:13.677000000,"Vous aimez CodinGame ?
+<i>Pour ce puzzle, vous devez maximiser le nombre de points obtenus à chaque jeu de test.</i>",/multiplayer/optimization/code-vs-zombies,0,5256.0,,optim,OPTIM,1388.0,3212,392387661640f8682d6acba73416ec189fc55a4,Code vs Zombies,5256.0,SOLO,100,,4.671009771986971,614
+71,0,27504,False,2016-01-08 17:40:13.677000000,"Vous aimez CodinGame ?
 <br>
 <br>
-Résolvez ce challenge, montrez-nous de quoi vous êtes capables et rencontrez notre équipe tech !",/multiplayer/optimization/codingame-sponsored-contest,0,9998.0,,optim,OPTIM,681.0,10159,48388371e0a0faa7368dd8709b7519c58068995,CodinGame Sponsored Challenge,9998.0,SOLO,100,,4.090694935217903,849
-73,0,12942,False,2016-01-28 13:33:21.417000000,Il fait froid ! Saurez-vous trouver la température la plus proche de zéro dans un relevé de températures ?,/multiplayer/codegolf/temperature-code-golf,0,10716.0,,codegolf,CODESIZE,1515.0,9281,3931856255484fdd6029900679c1700311cc8d9,Températures,10716.0,CODE,100,,4.331433998100665,1053
-76,0,2313,True,2016-02-23 18:10:34.286000000,,/training/medium/game-of-life,0,,2016-12-16 18:56:23.040999936,medium,,,1786,3927298735c54e5818ed58944a677bdfbd9801a,Le jeu de la vie,,CODE,100,50.0,4.3310580204778155,293
-77,0,853,True,2016-02-23 18:10:34.286000000,,/training/medium/vote-counting,0,,2016-05-19 18:55:49.009999872,medium,,,701,44764145f8d8fbe85c39e82dfe9b954c982cbb1,Comptage de votes,,CODE,100,50.0,4.017857142857143,112
-78,0,3392,True,2016-02-23 18:10:34.286000000,,/training/medium/gravity,0,,2016-03-12 22:52:49.910000128,medium,,,2890,3921469d21684aed157dc45de97951f2380de8b,Gravité,,CODE,100,50.0,4.376404494382022,356
-79,0,691,True,2016-02-23 18:10:34.286000000,,/training/expert/staircases,0,,,expert,,,273,393091010d7a9e84a48bd2065b2acac312d7c42,Escaliers,,CODE,0,50.0,4.434782608695652,46
-84,0,552,True,2016-02-23 18:10:34.286000000,,/training/hard/cryptarithm,0,,,hard,,,255,393090259bf6cdf3a1ff05a0d5fe08796a5b119,Cryptorithme,,CODE,0,50.0,4.564102564102564,39
-85,0,995,True,2016-02-23 18:10:34.286000000,,/training/hard/mystery-sums,0,,2016-08-01 12:20:53.611000064,hard,,,442,393006352398da90904b67ad07ad185f3e33d1d,Calcul à trous,,CODE,0,50.0,4.280487804878049,82
+Résolvez ce challenge, montrez-nous de quoi vous êtes capables et rencontrez notre équipe tech !",/multiplayer/optimization/codingame-sponsored-contest,0,10046.0,,optim,OPTIM,684.0,10205,48388371e0a0faa7368dd8709b7519c58068995,CodinGame Sponsored Challenge,10046.0,SOLO,100,,4.091228070175439,855
+73,0,12991,False,2016-01-28 13:33:21.417000000,Il fait froid ! Saurez-vous trouver la température la plus proche de zéro dans un relevé de températures ?,/multiplayer/codegolf/temperature-code-golf,0,10760.0,,codegolf,CODESIZE,1471.0,9310,3931856255484fdd6029900679c1700311cc8d9,Températures,10760.0,CODE,100,,4.334277620396601,1059
+76,0,2316,True,2016-02-23 18:10:34.286000000,,/training/medium/game-of-life,0,,2016-12-16 18:56:23.040999936,medium,,,1787,3927298735c54e5818ed58944a677bdfbd9801a,Le jeu de la vie,,CODE,100,50.0,4.3310580204778155,293
+77,0,855,True,2016-02-23 18:10:34.286000000,,/training/medium/vote-counting,0,,2016-05-19 18:55:49.009999872,medium,,,702,44764145f8d8fbe85c39e82dfe9b954c982cbb1,Comptage de votes,,CODE,100,50.0,4.017857142857143,112
+78,0,3396,True,2016-02-23 18:10:34.286000000,,/training/medium/gravity,0,,2016-03-12 22:52:49.910000128,medium,,,2894,3921469d21684aed157dc45de97951f2380de8b,Gravité,,CODE,100,50.0,4.378151260504202,357
+79,0,693,True,2016-02-23 18:10:34.286000000,,/training/expert/staircases,0,,,expert,,,275,393091010d7a9e84a48bd2065b2acac312d7c42,Escaliers,,CODE,0,50.0,4.434782608695652,46
+84,0,553,True,2016-02-23 18:10:34.286000000,,/training/hard/cryptarithm,0,,,hard,,,255,393090259bf6cdf3a1ff05a0d5fe08796a5b119,Cryptorithme,,CODE,0,50.0,4.564102564102564,39
+85,0,996,True,2016-02-23 18:10:34.286000000,,/training/hard/mystery-sums,0,,2016-08-01 12:20:53.611000064,hard,,,443,393006352398da90904b67ad07ad185f3e33d1d,Calcul à trous,,CODE,0,50.0,4.27710843373494,83
 86,0,362,True,2016-02-23 18:10:34.286000000,,/training/medium/dominoes-path,0,,,medium,,,266,396837905de75d849f4b9f459439e799fe660dc,Le chemin de dominos,,CODE,0,50.0,4.2894736842105265,38
-87,0,1352,True,2016-02-23 18:10:34.286000000,,/training/medium/bust-speeding-vehicles,0,,2017-07-24 18:40:02.216000000,medium,,,1058,392147780fe8156b8016292c4e51e5d1d040852,Pris en excès de vitesse,,CODE,100,50.0,4.104972375690608,181
-89,0,653,True,2016-02-23 18:10:34.286000000,,/training/hard/alternative-vote,0,,2016-03-13 10:10:49.512000000,hard,,,382,3927322cb4e96af572507953d597523d2668ce7,Vote alternatif,,CODE,100,50.0,4.026315789473684,76
-95,0,1203,True,2016-02-23 18:10:34.286000000,,/training/medium/ascii-graph,0,,2016-03-12 23:11:43.534000128,medium,,,982,39281566ce1fc544793784e62d5a869f313f44f,Graphique Ascii,,CODE,100,50.0,4.3478260869565215,161
-96,0,762,True,2016-02-23 18:10:34.286000000,,/training/hard/mini-sudoku-solver,0,,2019-09-05 18:00:55.715000064,hard,,,516,39313449da5330d0f9fe404211556b81c9062cf,Solveur de mini sudoku,,CODE,0,50.0,4.470588235294118,68
-97,0,529,True,2016-02-23 18:10:34.286000000,,/training/hard/reverse-polish-notation,0,,2016-07-20 18:44:10.196999936,hard,,,330,467683863299615fa92e2f5054a31cd9dabfd97,Reverse Polish Notation,,CODE,0,50.0,3.3768115942028984,69
-100,0,431,True,2016-02-23 18:10:34.286000000,,/training/hard/test-before-validate!,0,,2016-07-22 18:20:14.020999936,hard,,,207,3930072d4449ff291cc140bd2fdb98c9c3f1303,Tester avant Valider!,,CODE,75,50.0,3.119047619047619,42
-103,0,3076,True,2016-02-23 18:10:34.286000000,,/training/medium/minimal-number-of-swaps,0,,2016-03-11 22:10:26.708000000,medium,,,2337,37819487386c7aa7bcedd8caeb74ed49c86d63e,Nombre d'échanges minimum,,CODE,100,50.0,4.1571428571428575,210
-104,0,2578,True,2016-02-23 18:10:34.286000000,,/training/medium/rubik®,0,,2017-07-07 16:40:28.376000000,medium,,,2173,39272727d7d3fad97b56463027b11d4909a9879,Rubik®,,CODE,100,50.0,3.8495297805642634,319
+87,0,1352,True,2016-02-23 18:10:34.286000000,,/training/medium/bust-speeding-vehicles,0,,2017-07-24 18:40:02.216000000,medium,,,1058,392147780fe8156b8016292c4e51e5d1d040852,Pris en excès de vitesse,,CODE,100,50.0,4.104395604395604,182
+89,0,654,True,2016-02-23 18:10:34.286000000,,/training/hard/alternative-vote,0,,2016-03-13 10:10:49.512000000,hard,,,382,3927322cb4e96af572507953d597523d2668ce7,Vote alternatif,,CODE,100,50.0,4.026315789473684,76
+95,0,1205,True,2016-02-23 18:10:34.286000000,,/training/medium/ascii-graph,0,,2016-03-12 23:11:43.534000128,medium,,,982,39281566ce1fc544793784e62d5a869f313f44f,Graphique Ascii,,CODE,100,50.0,4.3478260869565215,161
+96,0,764,True,2016-02-23 18:10:34.286000000,,/training/hard/mini-sudoku-solver,0,,2019-09-05 18:00:55.715000064,hard,,,518,39313449da5330d0f9fe404211556b81c9062cf,Solveur de mini sudoku,,CODE,0,50.0,4.478260869565218,69
+97,0,530,True,2016-02-23 18:10:34.286000000,,/training/hard/reverse-polish-notation,0,,2016-07-20 18:44:10.196999936,hard,,,331,467683863299615fa92e2f5054a31cd9dabfd97,Reverse Polish Notation,,CODE,0,50.0,3.3768115942028984,69
+100,0,433,True,2016-02-23 18:10:34.286000000,,/training/hard/test-before-validate!,0,,2016-07-22 18:20:14.020999936,hard,,,208,3930072d4449ff291cc140bd2fdb98c9c3f1303,Tester avant Valider!,,CODE,75,50.0,3.119047619047619,42
+103,0,3078,True,2016-02-23 18:10:34.286000000,,/training/medium/minimal-number-of-swaps,0,,2016-03-11 22:10:26.708000000,medium,,,2337,37819487386c7aa7bcedd8caeb74ed49c86d63e,Nombre d'échanges minimum,,CODE,100,50.0,4.1571428571428575,210
+104,0,2583,True,2016-02-23 18:10:34.286000000,,/training/medium/rubik®,0,,2017-07-07 16:40:28.376000000,medium,,,2177,39272727d7d3fad97b56463027b11d4909a9879,Rubik®,,CODE,100,50.0,3.853125,320
 106,0,522,True,2016-02-23 18:10:34.286000000,,/training/medium/cgs-minifier,0,,2019-08-18 14:09:28.086000128,medium,,,423,3928234e8df360ee1186d414023aaccb264f24e,Minifier CGS,,CODE,100,50.0,4.266666666666667,60
-108,0,7540,True,2016-02-23 18:10:34.286000000,,/training/easy/brackets-extreme-edition,0,,2016-03-12 20:26:50.203000064,easy,,,6450,39271245e9a0b390d9ed32352f22b4c07723f34,Expressions parenthésées,,CODE,100,50.0,4.36569274269557,1061
+108,0,7585,True,2016-02-23 18:10:34.286000000,,/training/easy/brackets-extreme-edition,0,,2016-03-12 20:26:50.203000064,easy,,,6487,39271245e9a0b390d9ed32352f22b4c07723f34,Expressions parenthésées,,CODE,100,50.0,4.362873134328358,1072
 109,0,382,True,2016-02-23 18:10:34.286000000,,/training/hard/castle-siege,0,,,hard,,,256,39313308b360ab6a56d163ef436d09f3da396bc,Chateau assiegé,,CODE,0,50.0,4.375,40
-111,0,6196,True,2016-02-23 18:10:34.286000000,,/training/medium/the-fastest,0,,2016-03-12 20:31:38.657999872,medium,,,5174,392723825a90589dcce8eeede8f8adddb725c15,Le plus rapide,,CODE,100,50.0,3.8480243161094223,658
+111,0,6197,True,2016-02-23 18:10:34.286000000,,/training/medium/the-fastest,0,,2016-03-12 20:31:38.657999872,medium,,,5176,392723825a90589dcce8eeede8f8adddb725c15,Le plus rapide,,CODE,100,50.0,3.8467374810318664,659
 112,0,1097,True,2016-02-23 18:10:34.286000000,,/training/medium/ddcg-mapper,0,,,medium,,,899,3928131865681f383970429d812dde2fe890a49,DDCG Mapper,,CODE,0,50.0,4.193333333333333,150
 113,0,447,True,2016-02-23 18:10:34.286000000,,/training/hard/txt2html,0,,,hard,,,328,48985561a8958341bd6fec72a6bebba84c44ce1,TXT2HTML,,CODE,0,50.0,4.107142857142857,28
-116,0,966,True,2016-02-23 18:10:34.286000000,,/training/medium/maze,0,,2018-02-06 16:16:34.056999936,medium,,,708,392991601b1037aac000e9d66490ba7fbfac3e6,Labyrinthe,,CODE,100,50.0,4.486111111111111,144
+116,0,967,True,2016-02-23 18:10:34.286000000,,/training/medium/maze,0,,2018-02-06 16:16:34.056999936,medium,,,710,392991601b1037aac000e9d66490ba7fbfac3e6,Labyrinthe,,CODE,100,50.0,4.486111111111111,144
 119,0,824,True,2016-02-23 21:12:04.932000000,,/training/hard/boggle,0,,,hard,,,433,4835184ceae1fe41cd5b82b6db20a6dc1e3cc5c,Boggle,,CODE,0,50.0,4.48314606741573,89
 120,0,383,True,2016-02-24 10:56:09.190000000,,/training/medium/the-ultimate-test,0,,,medium,,,287,4481513b157063e846e798d95d4bf413cfb4402,The Ultimate Test,,CODE,0,50.0,4.113636363636363,44
-121,2,665517,False,2016-03-03 08:55:35.576000000,"L'enterprise est en danger : attirée vers le bas elle risque de s'écraser contre les montagnes d'une planète inconnue.<br>
+121,2,669562,False,2016-03-03 08:55:35.576000000,"L'enterprise est en danger : attirée vers le bas elle risque de s'écraser contre les montagnes d'une planète inconnue.<br>
 <br>
 Aidez Kirk et Spock à détruire les montagnes... sauvez l'enterprise !<br>
 <br>
 <u>Algo</u> : recherche dans un tableau.<br>
 <br>
-<i>Ce défi facile est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Kirk's Quest&nbsp;». Envie de connaître la suite de l'histoire ? Rendez-vous au deuxième défi de niveau difficile : «&nbsp;Le labyrinhte&nbsp;» </i>",/training/easy/the-descent,2,,2017-07-15 08:48:56.167000064,easy,,,366580,3893930a8ed7982bad8ffb16633abb14919cd60,La descente,,SOLO,100,50.0,4.356290045866741,28561
+<i>Ce défi facile est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Kirk's Quest&nbsp;». Envie de connaître la suite de l'histoire ? Rendez-vous au deuxième défi de niveau difficile : «&nbsp;Le labyrinhte&nbsp;» </i>",/training/easy/the-descent,2,,2017-07-15 08:48:56.167000064,easy,,,368443,3893930a8ed7982bad8ffb16633abb14919cd60,La descente,,SOLO,100,50.0,4.356651853909179,28804
 122,0,445,True,2016-03-04 13:22:01.505000000,,/training/hard/connect-four,0,,,hard,,,283,39214911c71f0487e9f65ba0032c0b28026e261,Puissance 4,,CODE,0,50.0,4.310344827586207,29
 123,0,1836,True,2016-03-06 13:35:54.843000000,,/training/medium/these-romans-are-crazy!,0,,2016-05-20 12:44:16.007000064,medium,,,1405,3931349726d65cfbe8b2033a9a78bc7c6eaa75e,Ils sont fous ces romains !,,CODE,100,50.0,4.3120567375886525,141
 125,0,1050,True,2016-03-09 13:12:51.692000000,,/training/hard/spreadsheet-labels,0,,2016-05-20 13:33:39.009999872,hard,,,551,392855628dcf56775f4920865b11e5b2f5b52e6,Spreadsheet Labels,,CODE,100,50.0,4.407766990291262,103
-126,0,309,True,2016-03-10 12:57:55.923000000,,/training/expert/squares-order,0,,2016-03-13 19:35:32.128000000,expert,,,110,39286430184ea4b69dda7910ffa44380028fb71,Squares order,,CODE,0,50.0,4.333333333333333,27
-127,0,793,True,2016-03-14 14:14:23.227000000,,/training/hard/candies,0,,2018-03-05 17:50:30.057999872,hard,,,512,3966166dbdaf75706e81a08c2eb937783701b09,Candies,,CODE,100,50.0,4.134831460674158,89
-128,0,454,True,2016-03-15 13:06:30.851000000,,/training/medium/divine!,0,,,medium,,,287,396617594e06bd647d675595dc515ab47d8383c,Divine!,,CODE,0,50.0,4.2592592592592595,54
+126,0,310,True,2016-03-10 12:57:55.923000000,,/training/expert/squares-order,0,,2016-03-13 19:35:32.128000000,expert,,,111,39286430184ea4b69dda7910ffa44380028fb71,Squares order,,CODE,0,50.0,4.357142857142857,28
+127,0,794,True,2016-03-14 14:14:23.227000000,,/training/hard/candies,0,,2018-03-05 17:50:30.057999872,hard,,,513,3966166dbdaf75706e81a08c2eb937783701b09,Candies,,CODE,100,50.0,4.134831460674158,89
+128,0,456,True,2016-03-15 13:06:30.851000000,,/training/medium/divine!,0,,,medium,,,289,396617594e06bd647d675595dc515ab47d8383c,Divine!,,CODE,0,50.0,4.254545454545455,55
 129,0,379,True,2016-03-16 18:19:35.101000000,,/training/expert/haunted-manor,0,,,expert,,,98,39661774884d4fe5521a02da4c5045eb048dc99,Haunted Manor,,CODE,0,50.0,4.885714285714286,35
 130,0,463,True,2016-03-22 12:23:50.527000000,,/training/hard/electrical-grid,0,,,hard,,,216,4019166fd9f5d0e5b20db3dbe77733c7e88582c,Electrical grid,,CODE,0,50.0,4.4523809523809526,42
 131,0,896,True,2016-03-23 10:16:10.769000000,,/training/medium/2-5d-maze,0,,,medium,,,286,,2.5D maze,,CODE,0,50.0,4.117647058823529,68
-132,0,244,True,2016-03-24 10:07:09.107000000,,/training/medium/othello,0,,,medium,,,199,,Othello,,CODE,0,50.0,4.342105263157895,38
-133,0,5137,True,2016-03-25 19:12:29.211000000,,/training/easy/may-the-triforce-be-with-you,0,,2016-05-19 21:05:13.008000000,easy,,,4131,4019184060775d16bde2860b83e33aa5d60d212,May the Triforce be with you!,,CODE,100,50.0,4.234567901234568,567
-134,0,511,True,2016-03-26 13:56:49.520000000,,/training/hard/binary-permutations,0,,,hard,,,232,4034725c052508488674a18d0db33d356b8374b,Binary Permutations,,CODE,0,50.0,4.46,50
-135,0,218,True,2016-03-27 18:16:01.722000000,,/training/hard/tetris,0,,,hard,,,150,,Tetris,,CODE,0,50.0,4.0,29
-136,0,227,True,2016-03-28 13:19:43.839000000,,/training/hard/erdos-number,0,,,hard,,,159,447738972d5b5a9df498be4edeb2b78c3688a66,Erd?s Number,,CODE,0,50.0,4.3076923076923075,26
-137,0,1667,True,2016-03-29 18:34:35.488000000,,/training/expert/recurring-decimals,0,,2016-07-12 15:26:49.009999872,expert,,,621,41296368a2df2e2c28ef14757c85c47594b958b,Recurring Decimals,,CODE,62,50.0,4.478260869565218,69
+132,0,245,True,2016-03-24 10:07:09.107000000,,/training/medium/othello,0,,,medium,,,199,,Othello,,CODE,0,50.0,4.342105263157895,38
+133,0,5166,True,2016-03-25 19:12:29.211000000,,/training/easy/may-the-triforce-be-with-you,0,,2016-05-19 21:05:13.008000000,easy,,,4149,4019184060775d16bde2860b83e33aa5d60d212,May the Triforce be with you!,,CODE,100,50.0,4.234265734265734,572
+134,0,512,True,2016-03-26 13:56:49.520000000,,/training/hard/binary-permutations,0,,,hard,,,233,4034725c052508488674a18d0db33d356b8374b,Binary Permutations,,CODE,0,50.0,4.46,50
+135,0,220,True,2016-03-27 18:16:01.722000000,,/training/hard/tetris,0,,,hard,,,151,,Tetris,,CODE,0,50.0,3.933333333333333,30
+136,0,227,True,2016-03-28 13:19:43.839000000,,/training/hard/erdos-number,0,,,hard,,,160,447738972d5b5a9df498be4edeb2b78c3688a66,Erd?s Number,,CODE,0,50.0,4.3076923076923075,26
+137,0,1669,True,2016-03-29 18:34:35.488000000,,/training/expert/recurring-decimals,0,,2016-07-12 15:26:49.009999872,expert,,,622,41296368a2df2e2c28ef14757c85c47594b958b,Recurring Decimals,,CODE,62,50.0,4.478260869565218,69
 138,0,380,True,2016-03-31 17:56:41.165000000,,/training/hard/disks-intersection,0,,2016-05-19 18:14:29.007000064,hard,,,272,44760488f478226802381226ef951a581094b25,Disks intersection,,CODE,100,50.0,4.115384615384615,26
-139,0,687,True,2016-04-05 22:45:31.304000000,,/training/expert/minesweeper,0,,,expert,,,272,15870175db0fe4be82b892c85bb5399ce193f228,Minesweeper,,CODE,0,50.0,4.6231884057971016,69
+139,0,688,True,2016-04-05 22:45:31.304000000,,/training/expert/minesweeper,0,,,expert,,,272,15870175db0fe4be82b892c85bb5399ce193f228,Minesweeper,,CODE,0,50.0,4.6231884057971016,69
 140,0,617,True,2016-04-05 22:47:09.623000000,,/training/expert/bulls-and-cows,0,,,expert,,,261,44774259a06deae741e30ef6aee87f03eb43818,Bulls and Cows,,CODE,0,50.0,4.517857142857143,56
-141,0,2519,True,2016-04-06 14:32:10.109000000,,/training/hard/simplify-selection-ranges,0,,2016-12-03 22:19:42.004000000,hard,,,1728,4476036f65506e618adae96cef13cbfddd97ddf,Simplify Selection Ranges,,CODE,100,50.0,4.08955223880597,134
+141,0,2519,True,2016-04-06 14:32:10.109000000,,/training/hard/simplify-selection-ranges,0,,2016-12-03 22:19:42.004000000,hard,,,1729,4476036f65506e618adae96cef13cbfddd97ddf,Simplify Selection Ranges,,CODE,100,50.0,4.08955223880597,134
 142,0,1634,True,2016-04-07 18:53:59.390000000,,/training/medium/text-alignment,0,,2016-05-20 09:57:43.004999936,medium,,,1313,4476022daa49ba35bea60654cdd0f33d04a8607,Text alignment,,CODE,100,50.0,4.2109375,128
-143,0,675,True,2016-04-08 13:00:06.730000000,,/training/hard/the-holy-grail,0,,,hard,,,420,41298711f23966cc71782fa781e17e833a3cab6,The Holy Grail,,CODE,0,50.0,4.329896907216495,97
-145,0,167,True,2016-04-12 03:02:28.019000000,,/training/hard/universe-conquest,0,,,hard,,,105,4477385e5e36991245d09946970d3ec9a88f8f6,Universe Conquest,,CODE,0,50.0,4.4,10
-146,0,1286,True,2016-04-12 03:36:22.613000000,,/training/hard/7-segment-display,0,,2016-07-20 15:50:11.011000064,hard,,,727,4477259e5bf5091e19f7f3b052ddbce36a481b0,7-segment display,,CODE,100,50.0,3.8705882352941177,85
+143,0,675,True,2016-04-08 13:00:06.730000000,,/training/hard/the-holy-grail,0,,,hard,,,421,41298711f23966cc71782fa781e17e833a3cab6,The Holy Grail,,CODE,0,50.0,4.326530612244898,98
+145,0,168,True,2016-04-12 03:02:28.019000000,,/training/hard/universe-conquest,0,,,hard,,,105,4477385e5e36991245d09946970d3ec9a88f8f6,Universe Conquest,,CODE,0,50.0,4.4,10
+146,0,1295,True,2016-04-12 03:36:22.613000000,,/training/hard/7-segment-display,0,,2016-07-20 15:50:11.011000064,hard,,,730,4477259e5bf5091e19f7f3b052ddbce36a481b0,7-segment display,,CODE,100,50.0,3.872093023255814,86
 147,0,1111,True,2016-04-12 13:47:40.667000000,,/training/medium/snake-encoding,0,,,medium,,,857,447676170258e1db4e1ac65d86cd6457d6f2f1a,Snake encoding,,CODE,0,50.0,4.453488372093023,86
-148,0,122791,False,2016-04-14 17:37:52.759000000,,/multiplayer/bot-programming/coders-strike-back,0,86639.0,2019-08-06 14:59:27.060000000,multi,,3247.0,0,5024072dbf0c1a6cd40fbdf462185ce788d3b24,Coders Strike Back,17541.0,ARENA,0,,4.780871127076785,2227
+148,0,123494,False,2016-04-14 17:37:52.759000000,,/multiplayer/bot-programming/coders-strike-back,0,87177.0,2019-10-08 10:17:26.740999936,multi,,3056.0,0,5024072dbf0c1a6cd40fbdf462185ce788d3b24,Coders Strike Back,19098.0,ARENA,0,,4.781208053691275,2235
 149,0,1035,True,2016-04-15 12:39:03.663000000,,/training/expert/the-barnyard,0,,2017-07-18 18:00:19.459000064,expert,,,324,44773048e89cb3b2f8726707490aea4410073d6,The barnyard,,CODE,100,50.0,4.472222222222222,36
-150,0,1488,True,2016-04-18 13:52:45.196000000,,/training/medium/ascii-art-:-glass-stacking,0,,2016-05-20 12:15:45.011000064,medium,,,1128,44767464569782efab981a76a28c38a35e74d6b,ASCII ART : Glass Stacking,,CODE,100,50.0,3.8666666666666667,105
+150,0,1489,True,2016-04-18 13:52:45.196000000,,/training/medium/ascii-art-:-glass-stacking,0,,2016-05-20 12:15:45.011000064,medium,,,1129,44767464569782efab981a76a28c38a35e74d6b,ASCII ART : Glass Stacking,,CODE,100,50.0,3.8666666666666667,105
 151,0,289,True,2016-04-21 01:32:46.696000000,,/training/expert/fill-the-square,0,,,expert,,,105,4881114f78c38605fa84258a0e4bc26e5e9e4d9,Fill the square!,,CODE,0,50.0,4.461538461538462,13
-152,0,902,True,2016-05-09 23:00:56.464000000,,/training/expert/the-lucky-number,0,,2019-08-03 11:17:41.044000000,expert,,,183,44767641499266b355188a1a67e68f0d19f92d6,The Lucky Number,,CODE,67,50.0,4.65,40
+152,0,907,True,2016-05-09 23:00:56.464000000,,/training/expert/the-lucky-number,0,,2019-08-03 11:17:41.044000000,expert,,,183,44767641499266b355188a1a67e68f0d19f92d6,The Lucky Number,,CODE,67,50.0,4.65,40
 153,0,807,True,2016-05-14 01:48:02.633000000,,/training/hard/chess-cavalry,0,,2018-02-17 17:30:28.148000000,hard,,,549,4476745f9b72283395cac080fc525bdbdda6b71,Chess cavalry,,CODE,100,50.0,4.571428571428571,49
-154,0,1248,True,2016-05-17 20:12:46.158000000,,/training/easy/xml-mdf-2016,0,,2019-04-06 15:44:30.040999936,easy,,,1104,447783804309f8b70f8f31e1fa7b3eafb6310fd,XML MDF-2016,,CODE,100,50.0,4.242857142857143,210
-156,0,4202,False,2016-05-26 09:25:49.085000000,,/multiplayer/bot-programming/smash-the-code,0,2265.0,,multi,,,0,458901576359bedbed3cef18b3c46d5d1fb5b27,Smash The Code,2265.0,ARENA,0,,4.216981132075472,106
-157,0,2599,True,2016-05-29 06:49:25.779000000,,/training/medium/sum-of-divisors,0,,2016-12-10 11:43:37.004999936,medium,,,1759,4845343c880f0401417cb4f17d1c5b525b26589,Sum of divisors,,CODE,100,50.0,4.258706467661692,201
+154,0,1251,True,2016-05-17 20:12:46.158000000,,/training/easy/xml-mdf-2016,0,,2019-04-06 15:44:30.040999936,easy,,,1107,447783804309f8b70f8f31e1fa7b3eafb6310fd,XML MDF-2016,,CODE,100,50.0,4.23696682464455,211
+156,0,4209,False,2016-05-26 09:25:49.085000000,,/multiplayer/bot-programming/smash-the-code,0,2270.0,,multi,,,0,458901576359bedbed3cef18b3c46d5d1fb5b27,Smash The Code,2270.0,ARENA,0,,4.216981132075472,106
+157,0,2600,True,2016-05-29 06:49:25.779000000,,/training/medium/sum-of-divisors,0,,2016-12-10 11:43:37.004999936,medium,,,1760,4845343c880f0401417cb4f17d1c5b525b26589,Sum of divisors,,CODE,100,50.0,4.257425742574258,202
 158,0,1062,True,2016-06-01 08:47:42.711000000,,/training/medium/the-urinal-problem,0,,2016-07-11 22:18:14.055000064,medium,,,805,48303734dddbef1eae24b9617badb3844dd7c30,The Urinal Problem,,CODE,100,50.0,4.1683168316831685,101
 159,0,1343,True,2016-06-06 12:19:06.531000000,,/training/medium/ancestors-&-descendants,0,,2017-06-27 15:35:15.903000064,medium,,,1027,4633482727d968b20d067a24e23489af5b94656,Ancestors & Descendants,,CODE,100,50.0,4.36936936936937,111
 160,0,366,True,2016-06-07 17:54:27.288000000,,/training/expert/flood-the-world,0,,,expert,,,86,463348783d45d10cc1831d1881d419f67e664bc,Flood the World,,CODE,0,50.0,4.238095238095238,21
-161,0,808,True,2016-06-08 17:17:31.579000000,,/training/medium/cgfunge-interpreter,0,,,medium,,,608,4633493e70deed030bc037738778d6a09825417,CGFunge interpreter,,CODE,0,50.0,4.612244897959184,98
+161,0,813,True,2016-06-08 17:17:31.579000000,,/training/medium/cgfunge-interpreter,0,,,medium,,,611,4633493e70deed030bc037738778d6a09825417,CGFunge interpreter,,CODE,0,50.0,4.612244897959184,98
 162,0,1116,True,2016-06-08 18:00:59.250000000,,/training/hard/anagrams,0,,2016-08-06 21:35:52.004000000,hard,,,789,4633497932efe501ae997974bd637337cd6507c,Anagrams,,CODE,100,50.0,4.121621621621622,74
-167,0,2108,True,2016-07-05 11:27:56.097000000,,/training/hard/simple-safecracking,0,,2016-07-11 17:32:37.009999872,hard,,,1342,4827498aa1037d82b1b12819fe5222c6fc390d1,Simple safecracking,,CODE,100,50.0,4.203488372093023,172
-168,0,4456,False,2016-07-07 09:44:13.430000000,,/multiplayer/bot-programming/codebusters,0,2318.0,2019-09-25 17:06:30.527000064,multi,,472.0,0,4863081c73bcfabc1e43e37158c73271480539f,CodeBusters,752.0,ARENA,0,,4.818604651162791,215
+167,0,2109,True,2016-07-05 11:27:56.097000000,,/training/hard/simple-safecracking,0,,2016-07-11 17:32:37.009999872,hard,,,1342,4827498aa1037d82b1b12819fe5222c6fc390d1,Simple safecracking,,CODE,100,50.0,4.203488372093023,172
+168,0,4459,False,2016-07-07 09:44:13.430000000,,/multiplayer/bot-programming/codebusters,0,2325.0,2019-10-01 14:35:46.222000128,multi,,478.0,0,4863081c73bcfabc1e43e37158c73271480539f,CodeBusters,754.0,ARENA,0,,4.819444444444445,216
 169,0,1130,True,2016-07-08 09:50:35.312000000,,/training/medium/the-experience-for-creating-puzzles,0,,2016-07-11 14:02:28.008000000,medium,,,909,48275261365dde032e497c22a5fa47afe3aa0b4,The experience for creating puzzles,,CODE,100,50.0,3.9176470588235293,170
-170,0,856,True,2016-07-08 12:31:36.724000000,,/training/medium/elementary-cellular-automaton,0,,2016-07-11 14:48:21.016999936,medium,,,706,482778242e5956dc7cdc6b3b73d4bc7dcf50e5b,Elementary cellular automaton,,CODE,100,50.0,4.5,148
-171,0,2115,True,2016-07-08 12:50:56.634000000,,/training/easy/jack-silver-the-casino,0,,2016-07-11 15:02:13.012999936,easy,,,1746,4828147eee8d8d091fd9dfc888be760c7bdbf87,Jack Silver: The Casino,,CODE,100,50.0,3.9837662337662336,308
-172,0,1444,True,2016-07-13 10:48:39.361000000,,/training/medium/simple-fraction-to-mixed-number,0,,2016-07-13 21:15:13.009999872,medium,,,1053,4843938cd1aa760bbfbeef8fd88a230e0864871,Simple fraction to mixed number,,CODE,100,50.0,4.189655172413793,116
-173,0,501,True,2016-07-13 12:38:10.257000000,,/training/medium/queneau-numbers,0,,2019-08-12 16:50:37.047000064,medium,,,438,4844048421ec75c37a47a7f8375f142b2a54a68,Queneau Numbers,,CODE,100,50.0,4.15,60
-174,0,600,True,2016-07-14 13:24:19.836000000,,/training/medium/quaternion-multiplication,0,,2019-09-04 15:44:54.251000064,medium,,,362,48500612934fef43cc4b627868426178f52d098,Quaternion Multiplication,,CODE,100,50.0,4.561643835616438,73
+170,0,860,True,2016-07-08 12:31:36.724000000,,/training/medium/elementary-cellular-automaton,0,,2016-07-11 14:48:21.016999936,medium,,,707,482778242e5956dc7cdc6b3b73d4bc7dcf50e5b,Elementary cellular automaton,,CODE,100,50.0,4.5,148
+171,0,2126,True,2016-07-08 12:50:56.634000000,,/training/easy/jack-silver-the-casino,0,,2016-07-11 15:02:13.012999936,easy,,,1756,4828147eee8d8d091fd9dfc888be760c7bdbf87,Jack Silver: The Casino,,CODE,100,50.0,3.9838709677419355,310
+172,0,1445,True,2016-07-13 10:48:39.361000000,,/training/medium/simple-fraction-to-mixed-number,0,,2016-07-13 21:15:13.009999872,medium,,,1055,4843938cd1aa760bbfbeef8fd88a230e0864871,Simple fraction to mixed number,,CODE,100,50.0,4.189655172413793,116
+173,0,502,True,2016-07-13 12:38:10.257000000,,/training/medium/queneau-numbers,0,,2019-08-12 16:50:37.047000064,medium,,,440,4844048421ec75c37a47a7f8375f142b2a54a68,Queneau Numbers,,CODE,100,50.0,4.15,60
+174,0,602,True,2016-07-14 13:24:19.836000000,,/training/medium/quaternion-multiplication,0,,2019-09-04 15:44:54.251000064,medium,,,366,48500612934fef43cc4b627868426178f52d098,Quaternion Multiplication,,CODE,100,50.0,4.56,75
 175,0,512,True,2016-07-18 15:33:39.795000000,,/training/expert/the-crime-scene,0,,2017-07-18 15:54:10.004000000,expert,,,171,4875334bd322f257bce7e1638a6adf2b67558ae,The Crime Scene,,CODE,100,50.0,4.813953488372093,43
 176,0,686,True,2016-07-19 08:44:07.292000000,,/training/hard/vortex,0,,,hard,,,346,4875661d04d3710af590af4fbabd8ff66522f13,Vortex,,CODE,0,50.0,4.445652173913044,92
-177,0,383,True,2016-07-19 18:08:29.947000000,,/training/expert/the-water-jug-riddle-from-die-hard-3,0,,,expert,,,153,48761401f9d0b97fb905380ad76ffca3e8c2a6e,The water jug riddle from Die Hard 3,,CODE,0,50.0,4.392857142857143,28
+177,0,384,True,2016-07-19 18:08:29.947000000,,/training/expert/the-water-jug-riddle-from-die-hard-3,0,,,expert,,,153,48761401f9d0b97fb905380ad76ffca3e8c2a6e,The water jug riddle from Die Hard 3,,CODE,0,50.0,4.392857142857143,28
 178,0,789,True,2016-07-21 12:07:21.663000000,,/training/expert/heart-of-the-city,0,,2018-03-05 17:25:01.272999936,expert,,,184,48870389fe4fe4489d30038305c1784c875260f,Heart of the City,,CODE,0,50.0,4.44,25
 179,0,561,True,2016-07-24 12:32:14.130000000,,/training/hard/fractal-carpet,0,,,hard,,,321,490979919a3d8b3d0237b0348655cfb728cb7fd,Fractal Carpet,,CODE,0,50.0,4.604651162790698,43
 180,0,398,True,2016-07-27 13:23:57.665000000,,/training/hard/chess-moves-on-fen-position,0,,,hard,,,251,4932185c703ab006d24e730048adbcf46a02095,Chess moves on FEN position,,CODE,0,50.0,4.269230769230769,26
 181,0,480,True,2016-08-08 06:51:26.934000000,,/training/hard/einsteins-riddle-solver,0,,,hard,,,127,50151085d4cffd11bd1f469ef63277a585c9243,Einstein's riddle solver,,CODE,0,50.0,4.771428571428571,35
-182,0,2553,True,2016-08-09 14:40:53.356000000,,/training/easy/rugby-score,0,,2016-09-12 14:08:25.017999872,easy,,,1901,50151071a19f2e6172ab6c542ac5af533f5c7fd,Rugby score,,CODE,100,50.0,4.195876288659794,388
-183,0,4911,True,2016-08-09 21:39:38.995000000,,/training/hard/the-greatest-number,0,,2016-08-11 18:36:23.009999872,hard,,,2949,5014922d22f77e28cacfc3acd29df3fd3515e64,The greatest number,,CODE,100,50.0,3.8678861788617884,492
+182,0,2561,True,2016-08-09 14:40:53.356000000,,/training/easy/rugby-score,0,,2016-09-12 14:08:25.017999872,easy,,,1909,50151071a19f2e6172ab6c542ac5af533f5c7fd,Rugby score,,CODE,100,50.0,4.195876288659794,388
+183,0,4912,True,2016-08-09 21:39:38.995000000,,/training/hard/the-greatest-number,0,,2016-08-11 18:36:23.009999872,hard,,,2950,5014922d22f77e28cacfc3acd29df3fd3515e64,The greatest number,,CODE,100,50.0,3.8678861788617884,492
 184,0,894,True,2016-08-10 11:16:50.358000000,,/training/hard/kgood,0,,2017-10-17 20:08:45.968999936,hard,,,510,501450747c0b23db602ca07b819bcb1a857cc9e,KGood,,CODE,100,50.0,4.214285714285714,112
-185,0,885,True,2016-08-12 07:55:13.028000000,,/training/hard/egyptian-multiplication,0,,,hard,,,607,504558952480092f77e91a5bc8b782d46798b2b,Egyptian multiplication,,CODE,0,50.0,3.701492537313433,67
+185,0,886,True,2016-08-12 07:55:13.028000000,,/training/hard/egyptian-multiplication,0,,,hard,,,608,504558952480092f77e91a5bc8b782d46798b2b,Egyptian multiplication,,CODE,0,50.0,3.701492537313433,67
 186,0,471,True,2016-08-15 14:04:48.964000000,,/training/expert/sliding-puzzle,0,,,expert,,,171,5057296d956e2338408c398a729465a300d52e0,Sliding puzzle,,CODE,0,50.0,4.255813953488372,43
-187,0,877,True,2016-08-16 14:16:59.422000000,,/training/medium/army-ants,0,,2016-12-04 19:44:05.008999936,medium,,,659,5057298b442313f170a70f9e4c9754ee09ba004,Army ants,,CODE,100,50.0,4.280898876404494,89
-188,0,2499,True,2016-08-18 21:30:30.014000000,,/training/easy/how-time-flies,0,,2016-08-20 09:19:53.032000000,easy,,,1256,5065512fadf46d6aa1ebd139ef3769776e5dd64,How time flies,,CODE,100,50.0,3.324561403508772,342
-189,0,487,True,2016-08-25 16:08:25.870000000,,/training/expert/prime-transformations,0,,,expert,,,154,5117291fc0c8bfca59cc94133ea338ecc377a3e,Prime Transformations,,CODE,0,50.0,4.25,44
+187,0,878,True,2016-08-16 14:16:59.422000000,,/training/medium/army-ants,0,,2016-12-04 19:44:05.008999936,medium,,,659,5057298b442313f170a70f9e4c9754ee09ba004,Army ants,,CODE,100,50.0,4.280898876404494,89
+188,0,2527,True,2016-08-18 21:30:30.014000000,,/training/easy/how-time-flies,0,,2016-08-20 09:19:53.032000000,easy,,,1269,5065512fadf46d6aa1ebd139ef3769776e5dd64,How time flies,,CODE,100,50.0,3.336231884057971,345
+189,0,489,True,2016-08-25 16:08:25.870000000,,/training/expert/prime-transformations,0,,,expert,,,154,5117291fc0c8bfca59cc94133ea338ecc377a3e,Prime Transformations,,CODE,0,50.0,4.25,44
 190,0,1153,True,2016-08-26 12:43:34.927000000,,/training/medium/carmichael-numbers,0,,2016-08-29 16:01:54.007000064,medium,,,741,5117272b635bab43bbc12ea3e97d4a69726fa6c,Carmichael numbers,,CODE,100,50.0,3.8493150684931505,146
 191,0,417,True,2016-08-27 09:23:03.411000000,,/training/expert/spy-the-spies,0,,,expert,,,97,5117269f2168a6f25312f54978c25906082e0fe,Spy the Spies,,CODE,0,50.0,4.416666666666667,24
-192,0,2222,True,2016-08-30 22:13:33.738000000,,/training/hard/elevator,0,,2016-09-11 14:35:53.028999936,hard,,,1012,514300246a6bf887ffb19beb116cf9589365514,Elevator,,CODE,100,50.0,4.2748538011695905,171
-193,0,774,True,2016-08-30 23:07:34.779000000,,/training/expert/oneway-city,0,,2016-09-02 11:05:33.032000000,expert,,,339,51365743911c754811e21cf892492fb83608a07,OneWay City,,CODE,100,50.0,4.352941176470588,85
+192,0,2223,True,2016-08-30 22:13:33.738000000,,/training/hard/elevator,0,,2016-09-11 14:35:53.028999936,hard,,,1012,514300246a6bf887ffb19beb116cf9589365514,Elevator,,CODE,100,50.0,4.2748538011695905,171
+193,0,775,True,2016-08-30 23:07:34.779000000,,/training/expert/oneway-city,0,,2016-09-02 11:05:33.032000000,expert,,,339,51365743911c754811e21cf892492fb83608a07,OneWay City,,CODE,100,50.0,4.352941176470588,85
 194,0,536,True,2016-08-31 12:16:51.094000000,,/training/expert/unflood-the-world,0,,,expert,,,251,5143005dd2a7943ddc12afe8784bb5b48a5a214,Unflood The World,,CODE,0,50.0,4.64935064935065,77
 195,0,545,True,2016-08-31 21:13:03.898000000,,/training/hard/drawing-polygons,0,,2017-05-07 16:04:37.300999936,hard,,,360,5143009239f9a6d1457f276b6f50c4ef60e11e2,Drawing Polygons,,CODE,100,50.0,4.075949367088608,79
 196,0,464,True,2016-09-01 14:23:27.480000000,,/training/hard/hill-notation-and-hill-order,0,,,hard,,,228,51430117ffa9acd87f193709a897b2032f7c245,Hill Notation and Hill Order,,CODE,0,50.0,4.37037037037037,27
@@ -406,77 +406,77 @@ Aidez Kirk et Spock à détruire les montagnes... sauvez l'enterprise !<br>
 199,0,1405,True,2016-09-06 16:20:12.917000000,,/training/medium/divide-the-factorial,0,,2019-04-06 20:56:56.156000000,medium,,,575,5173708aaa89f1b9e213a143f05b4b6835a8067,Divide the factorial,,CODE,100,50.0,4.276190476190476,105
 200,0,314,True,2016-09-13 07:25:35.839000000,,/training/hard/the-beautiful-sequence,0,,2016-12-04 18:41:23.392999936,hard,,,187,5273135632b402efbf8955e8e63c9f9f38714f9,The Beautiful sequence,,CODE,0,50.0,4.32258064516129,31
 201,0,332,True,2016-09-14 01:40:39.584000000,,/training/expert/codindice,0,,,expert,,,82,6636038056c14a768565a358639558ac6fabb88,CodinDice,,CODE,0,50.0,4.65,20
-202,0,506,True,2016-09-14 12:19:24.596000000,,/training/medium/reversed-look-and-say,0,,,medium,,,377,,Reversed Look-and-say,,CODE,0,50.0,4.337837837837838,74
-203,0,2062,True,2016-09-14 16:56:58.147000000,,/training/easy/nature-of-quadrilaterals,0,,2018-06-07 19:10:19.043000064,easy,,,1397,1170110017289a8eea1f974c151c8c1fe0c97ccd,Nature of quadrilaterals,,CODE,100,50.0,4.1993769470404985,321
-207,0,362,True,2016-09-19 18:04:04.137000000,,/training/medium/near-palindromes,0,,,medium,,,258,,Near-Palindromes,,CODE,0,50.0,4.345454545454546,55
-210,0,3069,True,2016-09-21 14:44:26.076000000,,/training/easy/balanced-ternary-computer-encode,0,,2019-07-28 13:04:51.272999936,easy,,,1978,751908207630822fae870b8bafb5ecd1d2c46ac,Balanced ternary computer: encode,,CODE,100,50.0,4.222841225626741,359
+202,0,508,True,2016-09-14 12:19:24.596000000,,/training/medium/reversed-look-and-say,0,,,medium,,,378,,Reversed Look-and-say,,CODE,0,50.0,4.337837837837838,74
+203,0,2069,True,2016-09-14 16:56:58.147000000,,/training/easy/nature-of-quadrilaterals,0,,2018-06-07 19:10:19.043000064,easy,,,1400,1170110017289a8eea1f974c151c8c1fe0c97ccd,Nature of quadrilaterals,,CODE,100,50.0,4.191950464396285,323
+207,0,363,True,2016-09-19 18:04:04.137000000,,/training/medium/near-palindromes,0,,,medium,,,258,,Near-Palindromes,,CODE,0,50.0,4.345454545454546,55
+210,0,3079,True,2016-09-21 14:44:26.076000000,,/training/easy/balanced-ternary-computer-encode,0,,2019-07-28 13:04:51.272999936,easy,,,1988,751908207630822fae870b8bafb5ecd1d2c46ac,Balanced ternary computer: encode,,CODE,100,50.0,4.225,360
 211,0,465,True,2016-09-21 21:02:41.231000000,,/training/expert/texas-holdem,0,,,expert,,,207,,Texas Holdem,,CODE,0,50.0,4.072727272727272,55
-217,0,2810,True,2016-09-30 18:44:57.227000000,,/training/hard/google-interview---the-two-egg-problem,0,,2016-11-23 19:39:06.007000064,hard,,,1634,6268685ded5e5208577c6b116782923cb4c50c9,Google Interview - The Two Egg Problem,,CODE,100,50.0,4.230188679245283,265
+217,0,2816,True,2016-09-30 18:44:57.227000000,,/training/hard/google-interview---the-two-egg-problem,0,,2016-11-23 19:39:06.007000064,hard,,,1637,6268685ded5e5208577c6b116782923cb4c50c9,Google Interview - The Two Egg Problem,,CODE,100,50.0,4.230188679245283,265
 219,0,870,True,2016-10-21 21:13:51.738000000,,/training/hard/hangman,0,,2017-04-30 20:25:04.004000000,hard,,,604,751616873cbff2941ebd43c74156818981a588d,Hangman,,CODE,100,50.0,4.190140845070423,142
-220,0,682,True,2016-10-22 13:10:39.746000000,,/training/medium/brackets-enhanced-edition,0,,2016-12-10 12:41:04.004999936,medium,,,431,6418559ea0c5809bb737a0085a2462c3dc7f2b8,"Brackets, Enhanced Edition",,CODE,100,50.0,4.3,100
-221,0,3901,False,2016-10-26 12:14:06.072000000,,/multiplayer/bot-programming/hypersonic,0,2082.0,,multi,,,0,,Hypersonic,2082.0,ARENA,0,,4.852320675105485,237
+220,0,682,True,2016-10-22 13:10:39.746000000,,/training/medium/brackets-enhanced-edition,0,,2016-12-10 12:41:04.004999936,medium,,,432,6418559ea0c5809bb737a0085a2462c3dc7f2b8,"Brackets, Enhanced Edition",,CODE,100,50.0,4.3,100
+221,0,3905,False,2016-10-26 12:14:06.072000000,,/multiplayer/bot-programming/hypersonic,0,2085.0,,multi,,,0,,Hypersonic,2085.0,ARENA,0,,4.852320675105485,237
 222,0,171,True,2016-10-26 19:25:03.886000000,,/training/hard/the-burglars-dilemna,0,,,hard,,,119,,The Burglar's Dilemna,,CODE,0,50.0,4.827586206896552,29
-223,0,507,True,2016-10-28 18:48:30.223000000,,/training/medium/222-rubiks-cube-movements,0,,,medium,,,210,118391116c2c5f634cd8904ca3993dcfd36b22b0,2×2×2 Rubik?s cube movements,,CODE,0,50.0,4.079365079365079,63
-224,0,168,True,2016-10-29 15:14:34.785000000,,/training/hard/pascal-trapezoid,0,,2017-07-26 16:46:12.022000128,hard,,,101,7516306a5369709ae2f14bdc954df9dd98608d5,Pascal Trapezoid,,CODE,100,50.0,4.291666666666667,24
+223,0,508,True,2016-10-28 18:48:30.223000000,,/training/medium/222-rubiks-cube-movements,0,,,medium,,,210,118391116c2c5f634cd8904ca3993dcfd36b22b0,2×2×2 Rubik?s cube movements,,CODE,0,50.0,4.09375,64
+224,0,170,True,2016-10-29 15:14:34.785000000,,/training/hard/pascal-trapezoid,0,,2017-07-26 16:46:12.022000128,hard,,,101,7516306a5369709ae2f14bdc954df9dd98608d5,Pascal Trapezoid,,CODE,100,50.0,4.291666666666667,24
 225,0,820,True,2016-10-29 17:05:07.056000000,,/training/hard/zergling-rush,0,,,hard,,,460,,Zergling rush,,CODE,0,50.0,4.6375838926174495,149
-226,0,641,True,2016-10-31 20:13:44.124000000,,/training/expert/chemical-equation-balancing,0,,,expert,,,166,11088934877a87b926b18fa90b9000d23230450e,Chemical Equation Balancing,,CODE,0,50.0,4.5,54
-227,0,776,True,2016-11-02 14:16:39.356000000,,/training/medium/factorial-vs-exponential,0,,2018-02-17 16:57:38.412999936,medium,,,374,613657341e0d67158070a854acc186510a2d3eb,Factorial vs Exponential,,CODE,100,50.0,4.411764705882353,102
-228,0,468,True,2016-11-02 16:30:56.904000000,,/training/medium/advanced-tree,0,,2017-03-02 14:34:37.665999872,medium,,,190,7032836c28b212503e6818844046c53b84350cf,Advanced Tree,,CODE,0,50.0,4.0,68
-229,0,1612,True,2016-11-04 16:30:22.314000000,,/training/easy/bulk-email-generator,0,,2019-04-06 15:13:50.071000064,easy,,,1017,162333261add0a45591a1f6c4e18b0ef9d4abba1,Bulk Email Generator,,CODE,100,50.0,4.0886075949367084,237
-230,0,3169,True,2016-11-05 13:14:20.357000000,,/training/medium/gravity-tumbler,0,,2018-05-16 19:25:27.035000064,medium,,,2223,11295216a8b2d2e3c571fdbbb6dccd09ed7f22c3,Gravity Tumbler,,CODE,100,50.0,4.464788732394366,497
-231,0,337,True,2016-11-05 13:42:53.919000000,,/training/hard/misere-nim,0,,,hard,,,118,613657244f17db182a7b917d84c994f3d517aab,Misère Nim,,CODE,0,50.0,4.666666666666667,27
+226,0,643,True,2016-10-31 20:13:44.124000000,,/training/expert/chemical-equation-balancing,0,,,expert,,,168,11088934877a87b926b18fa90b9000d23230450e,Chemical Equation Balancing,,CODE,0,50.0,4.5,54
+227,0,778,True,2016-11-02 14:16:39.356000000,,/training/medium/factorial-vs-exponential,0,,2018-02-17 16:57:38.412999936,medium,,,375,613657341e0d67158070a854acc186510a2d3eb,Factorial vs Exponential,,CODE,100,50.0,4.411764705882353,102
+228,0,469,True,2016-11-02 16:30:56.904000000,,/training/medium/advanced-tree,0,,2017-03-02 14:34:37.665999872,medium,,,192,7032836c28b212503e6818844046c53b84350cf,Advanced Tree,,CODE,0,50.0,4.0,68
+229,0,1617,True,2016-11-04 16:30:22.314000000,,/training/easy/bulk-email-generator,0,,2019-04-06 15:13:50.071000064,easy,,,1021,162333261add0a45591a1f6c4e18b0ef9d4abba1,Bulk Email Generator,,CODE,100,50.0,4.0886075949367084,237
+230,0,3170,True,2016-11-05 13:14:20.357000000,,/training/medium/gravity-tumbler,0,,2018-05-16 19:25:27.035000064,medium,,,2224,11295216a8b2d2e3c571fdbbb6dccd09ed7f22c3,Gravity Tumbler,,CODE,100,50.0,4.465863453815261,498
+231,0,338,True,2016-11-05 13:42:53.919000000,,/training/hard/misere-nim,0,,,hard,,,118,613657244f17db182a7b917d84c994f3d517aab,Misère Nim,,CODE,0,50.0,4.666666666666667,27
 232,0,662,True,2016-11-05 20:39:05.042000000,,/training/hard/inertia-ride,0,,2016-12-10 23:11:50.903000064,hard,,,350,6136557e318641e1a2a62945c4b3c3ee2233638,Inertia ride,,CODE,88,50.0,4.148514851485149,101
-233,0,1482,True,2016-11-09 11:53:36.230000000,,/training/medium/number-of-letters-in-a-number---binary,0,,2016-12-30 16:55:40.443000064,medium,,,1128,655385227499993b03e618bc34a0ca4e6462d24,Number of letters in a number - Binary,,CODE,100,50.0,4.418439716312057,282
-234,0,997,True,2016-11-11 18:25:01.348000000,,/training/medium/next-car-license-plate,0,,2016-12-04 10:56:27.006000128,medium,,,727,61781168c3484813e131a215b228881dc26ca32,Next car license plate  ?,,CODE,100,50.0,4.436893203883495,206
-235,0,1269,True,2016-11-13 12:50:51.393000000,,/training/easy/horse-racing-hyperduals,0,,2016-11-13 19:15:57.006000128,easy,,,1052,618542048513d71b1fcf5be20adfbdade3d5a21,Horse-racing Hyperduals,,CODE,100,50.0,4.071428571428571,210
+233,0,1485,True,2016-11-09 11:53:36.230000000,,/training/medium/number-of-letters-in-a-number---binary,0,,2016-12-30 16:55:40.443000064,medium,,,1130,655385227499993b03e618bc34a0ca4e6462d24,Number of letters in a number - Binary,,CODE,100,50.0,4.41696113074205,283
+234,0,1001,True,2016-11-11 18:25:01.348000000,,/training/medium/next-car-license-plate,0,,2016-12-04 10:56:27.006000128,medium,,,730,61781168c3484813e131a215b228881dc26ca32,Next car license plate  ?,,CODE,100,50.0,4.436893203883495,206
+235,0,1275,True,2016-11-13 12:50:51.393000000,,/training/easy/horse-racing-hyperduals,0,,2016-11-13 19:15:57.006000128,easy,,,1054,618542048513d71b1fcf5be20adfbdade3d5a21,Horse-racing Hyperduals,,CODE,100,50.0,4.071428571428571,210
 236,0,533,True,2016-11-13 18:58:09.458000000,,/training/hard/laser-and-mirrors,0,,2017-03-03 16:25:58.116000000,hard,,,289,70429719803349f175ebc430dce7ffceb4672ea,Laser and mirrors,,CODE,0,50.0,4.576923076923077,78
-237,0,173,True,2016-11-14 20:32:56.690000000,,/training/expert/hourglass,0,,2017-07-22 12:32:42.575000064,expert,,,86,81325479e85b7e76b0dda05696df133d1f5b7ea,Hourglass,,CODE,0,50.0,3.76,25
-238,0,1466,True,2016-11-16 13:06:02.764000000,,/training/easy/self-driving-car-testing,0,,2019-04-06 13:38:13.041999872,easy,,,981,8132550ec360eb3c0dcfc92b1ec80689bf23b0f,Self-driving car testing,,CODE,100,50.0,4.139013452914798,223
+237,0,175,True,2016-11-14 20:32:56.690000000,,/training/expert/hourglass,0,,2017-07-22 12:32:42.575000064,expert,,,87,81325479e85b7e76b0dda05696df133d1f5b7ea,Hourglass,,CODE,0,50.0,3.76,25
+238,0,1476,True,2016-11-16 13:06:02.764000000,,/training/easy/self-driving-car-testing,0,,2019-04-06 13:38:13.041999872,easy,,,989,8132550ec360eb3c0dcfc92b1ec80689bf23b0f,Self-driving car testing,,CODE,100,50.0,4.142222222222222,225
 239,0,236,True,2016-11-17 22:21:58.058000000,,/training/medium/horse-hyperracing-hyperduals,0,,2016-12-10 23:37:47.006000128,medium,,,146,6352050e2dd92ad36934bf4b85c16c019dd27d5,Horse-hyperracing Hyperduals,,CODE,100,50.0,4.357142857142857,42
-240,2,4870,False,2016-11-18 16:39:20.604000000,,/training/hard/winamax-sponsored-contest,0,,2019-06-10 13:01:34.895000064,hard,,,740,77707885a9322824b06fe07e1e03fc123cac923,Winamax Sponsored Challenge,,CODE,0,250.0,4.435897435897436,39
+240,2,4904,False,2016-11-18 16:39:20.604000000,,/training/hard/winamax-sponsored-contest,0,,2019-06-10 13:01:34.895000064,hard,,,741,77707885a9322824b06fe07e1e03fc123cac923,Winamax Sponsored Challenge,,CODE,0,250.0,4.435897435897436,39
 241,0,1023,True,2016-11-22 20:34:44.788000000,,/training/hard/kolakoski-sequence,0,,2017-02-19 10:43:47.784999936,hard,,,649,63098000f8f336389ca6fef3cd734eda2a2c875,Kolakoski Sequence,,CODE,100,50.0,4.387878787878788,165
 242,0,249,True,2016-11-23 13:45:37.950000000,,/training/expert/ticket-to-ride-europe,0,,,expert,,,55,19539549757ca776d70f240e5c4326bc004d0f08,Ticket to Ride: Europe,,CODE,0,50.0,4.904761904761905,21
-243,0,1594,True,2016-11-24 08:55:34.334000000,,/training/medium/folding-paper,0,,2016-12-08 17:24:58.007000064,medium,,,1266,6398581d7ba5bfd3945e79c1a5240443cc89ac1,Folding Paper,,CODE,100,50.0,4.493036211699164,359
-244,0,1437,True,2016-11-25 07:52:15.052000000,,/training/medium/micro-assembly,0,,2016-12-03 13:52:05.007000064,medium,,,1200,6347389ffaee60dd2d7937a27b6929a41c4059b,Micro Assembly,,CODE,100,50.0,4.73186119873817,317
+243,0,1595,True,2016-11-24 08:55:34.334000000,,/training/medium/folding-paper,0,,2016-12-08 17:24:58.007000064,medium,,,1267,6398581d7ba5bfd3945e79c1a5240443cc89ac1,Folding Paper,,CODE,100,50.0,4.493036211699164,359
+244,0,1445,True,2016-11-25 07:52:15.052000000,,/training/medium/micro-assembly,0,,2016-12-03 13:52:05.007000064,medium,,,1206,6347389ffaee60dd2d7937a27b6929a41c4059b,Micro Assembly,,CODE,100,50.0,4.73186119873817,317
 245,0,1496,True,2016-12-08 18:58:27.091000000,,/training/medium/cards-castle,0,,2016-12-15 17:39:53.008999936,medium,,,1124,646097893afc3c03c4d9bb2ecfdbb3afd6e9e13,Cards castle,,CODE,100,50.0,4.34020618556701,291
 246,0,1944,True,2016-12-14 09:18:50.592000000,,/training/medium/magic-stones,0,,2017-02-02 18:35:34.731000064,medium,,,1402,6472725a82a8ec412b11531725d7d8752f7410a,Magic stones,,CODE,100,50.0,4.3949044585987265,314
-247,0,3429,False,2016-12-14 11:02:53.358000000,,/multiplayer/bot-programming/fantastic-bits,0,1997.0,2019-09-25 19:53:20.838000128,multi,,6.0,0,6454244232ec2b4bb47631f8e172ba0414f1285,Fantastic Bits,610.0,ARENA,0,,4.8655462184873945,238
+247,0,3439,False,2016-12-14 11:02:53.358000000,,/multiplayer/bot-programming/fantastic-bits,0,2001.0,2019-10-01 20:02:50.752000000,multi,,8.0,0,6454244232ec2b4bb47631f8e172ba0414f1285,Fantastic Bits,610.0,ARENA,0,,4.8655462184873945,238
 248,0,506,True,2016-12-18 19:03:44.587000000,,/training/hard/to-skys-edge,0,,2019-02-09 18:00:29.091000064,hard,,,313,6515298ebe49cfd46420047de34e07ba1977b0b,To Sky's Edge,,CODE,0,50.0,4.426966292134831,89
 249,0,311,True,2016-12-19 14:19:15.342000000,,/training/hard/execution-circle,0,,2019-03-09 13:58:32.067000064,hard,,,196,6699835acbe1c0731c1609ca9f881cbaea857f4,Execution Circle,,CODE,100,50.0,4.414634146341464,41
 250,0,913,True,2016-12-20 14:26:16.674000000,,/training/hard/the-max-surface-box,0,,2017-01-05 17:51:12.047000064,hard,,,471,6592751e93f49d03488cc22772943f4b6261851,The max surface box,,CODE,100,50.0,4.123893805309734,113
-251,0,824,True,2016-12-25 17:01:55.257000000,,/training/hard/timer-for-clash-of-code,0,,2017-05-01 11:10:26.006000128,hard,,,556,66998530ccc83c387de0dd755f4f79543f7c40d,Timer for Clash of Code,,CODE,100,50.0,3.8225806451612905,124
-252,0,396,True,2016-12-26 10:45:52.365000000,,/training/hard/x-egg-problem,0,,2019-04-14 15:16:33.759000064,hard,,,138,180451145903439f8b2d38950a4bd21f11163450,X egg problem,,CODE,0,50.0,4.666666666666667,36
+251,0,825,True,2016-12-25 17:01:55.257000000,,/training/hard/timer-for-clash-of-code,0,,2017-05-01 11:10:26.006000128,hard,,,556,66998530ccc83c387de0dd755f4f79543f7c40d,Timer for Clash of Code,,CODE,100,50.0,3.8225806451612905,124
+252,0,397,True,2016-12-26 10:45:52.365000000,,/training/hard/x-egg-problem,0,,2019-04-14 15:16:33.759000064,hard,,,139,180451145903439f8b2d38950a4bd21f11163450,X egg problem,,CODE,0,50.0,4.666666666666667,36
 253,0,373,True,2017-01-05 19:36:19.263000000,,/training/expert/xorandor,0,,,expert,,,89,6645549f0536f405210cf72dcf177d04e3fc625,Xorandor,,CODE,0,50.0,4.548387096774194,31
 254,0,302,True,2017-01-10 20:26:09.744000000,,/training/hard/hit-the-road,0,,,hard,,,165,669017901d49d6426c62e5bdc4c5470e2a1090d,Hit the road,,CODE,0,50.0,4.3,50
 255,0,165,True,2017-01-15 21:52:37.218000000,,/training/hard/wall-street,0,,,hard,,,108,67993252bd8dac31856bc92881bcf777922cf1f,Wall Street,,CODE,0,50.0,3.52,25
 293,0,111,True,2017-02-24 18:07:57.466000000,,/training/hard/rocket-mice,0,,,hard,,,72,,Rocket mice,,CODE,0,50.0,4.066666666666666,15
-294,0,652,True,2017-02-25 16:25:36.104000000,,/training/hard/hanoi-tower,0,,2019-09-29 12:35:04.048000000,hard,,,356,7063387a0ff2b7cb2f744ddd0f8f0b761a87c01,Hanoi tower,,CODE,100,50.0,4.230769230769231,104
-298,0,5717,False,2017-03-07 17:05:16.926000000,,/multiplayer/bot-programming/ghost-in-the-cell,0,3530.0,2019-09-11 11:27:55.116999936,multi,,497.0,0,71009451eebac84f51f510c325ab61eabb2ddbb,Ghost in the Cell,611.0,ARENA,0,,4.851174934725848,383
+294,0,654,True,2017-02-25 16:25:36.104000000,,/training/hard/hanoi-tower,0,,2019-09-29 12:35:04.048000000,hard,,,357,7063387a0ff2b7cb2f744ddd0f8f0b761a87c01,Hanoi tower,,CODE,100,50.0,4.230769230769231,104
+298,0,5737,False,2017-03-07 17:05:16.926000000,,/multiplayer/bot-programming/ghost-in-the-cell,0,3546.0,2019-10-02 06:57:41.312999936,multi,,502.0,0,71009451eebac84f51f510c325ab61eabb2ddbb,Ghost in the Cell,612.0,ARENA,0,,4.851948051948052,385
 299,0,1530,True,2017-03-08 10:45:24.152000000,,/training/medium/sandpile-addition,0,,2017-05-29 17:09:04.032000000,medium,,,1215,7135205ef4feecef73e9395695b28f71097753e,Sandpile addition,,CODE,100,50.0,4.306451612903226,310
 307,0,759,True,2017-03-23 13:06:40.412000000,,/training/hard/n-queens,0,,2017-05-01 11:16:53.007000064,hard,,,410,7278317abe24922b9ec405ab6bad3db6559ccf3,n Queens,,CODE,100,50.0,4.151515151515151,99
-308,0,845,True,2017-03-23 14:46:41.341000000,,/training/hard/turing-machine,0,,,hard,,,508,7331076e0176b3a86ad717759f9fc4a678a6669,Turing machine,,CODE,0,50.0,4.601351351351352,148
+308,0,845,True,2017-03-23 14:46:41.341000000,,/training/hard/turing-machine,0,,,hard,,,509,7331076e0176b3a86ad717759f9fc4a678a6669,Turing machine,,CODE,0,50.0,4.601351351351352,148
 309,0,431,True,2017-03-24 17:41:38.553000000,,/training/expert/binary-neural-network---part-1,0,,2018-09-05 16:33:36.812999936,expert,,,108,81026692d84fba07770ecad0c024a7e6f730da1,Binary neural network - Part 1,,CODE,0,50.0,4.46875,32
 310,0,240,True,2017-03-30 06:43:19.335000000,,/training/expert/binary-neural-network---part-2,0,,,expert,,,90,1321269968270941bdf9bbf67d26682f5b83cb8a,Binary neural network - Part 2,,CODE,0,50.0,4.2592592592592595,27
-311,0,791,True,2017-04-10 14:27:46.458000000,,/training/expert/skylines,0,,2017-05-07 15:41:53.001999872,expert,,,240,7563817f745de7a6869f5e040c442b4be42bb23,Skylines,,CODE,100,50.0,3.942528735632184,87
-312,0,742,True,2017-04-10 16:24:17.020000000,,/training/hard/levenshtein-distance,0,,2017-04-26 18:37:08.024000000,hard,,,411,7485527ab491fc02f9f33e6476dd2fa44af4e11,Levenshtein distance,,CODE,100,50.0,4.271844660194175,103
+311,0,792,True,2017-04-10 14:27:46.458000000,,/training/expert/skylines,0,,2017-05-07 15:41:53.001999872,expert,,,241,7563817f745de7a6869f5e040c442b4be42bb23,Skylines,,CODE,100,50.0,3.942528735632184,87
+312,0,744,True,2017-04-10 16:24:17.020000000,,/training/hard/levenshtein-distance,0,,2017-04-26 18:37:08.024000000,hard,,,412,7485527ab491fc02f9f33e6476dd2fa44af4e11,Levenshtein distance,,CODE,100,50.0,4.271844660194175,103
 313,0,142,True,2017-04-10 16:38:14.887000000,,/training/hard/cheat-solving,0,,,hard,,,92,,Cheat Solving,,CODE,0,50.0,4.625,24
 314,0,1351,True,2017-04-15 13:50:15.694000000,,/training/hard/highest-truncated-pyramid,0,,2017-05-16 09:56:15.739000064,hard,,,668,7493238aefe6b91d1f38ca341390d0d9a0fce75,Highest truncated pyramid,,CODE,100,50.0,4.076190476190476,210
-315,0,1358,True,2017-04-27 16:22:35.358000000,,/training/hard/the-hungry-duck---part-1,0,,2017-07-22 12:31:36.004999936,hard,,,811,75135987808b5745587ae28320c2e22c871f4b4,The hungry duck - part 1,,CODE,100,50.0,4.347593582887701,187
+315,0,1359,True,2017-04-27 16:22:35.358000000,,/training/hard/the-hungry-duck---part-1,0,,2017-07-22 12:31:36.004999936,hard,,,811,75135987808b5745587ae28320c2e22c871f4b4,The hungry duck - part 1,,CODE,100,50.0,4.347593582887701,187
 318,0,874,True,2017-04-28 20:49:19.511000000,,/training/hard/the-hungry-duck---part-2,0,,2017-07-22 12:29:56.060000000,hard,,,605,75139874bc2cc8226a84b928b2325062818f1da,The hungry duck - part 2,,CODE,100,50.0,4.526315789473684,152
-319,0,979,True,2017-05-03 09:06:47.684000000,,/training/hard/monday-tuesday-happy-days,0,,2017-07-02 05:37:40.027000064,hard,,,677,76860952c41d10defddc7566999b9a787acd84b,Monday Tuesday Happy Days,,CODE,100,50.0,4.005780346820809,173
-320,0,186,True,2017-05-04 16:10:31.870000000,,/training/hard/code-your-own-automaton2000-step-1,0,,,hard,,,122,,"Code your own Automaton2000, step 1",,CODE,0,50.0,4.2727272727272725,33
+319,0,980,True,2017-05-03 09:06:47.684000000,,/training/hard/monday-tuesday-happy-days,0,,2017-07-02 05:37:40.027000064,hard,,,678,76860952c41d10defddc7566999b9a787acd84b,Monday Tuesday Happy Days,,CODE,100,50.0,4.005780346820809,173
+320,0,187,True,2017-05-04 16:10:31.870000000,,/training/hard/code-your-own-automaton2000-step-1,0,,,hard,,,122,,"Code your own Automaton2000, step 1",,CODE,0,50.0,4.2727272727272725,33
 321,0,242,True,2017-05-06 22:30:27.932000000,,/training/expert/cubax-folding,0,,,expert,,,65,7760129ec5c1799c0cd21082cd18e7880728618,Cubax Folding,,CODE,0,50.0,4.5,14
-322,0,1954,True,2017-05-07 09:10:57.866000000,,/training/medium/hidden-word,0,,2018-02-08 17:50:28.025999872,medium,,,853,10132961a888d581a385dc69f6a0bf1605b2b1f1,Hidden word,,CODE,100,50.0,4.284403669724771,218
+322,0,1955,True,2017-05-07 09:10:57.866000000,,/training/medium/hidden-word,0,,2018-02-08 17:50:28.025999872,medium,,,853,10132961a888d581a385dc69f6a0bf1605b2b1f1,Hidden word,,CODE,100,50.0,4.284403669724771,218
 323,0,501,True,2017-05-10 07:11:51.208000000,,/training/expert/the-two-piles-difference,0,,2017-06-05 09:43:53.007000064,expert,,,178,7765340c9dd5e06aee0e344c5d9b59a98c3292d,The two piles difference,,CODE,100,50.0,4.366666666666666,60
-324,0,4268,False,2017-05-24 12:15:12.675000000,,/multiplayer/bot-programming/coders-of-the-caribbean,0,2520.0,2019-08-23 09:50:21.761999872,multi,,205.0,0,1018081181968459669d2927a50b6581891af90c,Coders of the Caribbean,416.0,ARENA,0,,4.6125,160
-325,0,1292,True,2017-05-29 08:27:27.015000000,,/training/hard/longest-palindrome,0,,2017-10-28 18:09:18.232000000,hard,,,499,7727937e5f4fae894e568cb7c037da987741b18,Longest Palindrome,,CODE,100,50.0,4.382352941176471,136
-326,0,1264,True,2017-06-07 20:54:28.674000000,,/training/medium/bruce-lee,0,,2017-06-10 19:46:08.003000064,medium,,,977,7816306a3d3df82e169625ad227e33e3f7f8c35,Bruce Lee,,CODE,100,50.0,4.3247863247863245,234
+324,0,4322,False,2017-05-24 12:15:12.675000000,,/multiplayer/bot-programming/coders-of-the-caribbean,0,2553.0,2019-10-07 15:31:23.024999936,multi,,213.0,0,1018081181968459669d2927a50b6581891af90c,Coders of the Caribbean,423.0,ARENA,0,,4.590062111801243,161
+325,0,1294,True,2017-05-29 08:27:27.015000000,,/training/hard/longest-palindrome,0,,2017-10-28 18:09:18.232000000,hard,,,500,7727937e5f4fae894e568cb7c037da987741b18,Longest Palindrome,,CODE,100,50.0,4.382352941176471,136
+326,0,1265,True,2017-06-07 20:54:28.674000000,,/training/medium/bruce-lee,0,,2017-06-10 19:46:08.003000064,medium,,,977,7816306a3d3df82e169625ad227e33e3f7f8c35,Bruce Lee,,CODE,100,50.0,4.3247863247863245,234
 327,0,128,True,2017-07-06 19:06:00.594000000,,/training/hard/parsing-context-free-grammar,0,,,hard,,,76,,Parsing context-free grammar,,CODE,0,50.0,4.526315789473684,19
-328,0,361,True,2017-07-07 15:02:21.532000000,,/training/expert/hitori-solver,0,,,expert,,,85,8025359bc5e3b28778bdcf19d814df82939093a,Hitori solver,,CODE,0,50.0,4.481481481481482,27
-329,0,2753,False,2017-07-12 08:20:30.417000000,,/multiplayer/bot-programming/wondev-woman,0,1404.0,,multi,,,0,,Wondev Woman,1404.0,ARENA,0,,4.578431372549019,102
+328,0,362,True,2017-07-07 15:02:21.532000000,,/training/expert/hitori-solver,0,,,expert,,,85,8025359bc5e3b28778bdcf19d814df82939093a,Hitori solver,,CODE,0,50.0,4.481481481481482,27
+329,0,2757,False,2017-07-12 08:20:30.417000000,,/multiplayer/bot-programming/wondev-woman,0,1404.0,,multi,,,0,,Wondev Woman,1404.0,ARENA,0,,4.578431372549019,102
 330,0,239,True,2017-07-25 09:21:29.795000000,,/training/hard/order-of-oopserations,0,,2017-07-27 16:57:58.732000000,hard,,,168,81705385f113acbc29b62270c28b8b9eccb89f1,Order of Oopserations!,,CODE,0,50.0,4.285714285714286,49
 331,0,712,True,2017-09-02 18:30:46.774000000,,/training/medium/numeral-system,0,,2018-05-01 08:38:46.108000000,medium,,,479,847082075db3d13d91c7ad5ab1105412c9ffa7d,Numeral system,,CODE,100,50.0,4.2330827067669174,133
-332,0,305,True,2017-09-24 20:05:22.803000000,,/training/medium/10101,0,,2017-10-03 15:59:55.046000128,medium,,,257,87865616bde929aba4bfaa99ecd222b89be8754,1010(1),,CODE,100,50.0,3.9322033898305087,59
+332,0,307,True,2017-09-24 20:05:22.803000000,,/training/medium/10101,0,,2017-10-03 15:59:55.046000128,medium,,,259,87865616bde929aba4bfaa99ecd222b89be8754,1010(1),,CODE,100,50.0,3.9322033898305087,59
 333,0,67,False,2017-09-26 15:00:28.302000000,"<i>NA NA NA NA NA BATMAN</i><br>
 Une aventure de Batman comme on les aime : le Joker, des bombes, des otages, un compte à rebours, et un héros. Le héros, c'est vous. A vous de retrouver et désamorcer les bombes avant qu'elles n'explosent ! Alfred a tout prévu pour cela, et vous confie un détecteur de chaleur réglé sur la signature thermique des bombes du Joker. Facile ? On va voir.
 <br>
@@ -486,184 +486,184 @@ Une aventure de Batman comme on les aime : le Joker, des bombes, des otages, un 
 <i>Ce défi moyen est le premier d'une série de deux exercices proposés lors du challenge «&nbsp;Shadows of the Knight&nbsp;». Une fois résolu, pourquoi ne pas tenter de coder le niveau suivant, «&nbsp;Triangulation&nbsp;», sur le même thème mais avec une difficulté accrue.</i>",/training/medium/epsi-shadows-of-the-knight,0,,,medium,,,10,,Les otages - EPSI,,SOLO,0,,5.0,2
 335,0,2645,False,2017-09-29 12:54:24.035000000,,/multiplayer/optimization/the-great-dispatch-disabled,0,1102.0,2018-02-24 09:42:04.377999872,optim,OPTIM,,1018,99030214332e0230243801a99bfc4113c2c7d85,The Great Dispatch,1102.0,SOLO,0,,4.7615384615384615,130
 336,0,416,True,2017-10-01 21:33:12.771000000,,/training/medium/a-star-exercise,0,,,medium,,,219,,A-star exercise,,CODE,0,50.0,4.426229508196721,61
-337,0,436,True,2017-10-07 19:21:56.410000000,,/training/medium/minimax-exercise,0,,,medium,,,231,8861914fd14c664b22a02c24f49e267150b298b,Minimax exercise,,CODE,0,50.0,4.454545454545454,66
-339,0,349,True,2017-10-16 10:55:38.333000000,,/training/medium/monthly-system,0,,2018-05-01 17:43:12.049999872,medium,,,300,110696255d13cccd3dbedd32e522d337a00faeae,Monthly System,,CODE,100,50.0,3.9206349206349205,63
-340,0,754,True,2017-10-17 09:36:39.823000000,,/training/hard/apple-tree,0,,2018-05-26 16:02:08.036000000,hard,,,490,1026599632c3ec9fe874e36d2e6167224a0bb6d0,Apple tree,,CODE,100,50.0,4.556338028169014,142
-341,0,993,True,2017-10-21 21:18:21.497000000,,/training/easy/whats-so-complex-about-mandelbrot,0,,2018-08-11 16:35:39.035000064,easy,,,749,12907952618eb81e9ec7a13bf40b4ef0b134652a,What's so complex about Mandelbrot?,,CODE,100,50.0,3.989637305699482,193
-342,0,665,True,2017-10-21 22:47:48.195000000,,/training/hard/simple-cpu-emulation-1,0,,,hard,,,450,11036921315ad2a797cbbdea91d6e2a60f771874,Simple CPU Emulation 1,,CODE,0,50.0,4.216783216783217,143
-343,0,8194,True,2017-10-23 10:58:42.234000000,,/training/easy/the-river-i-,0,,2018-05-01 08:51:57.039000064,easy,,,6880,1106970849e877fe535a493f6c648bad509cc0b5,The River I.,,CODE,100,50.0,4.389618922470434,1522
-344,0,1189,True,2017-10-23 11:14:04.299000000,,/training/medium/porcupine-fever,0,,2018-03-02 15:49:04.025999872,medium,,,847,103500229c0a933d7ee7e36d75f1abdf7ad8fcfa,Porcupine Fever,,CODE,100,50.0,4.104602510460251,239
-345,0,4307,True,2017-10-24 17:26:23.333000000,,/training/easy/the-river-ii-,0,,2018-06-10 13:40:55.052000000,easy,,,3419,11319389797cdb51d7693f91e874e8513e6bab1a,The River II.,,CODE,100,50.0,4.34235453315291,739
+337,0,437,True,2017-10-07 19:21:56.410000000,,/training/medium/minimax-exercise,0,,,medium,,,231,8861914fd14c664b22a02c24f49e267150b298b,Minimax exercise,,CODE,0,50.0,4.454545454545454,66
+339,0,349,True,2017-10-16 10:55:38.333000000,,/training/medium/monthly-system,0,,2018-05-01 17:43:12.049999872,medium,,,301,110696255d13cccd3dbedd32e522d337a00faeae,Monthly System,,CODE,100,50.0,3.9206349206349205,63
+340,0,756,True,2017-10-17 09:36:39.823000000,,/training/hard/apple-tree,0,,2018-05-26 16:02:08.036000000,hard,,,491,1026599632c3ec9fe874e36d2e6167224a0bb6d0,Apple tree,,CODE,100,50.0,4.556338028169014,142
+341,0,995,True,2017-10-21 21:18:21.497000000,,/training/easy/whats-so-complex-about-mandelbrot,0,,2018-08-11 16:35:39.035000064,easy,,,751,12907952618eb81e9ec7a13bf40b4ef0b134652a,What's so complex about Mandelbrot?,,CODE,100,50.0,3.989637305699482,193
+342,0,666,True,2017-10-21 22:47:48.195000000,,/training/hard/simple-cpu-emulation-1,0,,,hard,,,450,11036921315ad2a797cbbdea91d6e2a60f771874,Simple CPU Emulation 1,,CODE,0,50.0,4.216783216783217,143
+343,0,8240,True,2017-10-23 10:58:42.234000000,,/training/easy/the-river-i-,0,,2018-05-01 08:51:57.039000064,easy,,,6922,1106970849e877fe535a493f6c648bad509cc0b5,The River I.,,CODE,100,50.0,4.387328543435663,1531
+344,0,1190,True,2017-10-23 11:14:04.299000000,,/training/medium/porcupine-fever,0,,2018-03-02 15:49:04.025999872,medium,,,848,103500229c0a933d7ee7e36d75f1abdf7ad8fcfa,Porcupine Fever,,CODE,100,50.0,4.104602510460251,239
+345,0,4330,True,2017-10-24 17:26:23.333000000,,/training/easy/the-river-ii-,0,,2018-06-10 13:40:55.052000000,easy,,,3439,11319389797cdb51d7693f91e874e8513e6bab1a,The River II.,,CODE,100,50.0,4.344549125168236,743
 346,0,270,True,2017-10-26 08:14:31.621000000,,/training/hard/paper-folding-curve,0,,,hard,,,151,,Paper-folding curve,,CODE,0,50.0,4.744186046511628,43
-347,0,432,True,2017-10-27 12:24:44.950000000,,/training/hard/max-rect,0,,,hard,,,176,,Max Rect,,CODE,0,50.0,4.452830188679245,53
-348,0,362,True,2017-10-27 23:19:32.850000000,,/training/expert/unfolding-paper,0,,,expert,,,109,,Unfolding paper,,CODE,0,50.0,4.690476190476191,42
-349,0,660,True,2017-10-28 20:32:03.473000000,,/training/medium/magic-square,0,,2018-02-06 15:53:40.039000064,medium,,,531,9159952b79c26bd0f518ee9d1d9868305c79968,Magic Square,,CODE,100,50.0,3.8442622950819674,122
+347,0,432,True,2017-10-27 12:24:44.950000000,,/training/hard/max-rect,0,,,hard,,,177,,Max Rect,,CODE,0,50.0,4.452830188679245,53
+348,0,364,True,2017-10-27 23:19:32.850000000,,/training/expert/unfolding-paper,0,,,expert,,,110,,Unfolding paper,,CODE,0,50.0,4.785714285714286,42
+349,0,661,True,2017-10-28 20:32:03.473000000,,/training/medium/magic-square,0,,2018-02-06 15:53:40.039000064,medium,,,532,9159952b79c26bd0f518ee9d1d9868305c79968,Magic Square,,CODE,100,50.0,3.8442622950819674,122
 350,0,551,True,2017-10-29 11:40:07.711000000,,/training/medium/count-of-primes-in-a-number-grid,0,,,medium,,,369,,Count of Primes in a number grid,,CODE,0,50.0,4.125,96
-351,0,1514,True,2017-11-03 11:49:47.016000000,,/training/easy/text-formatting,0,,2019-04-06 16:07:11.236000000,easy,,,1028,162578025feef4e6be2bd71808d766b47d88f452,Text formatting,,CODE,100,50.0,4.012605042016807,238
+351,0,1523,True,2017-11-03 11:49:47.016000000,,/training/easy/text-formatting,0,,2019-04-06 16:07:11.236000000,easy,,,1036,162578025feef4e6be2bd71808d766b47d88f452,Text formatting,,CODE,100,50.0,4.016528925619835,242
 352,0,154,True,2017-11-08 20:25:10.208000000,,/training/medium/gravity-centrifuge,0,,,medium,,,125,,Gravity Centrifuge,,CODE,0,50.0,4.34375,32
 354,0,365,True,2017-11-22 22:21:35.838000000,,/training/medium/find-the-replacement,0,,2019-08-18 13:24:37.084000000,medium,,,300,10826944fc544e65567dee067cb32148491fcfa6,Find the replacement,,CODE,100,50.0,3.9746835443037973,79
-355,0,2844,True,2017-11-24 14:09:42.203000000,,/training/easy/the-travelling-salesman-problem,0,,2018-05-26 16:17:04.040999936,easy,,,2137,113193781fddee820a749d59513e9cea33485c0f,The Travelling Salesman Problem,,CODE,100,50.0,4.26077097505669,441
+355,0,2861,True,2017-11-24 14:09:42.203000000,,/training/easy/the-travelling-salesman-problem,0,,2018-05-26 16:17:04.040999936,easy,,,2149,113193781fddee820a749d59513e9cea33485c0f,The Travelling Salesman Problem,,CODE,100,50.0,4.25959367945824,443
 356,0,127,True,2017-11-27 12:40:08.701000000,,/training/hard/monte-carlo-tree-search-exercise,0,,,hard,,,86,,Monte Carlo Tree Search exercise,,CODE,0,50.0,4.4,25
 357,0,236,True,2017-11-30 15:40:32.378000000,,/training/expert/dungeon-designer,0,,,expert,,,88,,Dungeon Designer,,CODE,0,50.0,4.703703703703703,27
-358,0,2104,True,2017-12-01 16:01:04.409000000,,/training/easy/organic-compounds,0,,2019-04-06 13:22:04.052999936,easy,,,1043,118160655aa5b34c2efc2a67618442f54111f1a9,Organic Compounds ?,,CODE,100,50.0,4.212230215827338,278
-359,0,3283,False,2017-12-06 15:45:47.084000000,,/multiplayer/bot-programming/mean-max,0,1619.0,2019-09-29 13:27:38.182000128,multi,,94.0,0,10180963fc428532b58dfb8ce388a3e37a7ec8f6,Mean Max,238.0,ARENA,0,,4.457746478873239,142
-360,0,1344,True,2017-12-06 17:49:20.407000000,,/training/easy/simple-awale,0,,2018-06-10 13:56:45.063000064,easy,,,1122,11753048371ba7387728e1f3fc78e3e0bf433cce,Simple Awalé,,CODE,100,50.0,4.125490196078432,255
-361,0,217,True,2017-12-09 20:53:57.645000000,,/training/medium/2048-scores,0,,,medium,,,125,,2048 scores,,CODE,0,50.0,4.075,40
+358,0,2110,True,2017-12-01 16:01:04.409000000,,/training/easy/organic-compounds,0,,2019-04-06 13:22:04.052999936,easy,,,1047,118160655aa5b34c2efc2a67618442f54111f1a9,Organic Compounds ?,,CODE,100,50.0,4.21505376344086,279
+359,0,3308,False,2017-12-06 15:45:47.084000000,,/multiplayer/bot-programming/mean-max,0,1633.0,2019-10-08 09:44:16.679000064,multi,,78.0,0,10180963fc428532b58dfb8ce388a3e37a7ec8f6,Mean Max,246.0,ARENA,0,,4.461538461538462,143
+360,0,1347,True,2017-12-06 17:49:20.407000000,,/training/easy/simple-awale,0,,2018-06-10 13:56:45.063000064,easy,,,1125,11753048371ba7387728e1f3fc78e3e0bf433cce,Simple Awalé,,CODE,100,50.0,4.12109375,256
+361,0,219,True,2017-12-09 20:53:57.645000000,,/training/medium/2048-scores,0,,,medium,,,126,,2048 scores,,CODE,0,50.0,4.075,40
 363,0,263,True,2017-12-15 18:39:30.746000000,,/training/medium/plight-of-the-fellowship-of-the-ring,0,,,medium,,,149,,Plight Of The Fellowship Of The Ring,,CODE,0,50.0,4.045454545454546,44
-364,0,495,True,2017-12-17 12:39:19.904000000,,/training/medium/bingo,0,,,medium,,,329,,Bingo!,,CODE,0,50.0,4.222222222222222,99
+364,0,497,True,2017-12-17 12:39:19.904000000,,/training/medium/bingo,0,,,medium,,,331,,Bingo!,,CODE,0,50.0,4.222222222222222,99
 365,0,288,True,2017-12-17 18:04:25.732000000,,/training/hard/magic-count-of-numbers,0,,,hard,,,154,,Magic count of numbers,,CODE,0,50.0,4.673469387755102,49
 366,0,170,True,2017-12-19 07:33:34.593000000,,/training/medium/gravity-centrifuge-tuning,0,,,medium,,,129,,Gravity Centrifuge Tuning,,CODE,0,50.0,4.5,40
 367,0,293,True,2017-12-31 16:39:31.025000000,,/training/medium/the-grand-festival---i,0,,2019-09-29 17:49:42.270000128,medium,,,187,13200733fea85a0b2ba29d8e0da541e83468e1e6,The Grand Festival - I,,CODE,100,50.0,4.479166666666667,48
 368,0,302,True,2018-01-03 11:43:04.975000000,,/training/expert/minimax-simple-example,0,,2018-09-06 15:21:19.328999936,expert,,,80,101335839862a9ab646c2bfab268bea19a8554d7,Minimax Simple Example,,CODE,0,50.0,4.611111111111111,36
-369,0,105,True,2018-01-04 13:24:49.016000000,,/training/hard/musical-intervals,0,,,hard,,,82,,Musical Intervals,,CODE,0,50.0,3.909090909090909,22
-370,0,351,True,2018-01-06 17:17:42.160000000,,/training/medium/box-of-cigars,0,,2018-02-08 22:04:51.041999872,medium,,,232,10135317ca34deeb6c26c4dc28fe128b044122b6,Box of Cigars,,CODE,100,50.0,4.326923076923077,52
+369,0,106,True,2018-01-04 13:24:49.016000000,,/training/hard/musical-intervals,0,,,hard,,,82,,Musical Intervals,,CODE,0,50.0,3.909090909090909,22
+370,0,352,True,2018-01-06 17:17:42.160000000,,/training/medium/box-of-cigars,0,,2018-02-08 22:04:51.041999872,medium,,,234,10135317ca34deeb6c26c4dc28fe128b044122b6,Box of Cigars,,CODE,100,50.0,4.326923076923077,52
 371,0,1131,True,2018-01-08 15:34:26.969000000,,/training/hard/expand-the-polynomial,0,,2019-04-06 19:00:12.095000064,hard,,,482,11756974f3f0244e2d461b0a70440a24061fc3e9,Expand the polynomial,,CODE,100,50.0,4.006802721088436,147
 372,0,258,True,2018-01-09 12:50:52.349000000,,/training/medium/polydivisible-number,0,,,medium,,,186,,Polydivisible number,,CODE,0,50.0,3.5535714285714284,56
-373,0,809,True,2018-01-18 14:03:50.136000000,,/training/easy/morellets-random-lines,0,,2019-04-06 12:58:42.072999936,easy,,,434,12908073cbf4738a2442dccaeec20feaf6976f92,Morellet?s random lines,,CODE,100,50.0,3.8119658119658117,117
+373,0,813,True,2018-01-18 14:03:50.136000000,,/training/easy/morellets-random-lines,0,,2019-04-06 12:58:42.072999936,easy,,,436,12908073cbf4738a2442dccaeec20feaf6976f92,Morellet?s random lines,,CODE,100,50.0,3.831932773109244,119
 374,0,173,True,2018-01-21 12:36:30.958000000,,/training/medium/the-grand-festival---ii,0,,,medium,,,144,,The Grand Festival - II,,CODE,0,50.0,4.342105263157895,38
 375,0,285,True,2018-01-21 16:56:56.395000000,,/training/medium/format-string-validation,0,,,medium,,,200,10031635d9bcd367be46a72316f1abd6924c8538,Format string validation,,CODE,0,50.0,3.9545454545454546,44
-376,0,3969,False,2018-01-31 17:40:15.360000000,,/multiplayer/bot-programming/code4life,0,1731.0,2019-09-28 11:54:54.480999936,multi,,76.0,0,1010255178f353546f132c103605d3cb3d582a23,Code4Life,451.0,ARENA,0,,4.751322751322752,189
-377,0,570,True,2018-02-20 09:11:59.119000000,,/training/medium/flood-fill-example,0,,,medium,,,325,10359448271cfb703da097359db113c54bde1bed,Flood fill Example,,CODE,0,50.0,4.169811320754717,106
+376,0,3984,False,2018-01-31 17:40:15.360000000,,/multiplayer/bot-programming/code4life,0,1738.0,2019-10-01 10:03:42.619000064,multi,,76.0,0,1010255178f353546f132c103605d3cb3d582a23,Code4Life,451.0,ARENA,0,,4.752631578947368,190
+377,0,573,True,2018-02-20 09:11:59.119000000,,/training/medium/flood-fill-example,0,,,medium,,,328,10359448271cfb703da097359db113c54bde1bed,Flood fill Example,,CODE,0,50.0,4.177570093457944,107
 378,0,114,True,2018-02-20 23:46:08.214000000,,/training/hard/dominoes-solver,0,,,hard,,,80,,Dominoes solver,,CODE,0,50.0,4.473684210526316,19
-380,0,3638,False,2018-02-28 16:59:27.335000000,,/multiplayer/bot-programming/tic-tac-toe,0,2237.0,2019-09-28 12:38:38.502000128,multi,,823.0,0,10804638dd17678d7a97c666cdbce3cacfb1ca71,Ultimate Tic-Tac-Toe,1233.0,ARENA,0,,4.826291079812207,213
-381,0,257,True,2018-03-10 18:57:37.848000000,,/training/expert/completed-mahjong-hands,0,,,expert,,,92,105158775e7744b4992f72696db9106871006bdf,Completed Mahjong Hands,,CODE,0,50.0,4.25,32
-382,0,1298,False,2018-03-21 16:12:40.662000000,,/multiplayer/bot-programming/botters-of-the-galaxy,0,726.0,,multi,,,0,,Botters of the Galaxy,726.0,ARENA,0,,4.08,75
-383,0,3691,False,2018-04-19 13:04:20.339000000,,/multiplayer/bot-programming/code-royale,0,1872.0,,multi,,,0,,Code Royale,1872.0,ARENA,0,,4.677685950413223,121
-384,0,240,True,2018-05-09 07:19:14.447000000,,/training/medium/paper-labyrinth,0,,,medium,,,170,,Paper labyrinth,,CODE,0,50.0,4.425531914893617,47
-385,0,264,True,2018-05-26 18:39:50.499000000,,/training/expert/high-rise-buildings,0,,,expert,,,78,,High-rise buildings,,CODE,0,50.0,4.590909090909091,22
-386,0,222,True,2018-06-05 23:08:24.115000000,,/training/medium/brackets-ultimate-edition,0,,,medium,,,126,,"Brackets, Ultimate Edition",,CODE,0,50.0,4.363636363636363,33
+380,0,3652,False,2018-02-28 16:59:27.335000000,,/multiplayer/bot-programming/tic-tac-toe,0,2247.0,2019-10-02 06:13:33.352000000,multi,,843.0,0,10804638dd17678d7a97c666cdbce3cacfb1ca71,Ultimate Tic-Tac-Toe,1235.0,ARENA,0,,4.827102803738318,214
+381,0,259,True,2018-03-10 18:57:37.848000000,,/training/expert/completed-mahjong-hands,0,,,expert,,,92,105158775e7744b4992f72696db9106871006bdf,Completed Mahjong Hands,,CODE,0,50.0,4.25,32
+382,0,1304,False,2018-03-21 16:12:40.662000000,,/multiplayer/bot-programming/botters-of-the-galaxy,0,731.0,,multi,,,0,,Botters of the Galaxy,731.0,ARENA,0,,4.08,75
+383,0,3746,False,2018-04-19 13:04:20.339000000,,/multiplayer/bot-programming/code-royale,0,1891.0,,multi,,,0,,Code Royale,1891.0,ARENA,0,,4.680327868852459,122
+384,0,241,True,2018-05-09 07:19:14.447000000,,/training/medium/paper-labyrinth,0,,,medium,,,171,,Paper labyrinth,,CODE,0,50.0,4.425531914893617,47
+385,0,265,True,2018-05-26 18:39:50.499000000,,/training/expert/high-rise-buildings,0,,,expert,,,78,,High-rise buildings,,CODE,0,50.0,4.590909090909091,22
+386,0,223,True,2018-06-05 23:08:24.115000000,,/training/medium/brackets-ultimate-edition,0,,,medium,,,127,,"Brackets, Ultimate Edition",,CODE,0,50.0,4.363636363636363,33
 387,0,191,True,2018-06-07 10:34:42.570000000,,/training/medium/de-fizzbuzzer,0,,2018-06-12 14:28:11.206000128,medium,,,161,11796162f36c534b62a0111bd239e55f6a34c8e4,De-FizzBuzzer,,CODE,100,50.0,4.157894736842105,38
 388,0,230,True,2018-06-08 11:52:53.201000000,,/training/medium/bag-of-balls,0,,2018-09-03 17:05:15.564000000,medium,,,140,12921671e6f189935ca5d72dc3a330acc407f34c,Bag of Balls,,CODE,0,50.0,4.103448275862069,29
-393,0,1953,True,2018-06-14 08:10:02.969000000,,/training/easy/disordered-first-contact,0,,2019-01-19 12:38:56.052000000,easy,,,1112,11838031ddf6175b590aa5f206f1daf508d24872,Disordered First Contact,,CODE,100,50.0,4.131672597864768,281
+393,0,1962,True,2018-06-14 08:10:02.969000000,,/training/easy/disordered-first-contact,0,,2019-01-19 12:38:56.052000000,easy,,,1121,11838031ddf6175b590aa5f206f1daf508d24872,Disordered First Contact,,CODE,100,50.0,4.134751773049645,282
 394,0,177,True,2018-06-17 20:57:24.862000000,,/training/medium/simplified-monopoly-turns-prediction,0,,2019-08-13 17:05:09.127000064,medium,,,153,21174256886bf9ef718e426405fe82b5a6cabd20,Simplified Monopoly? Turns Prediction,,CODE,100,50.0,4.444444444444445,36
-395,0,1826,True,2018-06-21 16:21:31.503000000,,/training/easy/isbn-check-digit,0,,2018-08-07 18:50:07.057999872,easy,,,1388,12844726e87c57a708d45bb3007201dc13afcfb1,ISBN Check digit,,CODE,100,50.0,3.911242603550296,338
-396,0,5106,True,2018-06-23 21:37:30.115000000,,/training/easy/bank-robbers,0,,2018-07-13 15:49:00.048999936,easy,,,3509,123667112195a2cdd12219645e7b3129cb8315ca,Bank Robbers,,CODE,100,50.0,4.386114494518879,821
-397,2,13828,False,2018-06-25 14:07:30.154000000,Description par défaut.,/training/medium/aneo,2,,2018-07-13 15:28:16.028999936,medium,,,4555,12365785c2408049f25029f06ec5db3dd70a6b1f,ANEO Sponsored Puzzle,,CODE,100,100.0,4.150877192982456,285
+395,0,1841,True,2018-06-21 16:21:31.503000000,,/training/easy/isbn-check-digit,0,,2018-08-07 18:50:07.057999872,easy,,,1402,12844726e87c57a708d45bb3007201dc13afcfb1,ISBN Check digit,,CODE,100,50.0,3.906158357771261,341
+396,0,5149,True,2018-06-23 21:37:30.115000000,,/training/easy/bank-robbers,0,,2018-07-13 15:49:00.048999936,easy,,,3543,123667112195a2cdd12219645e7b3129cb8315ca,Bank Robbers,,CODE,100,50.0,4.390832328106152,829
+397,2,14060,False,2018-06-25 14:07:30.154000000,Description par défaut.,/training/medium/aneo,2,,2018-07-13 15:28:16.028999936,medium,,,4631,12365785c2408049f25029f06ec5db3dd70a6b1f,ANEO Sponsored Puzzle,,CODE,100,100.0,4.15625,288
 398,0,77,True,2018-06-25 20:29:08.495000000,,/training/hard/symbolic-system-of-equations,0,,,hard,,,65,,Symbolic system of equations,,CODE,0,50.0,4.083333333333333,12
 399,0,79,True,2018-06-25 22:14:04.124000000,,/training/hard/horn-sat-solver,0,,,hard,,,67,123928053f4483f588409f5eae87aeba6f214bf9,Horn-SAT solver,,CODE,0,50.0,4.625,16
 400,0,201,True,2018-06-26 11:26:41.371000000,,/training/medium/bulgarian-solitaire,0,,2019-08-13 16:30:53.155000064,medium,,,172,2120166454abbde09e279e06199ee97edafa98ec,Bulgarian solitaire,,CODE,100,50.0,4.333333333333333,30
 401,0,169,True,2018-06-26 16:59:59.992000000,,/training/medium/trits-balanced-ternary-computing,0,,2019-07-28 13:19:42.044999936,medium,,,152,207670329d5959fcbec4ce7bd6bfd8899852dee8,Trits (Balanced Ternary Computing),,CODE,100,50.0,4.388888888888889,36
-402,0,497,True,2018-06-26 21:05:42.040000000,,/training/medium/depot-organization,0,,,medium,,,170,,Depot organization,,CODE,0,50.0,4.595744680851064,47
-403,0,1453,True,2018-06-27 17:15:21.805000000,,/training/easy/111-rubiks-cube-movements,0,,2019-04-06 14:26:24.051000064,easy,,,1056,12565960b4cc673ed83e4ad9393e704b739d32e2,1×1×1 Rubik?s cube movements,,CODE,100,50.0,4.135338345864661,266
+402,0,498,True,2018-06-26 21:05:42.040000000,,/training/medium/depot-organization,0,,,medium,,,170,,Depot organization,,CODE,0,50.0,4.595744680851064,47
+403,0,1461,True,2018-06-27 17:15:21.805000000,,/training/easy/111-rubiks-cube-movements,0,,2019-04-06 14:26:24.051000064,easy,,,1062,12565960b4cc673ed83e4ad9393e704b739d32e2,1×1×1 Rubik?s cube movements,,CODE,100,50.0,4.135338345864661,266
 404,0,114,True,2018-06-27 22:34:03.052000000,,/training/hard/the-empire-enigma,0,,,hard,,,82,,The Empire Enigma,,CODE,0,50.0,4.5,18
-405,0,245,True,2018-07-01 02:26:34.534000000,,/training/hard/factorials-of-primes-decomposition,0,,,hard,,,109,218273988ebc6e62ff1ac58bf3659746c44c37e1,Factorials of primes decomposition,,CODE,0,50.0,4.702702702702703,37
-406,0,390,True,2018-07-01 21:39:19.370000000,,/training/medium/the-optimal-urinal-problem,0,,,medium,,,197,,The Optimal Urinal Problem,,CODE,0,50.0,4.574468085106383,47
+405,0,250,True,2018-07-01 02:26:34.534000000,,/training/hard/factorials-of-primes-decomposition,0,,,hard,,,110,218273988ebc6e62ff1ac58bf3659746c44c37e1,Factorials of primes decomposition,,CODE,0,50.0,4.7105263157894735,38
+406,0,390,True,2018-07-01 21:39:19.370000000,,/training/medium/the-optimal-urinal-problem,0,,,medium,,,198,,The Optimal Urinal Problem,,CODE,0,50.0,4.574468085106383,47
 407,0,92,True,2018-07-03 21:21:03.441000000,,/training/hard/the-total-is-right---weird-edition,0,,,hard,,,71,,The Total is Right - Weird edition,,CODE,0,50.0,4.571428571428571,14
-408,0,2157,True,2018-07-07 15:36:26.273000000,,/training/easy/order-of-succession,0,,2019-01-23 16:50:11.039000064,easy,,,1425,158973353cc30e47019f0cd4ffabda545819c320,orDer oF succeSsion,,CODE,100,50.0,4.314540059347181,337
-410,0,1632,False,2018-07-11 15:51:35.791000000,,/multiplayer/bot-programming/code-of-kutulu,0,807.0,,multi,,,0,,Code of Kutulu,807.0,ARENA,0,,4.622641509433962,53
+408,0,2167,True,2018-07-07 15:36:26.273000000,,/training/easy/order-of-succession,0,,2019-01-23 16:50:11.039000064,easy,,,1432,158973353cc30e47019f0cd4ffabda545819c320,orDer oF succeSsion,,CODE,100,50.0,4.320588235294117,340
+410,0,1647,False,2018-07-11 15:51:35.791000000,,/multiplayer/bot-programming/code-of-kutulu,0,812.0,,multi,,,0,,Code of Kutulu,812.0,ARENA,0,,4.622641509433962,53
 411,0,71,True,2018-07-16 14:54:20.702000000,,/training/expert/cg-chat-interpreter---part-1,0,,,expert,,,51,,CG Chat interpreter - Part 1,,CODE,0,50.0,4.25,8
 412,0,205,True,2018-07-16 16:29:40.919000000,,/training/hard/breakout,0,,,hard,,,64,,Breakout,,CODE,0,50.0,4.7,10
-413,0,392,True,2018-07-18 21:19:15.197000000,,/training/medium/brackets-extended-edition,0,,,medium,,,279,,"Brackets, Extended Edition",,CODE,0,50.0,4.369230769230769,65
+413,0,392,True,2018-07-18 21:19:15.197000000,,/training/medium/brackets-extended-edition,0,,,medium,,,280,,"Brackets, Extended Edition",,CODE,0,50.0,4.369230769230769,65
 414,0,205,True,2018-07-19 09:27:05.892000000,,/training/expert/cross-the-lines,0,,,expert,,,60,128965527096d9177fbdd0d7ad9fd00b35585352,Cross the lines,,CODE,0,50.0,5.0,12
-415,0,672,True,2018-08-14 18:50:46.916000000,,/training/medium/counting-squares-on-pegs,0,,2018-08-15 15:43:14.033999872,medium,,,268,129563895b362d0639a31bf9036efeb84e70b1c2,Counting Squares on Pegs,,CODE,100,50.0,4.337837837837838,74
+415,0,674,True,2018-08-14 18:50:46.916000000,,/training/medium/counting-squares-on-pegs,0,,2018-08-15 15:43:14.033999872,medium,,,269,129563895b362d0639a31bf9036efeb84e70b1c2,Counting Squares on Pegs,,CODE,100,50.0,4.337837837837838,74
 417,0,73,True,2018-08-24 12:38:04.794000000,,/training/hard/dumbbells-solver,0,,,hard,,,67,2076699826780af4ad6c00c0a3b83ffdf6dcc531,Dumbbells solver,,CODE,0,50.0,4.615384615384615,13
-418,0,120,True,2018-08-25 19:23:22.785000000,,/training/hard/sum-of-odd,0,,,hard,,,97,,Sum of odd,,CODE,0,50.0,4.222222222222222,27
-419,0,6978,True,2018-08-30 10:09:36.807000000,,/training/easy/ghost-legs,0,,2018-09-02 15:24:22.065999872,easy,,,4970,131903190a6f34402f859457b29e4b14ed5f9f8a,Ghost Legs,,CODE,100,50.0,4.531384350816853,1163
-420,0,2489,False,2018-09-12 14:16:06.303000000,,/multiplayer/bot-programming/legends-of-code-magic,0,1131.0,,multi,,,0,,Legends of Code & Magic,1131.0,ARENA,0,,4.693548387096774,124
+418,0,121,True,2018-08-25 19:23:22.785000000,,/training/hard/sum-of-odd,0,,,hard,,,97,,Sum of odd,,CODE,0,50.0,4.222222222222222,27
+419,0,7075,True,2018-08-30 10:09:36.807000000,,/training/easy/ghost-legs,0,,2018-09-02 15:24:22.065999872,easy,,,5038,131903190a6f34402f859457b29e4b14ed5f9f8a,Ghost Legs,,CODE,100,50.0,4.5315699658703075,1172
+420,0,2521,False,2018-09-12 14:16:06.303000000,,/multiplayer/bot-programming/legends-of-code-magic,0,1148.0,,multi,,,0,,Legends of Code & Magic,1148.0,ARENA,0,,4.696,125
 421,0,172,True,2018-09-17 17:44:00.363000000,,/training/medium/kaprekars-routine,0,,2019-08-11 18:32:04.220999936,medium,,,153,21147136c373b8c5651df147c72c7b9be0a6b9aa,Kaprekar's routine,,CODE,100,50.0,4.341463414634147,41
 422,0,220,True,2018-09-19 04:01:15.050000000,,/training/medium/maximum-sub-sequence,0,,2019-08-17 10:53:18.048999936,medium,,,187,16321756788b5ebf594e8d1396fac5cac47d8b67,Maximum sub-sequence,,CODE,100,50.0,4.390243902439025,41
-423,0,75,True,2018-09-22 10:12:46.383000000,,/training/hard/remainder-fantasy,0,,,hard,,,62,,Remainder Fantasy,,CODE,0,50.0,4.416666666666667,12
-424,0,548,True,2018-09-23 12:53:52.470000000,,/training/medium/locked-in-gear,0,,2019-08-17 19:25:07.716999936,medium,,,261,163212678d89635518890a6b217cc5d6cc96bad7,Locked in gear,,CODE,100,50.0,4.5,86
+423,0,76,True,2018-09-22 10:12:46.383000000,,/training/hard/remainder-fantasy,0,,,hard,,,62,,Remainder Fantasy,,CODE,0,50.0,4.416666666666667,12
+424,0,549,True,2018-09-23 12:53:52.470000000,,/training/medium/locked-in-gear,0,,2019-08-17 19:25:07.716999936,medium,,,262,163212678d89635518890a6b217cc5d6cc96bad7,Locked in gear,,CODE,100,50.0,4.5,86
 425,0,195,True,2018-09-23 13:45:06.076000000,,/training/medium/short-accounts-make-long-friends,0,,2019-08-17 18:25:55.896000000,medium,,,111,17488860a4528a5cfa4c096254a452c6f28a21cf,Short accounts make long friends,,CODE,100,50.0,4.419354838709677,31
-426,0,751,True,2018-09-27 22:26:42.669000000,,/training/medium/dice-probability-calculator,0,,,medium,,,345,1484222172db8fe08e501bb6e8de6c216fc930ec,Dice probability calculator,,CODE,0,50.0,4.75,100
-427,0,573,True,2018-09-29 17:08:05.080000000,,/training/medium/number-of-paths-between-2-points,0,,2019-01-19 13:43:37.056000000,medium,,,387,15849219a8d84bb32396f2555c2da42f062ead44,Number of paths between 2 points,,CODE,100,50.0,4.445652173913044,92
-428,0,1102,True,2018-09-30 15:21:28.597000000,,/training/easy/addem-up,0,,2019-04-06 18:27:16.008000000,easy,,,815,1783790708fc676dbe51656c9c97c9b3ff0bddcb,Add'em Up,,CODE,100,50.0,4.0932642487046635,193
-429,0,1934,True,2018-09-30 21:26:39.528000000,,/training/easy/pirates-treasure,0,,2019-01-01 16:49:41.039000064,easy,,,1226,15477744ccd5ba3008c6d67a7c9d2f78adf18f0a,Pirate's treasure,,CODE,100,50.0,4.148698884758364,269
-431,0,258,True,2018-10-09 18:58:53.833000000,,/training/hard/harmless-rooks,0,,,hard,,,60,18132787a00e73b8ce23df8e934bc66c44b1e87f,Harmless Rooks,,CODE,0,50.0,4.642857142857143,14
-432,0,274,True,2018-10-11 08:48:33.407000000,,/training/hard/neighbor-sum-grids,0,,,hard,,,59,,Neighbor-Sum Grids,,CODE,0,50.0,4.9,10
-433,0,2277,True,2018-10-14 10:35:41.656000000,,/training/easy/encryptiondecryption-of-enigma-machine,0,,2019-01-01 16:34:19.036999936,easy,,,1796,14842178a30131ff497d0f297879242ce0bdf803,Encryption/Decryption of Enigma Machine,,CODE,100,50.0,4.424036281179139,441
+426,0,758,True,2018-09-27 22:26:42.669000000,,/training/medium/dice-probability-calculator,0,,,medium,,,349,1484222172db8fe08e501bb6e8de6c216fc930ec,Dice probability calculator,,CODE,0,50.0,4.742574257425742,101
+427,0,576,True,2018-09-29 17:08:05.080000000,,/training/medium/number-of-paths-between-2-points,0,,2019-01-19 13:43:37.056000000,medium,,,389,15849219a8d84bb32396f2555c2da42f062ead44,Number of paths between 2 points,,CODE,100,50.0,4.445652173913044,92
+428,0,1112,True,2018-09-30 15:21:28.597000000,,/training/easy/addem-up,0,,2019-04-06 18:27:16.008000000,easy,,,827,1783790708fc676dbe51656c9c97c9b3ff0bddcb,Add'em Up,,CODE,100,50.0,4.092307692307692,195
+429,0,1950,True,2018-09-30 21:26:39.528000000,,/training/easy/pirates-treasure,0,,2019-01-01 16:49:41.039000064,easy,,,1237,15477744ccd5ba3008c6d67a7c9d2f78adf18f0a,Pirate's treasure,,CODE,100,50.0,4.147058823529412,272
+431,0,259,True,2018-10-09 18:58:53.833000000,,/training/hard/harmless-rooks,0,,,hard,,,60,18132787a00e73b8ce23df8e934bc66c44b1e87f,Harmless Rooks,,CODE,0,50.0,4.642857142857143,14
+432,0,274,True,2018-10-11 08:48:33.407000000,,/training/hard/neighbor-sum-grids,0,,,hard,,,60,,Neighbor-Sum Grids,,CODE,0,50.0,4.909090909090909,11
+433,0,2318,True,2018-10-14 10:35:41.656000000,,/training/easy/encryptiondecryption-of-enigma-machine,0,,2019-01-01 16:34:19.036999936,easy,,,1825,14842178a30131ff497d0f297879242ce0bdf803,Encryption/Decryption of Enigma Machine,,CODE,100,50.0,4.4222222222222225,450
 434,0,92,True,2018-10-15 18:20:23.048000000,,/training/medium/enigma---3-rotors-without-plugboard,0,,,medium,,,78,,Enigma - 3 rotors without plugboard,,CODE,0,50.0,3.76,25
-435,0,1224,True,2018-10-17 17:54:24.327000000,,/training/medium/guessing-n-cheating,0,,2019-04-06 14:51:07.039000064,medium,,,620,178342510b18152727cba1a085c21eba65e8d64a,Guessing n Cheating,,CODE,100,50.0,3.4375,192
-436,0,109,True,2018-10-18 07:52:55.420000000,,/training/medium/html-table-cell-split,0,,,medium,,,79,,HTML table cell split,,CODE,0,50.0,3.5555555555555554,18
-437,0,1177,True,2018-10-21 20:22:16.898000000,,/training/easy/rooks-movements,0,,2019-01-28 17:52:28.056000000,easy,,,721,154777223823412272257c6f8c16d6a760b02d01,Rooks Movements,,CODE,100,50.0,4.143564356435643,202
+435,0,1224,True,2018-10-17 17:54:24.327000000,,/training/medium/guessing-n-cheating,0,,2019-04-06 14:51:07.039000064,medium,,,622,178342510b18152727cba1a085c21eba65e8d64a,Guessing n Cheating,,CODE,100,50.0,3.4404145077720205,193
+436,0,111,True,2018-10-18 07:52:55.420000000,,/training/medium/html-table-cell-split,0,,,medium,,,80,,HTML table cell split,,CODE,0,50.0,3.5555555555555554,18
+437,0,1185,True,2018-10-21 20:22:16.898000000,,/training/easy/rooks-movements,0,,2019-01-28 17:52:28.056000000,easy,,,727,154777223823412272257c6f8c16d6a760b02d01,Rooks Movements,,CODE,100,50.0,4.147783251231527,203
 438,0,105,True,2018-10-22 14:01:16.600000000,,/training/medium/straddling-checkerboard-cryptography,0,,,medium,,,80,,Straddling Checkerboard Cryptography,,CODE,0,50.0,4.0,23
-439,0,1134,False,2018-10-23 16:10:14.922000000,Description par défaut.,/multiplayer/optimization/a-star-craft,0,612.0,2019-09-28 19:15:19.972999936,optim,OPTIM,,624,15046818751c9ad5b6d35864e389e0f6390f66f2,A*Craft,612.0,SOLO,0,,4.547169811320755,106
-440,0,459,True,2018-10-25 07:43:57.514000000,,/training/medium/digit-sum-successor,0,,2019-09-04 16:14:04.048999936,medium,,,218,217893301206ca7742e5de2b082a71687d8c89a7,Digit sum successor,,CODE,100,50.0,4.482142857142857,56
-441,0,674,True,2018-10-27 09:54:45.826000000,,/training/easy/rectangular-block-spinner,0,,2019-04-06 17:52:09.048000000,easy,,,446,155575634bc2a2043d1416565d0e291281a62be1,Rectangular block spinner,,CODE,100,50.0,4.069565217391304,115
-442,0,1263,True,2018-10-31 13:38:40.755000000,,/training/easy/darts,0,,2019-02-05 17:14:05.110000128,easy,,,969,14842193e521c6757b7cd9d39f3ea75e3f94ca29,Darts,,CODE,100,50.0,4.244186046511628,258
-443,0,2274,True,2018-11-03 13:17:52.282000000,,/training/easy/dead-mens-shot,0,,2019-02-07 19:41:53.836000000,easy,,,1332,14842140969b19816678971ca06e486d8ed170dd,Dead men's shot,,CODE,100,50.0,4.289389067524116,311
-444,0,189,True,2018-11-08 04:12:15.606000000,,/training/medium/2-player-game-on-a-calculator,0,,,medium,,,114,17478776d9f72e63e0c2331b18e897586d77a2aa,2-player game on a calculator,,CODE,0,50.0,4.5,40
-445,0,163,True,2018-11-10 15:11:21.713000000,,/training/medium/guessing-digits,0,,,medium,,,65,,Guessing digits,,CODE,0,50.0,3.1739130434782608,23
+439,0,1148,False,2018-10-23 16:10:14.922000000,Description par défaut.,/multiplayer/optimization/a-star-craft,0,620.0,2019-09-28 19:15:19.972999936,optim,OPTIM,,632,15046818751c9ad5b6d35864e389e0f6390f66f2,A*Craft,620.0,SOLO,0,,4.547169811320755,106
+440,0,460,True,2018-10-25 07:43:57.514000000,,/training/medium/digit-sum-successor,0,,2019-09-04 16:14:04.048999936,medium,,,219,217893301206ca7742e5de2b082a71687d8c89a7,Digit sum successor,,CODE,100,50.0,4.482142857142857,56
+441,0,680,True,2018-10-27 09:54:45.826000000,,/training/easy/rectangular-block-spinner,0,,2019-04-06 17:52:09.048000000,easy,,,450,155575634bc2a2043d1416565d0e291281a62be1,Rectangular block spinner,,CODE,100,50.0,4.060344827586207,116
+442,0,1274,True,2018-10-31 13:38:40.755000000,,/training/easy/darts,0,,2019-02-05 17:14:05.110000128,easy,,,976,14842193e521c6757b7cd9d39f3ea75e3f94ca29,Darts,,CODE,100,50.0,4.245210727969349,261
+443,0,2291,True,2018-11-03 13:17:52.282000000,,/training/easy/dead-mens-shot,0,,2019-02-07 19:41:53.836000000,easy,,,1348,14842140969b19816678971ca06e486d8ed170dd,Dead men's shot,,CODE,100,50.0,4.292063492063492,315
+444,0,190,True,2018-11-08 04:12:15.606000000,,/training/medium/2-player-game-on-a-calculator,0,,,medium,,,114,17478776d9f72e63e0c2331b18e897586d77a2aa,2-player game on a calculator,,CODE,0,50.0,4.5,40
+445,0,164,True,2018-11-10 15:11:21.713000000,,/training/medium/guessing-digits,0,,,medium,,,66,,Guessing digits,,CODE,0,50.0,3.1739130434782608,23
 446,0,87,True,2018-12-06 13:01:16.063000000,,/training/medium/equalizing-arrays,0,,,medium,,,49,,Equalizing arrays,,CODE,0,50.0,4.285714285714286,14
-448,0,137,True,2018-12-17 01:04:01.182000000,,/training/medium/ip-mask-calculating,0,,2019-07-26 20:41:10.055000064,medium,,,128,20730215e9a4091099765b3747c71c253e7a89c3,IP mask calculating,,CODE,100,50.0,4.0285714285714285,35
-450,0,693,False,2018-12-21 10:01:36.886000000,,/multiplayer/bot-programming/xmas-rush,0,456.0,,multi,,,0,,Xmas Rush,456.0,ARENA,0,,4.793103448275862,58
-451,0,1260,True,2018-12-21 11:34:41.720000000,,/training/easy/credit-card-verifier-luhns-algorithm,0,,2019-04-06 14:37:21.036999936,easy,,,1115,1783406922e8e5f38ed20d07bf553f72e7decab2,Credit Card Verifier (Luhn?s algorithm),,CODE,100,50.0,4.2073170731707314,246
+448,0,138,True,2018-12-17 01:04:01.182000000,,/training/medium/ip-mask-calculating,0,,2019-07-26 20:41:10.055000064,medium,,,129,20730215e9a4091099765b3747c71c253e7a89c3,IP mask calculating,,CODE,100,50.0,4.0285714285714285,35
+450,0,696,False,2018-12-21 10:01:36.886000000,,/multiplayer/bot-programming/xmas-rush,0,456.0,,multi,,,0,,Xmas Rush,456.0,ARENA,0,,4.793103448275862,58
+451,0,1283,True,2018-12-21 11:34:41.720000000,,/training/easy/credit-card-verifier-luhns-algorithm,0,,2019-04-06 14:37:21.036999936,easy,,,1136,1783406922e8e5f38ed20d07bf553f72e7decab2,Credit Card Verifier (Luhn?s algorithm),,CODE,100,50.0,4.21285140562249,249
 452,0,139,True,2018-12-21 16:31:59.317000000,,/training/medium/dynamic-sorting,0,,,medium,,,103,,Dynamic sorting,,CODE,0,50.0,4.333333333333333,24
 453,0,225,True,2018-12-22 11:00:27.994000000,,/training/hard/the-balanced-centrifuge-problem,0,,,hard,,,51,170053721c7dccf8eb642ab178a13707bde25171,The Balanced Centrifuge Problem,,CODE,0,50.0,4.631578947368421,19
-454,0,1214,True,2018-12-26 10:27:37.321000000,,/training/easy/hunger-games,0,,2019-04-06 18:53:22.040000000,easy,,,767,1783856898cd723eaa8d9d70562a4e50af64bf72,Hunger Games,,CODE,100,50.0,3.9711538461538463,208
-455,0,860,True,2019-01-04 16:55:39.107000000,,/training/easy/the-dart-101,0,,2019-04-06 10:01:39.065999872,easy,,,489,1772974604eedf4bc73c716818d7e377eb54c6f0,The Dart 101,,CODE,100,50.0,3.9379310344827587,145
+454,0,1230,True,2018-12-26 10:27:37.321000000,,/training/easy/hunger-games,0,,2019-04-06 18:53:22.040000000,easy,,,781,1783856898cd723eaa8d9d70562a4e50af64bf72,Hunger Games,,CODE,100,50.0,3.9668246445497632,211
+455,0,873,True,2019-01-04 16:55:39.107000000,,/training/easy/the-dart-101,0,,2019-04-06 10:01:39.065999872,easy,,,492,1772974604eedf4bc73c716818d7e377eb54c6f0,The Dart 101,,CODE,100,50.0,3.9379310344827587,145
 456,0,94,True,2019-01-18 07:25:21.949000000,,/training/medium/green-valleys,0,,2019-08-11 18:53:18.047000064,medium,,,83,21147566e37e852696f9e5ddc217e59fc8fe38c2,Green Valleys,,CODE,100,50.0,4.36,25
-457,0,333,True,2019-01-29 14:06:49.960000000,,/training/medium/goro-want-chocolate,0,,2019-09-02 18:21:02.345999872,medium,,,184,1708015637b3ba9bf8e03e5e40882ed43444b6c7,Goro Want Chocolate,,CODE,0,50.0,4.6938775510204085,49
-458,0,47,True,2019-02-02 14:35:08.940000000,,/training/hard/her-majestys-well-shared-secret,0,,,hard,,,31,,Her Majesty's well shared secret,,CODE,0,50.0,4.714285714285714,7
-459,0,669,True,2019-02-09 13:15:23.806000000,,/training/easy/brick-in-the-wall,0,,2019-02-12 18:09:47.043000064,easy,,,598,16400866789c01d5828af3e8ed0fe8fc1891152a,Brick in the Wall,,CODE,100,50.0,4.17910447761194,134
-460,0,575,True,2019-02-09 19:41:22.480000000,,/multiplayer/bot-programming/vindinium,0,248.0,,multi,,,0,206997477e9a75b8ffa57b51d805f28996f0e03e,Vindinium,248.0,ARENA,0,,4.703703703703703,27
-461,0,683,True,2019-02-10 15:56:36.907000000,,/multiplayer/optimization/bender---episode-4,0,122.0,,optim,OPTIM,,24,,Bender - Episode 4,122.0,SOLO,0,,4.9,20
+457,0,336,True,2019-01-29 14:06:49.960000000,,/training/medium/goro-want-chocolate,0,,2019-09-02 18:21:02.345999872,medium,,,186,1708015637b3ba9bf8e03e5e40882ed43444b6c7,Goro Want Chocolate,,CODE,0,50.0,4.6938775510204085,49
+458,0,154,True,2019-02-02 14:35:08.940000000,,/training/hard/her-majestys-well-shared-secret,0,,,hard,,,39,225365030c30f811f2df5b448381b412bfcf6c20,Her Majesty's well shared secret,,CODE,0,50.0,4.642857142857143,14
+459,0,681,True,2019-02-09 13:15:23.806000000,,/training/easy/brick-in-the-wall,0,,2019-02-12 18:09:47.043000064,easy,,,609,16400866789c01d5828af3e8ed0fe8fc1891152a,Brick in the Wall,,CODE,100,50.0,4.194244604316546,139
+460,0,576,True,2019-02-09 19:41:22.480000000,,/multiplayer/bot-programming/vindinium,0,248.0,,multi,,,0,206997477e9a75b8ffa57b51d805f28996f0e03e,Vindinium,248.0,ARENA,0,,4.703703703703703,27
+461,0,687,True,2019-02-10 15:56:36.907000000,,/multiplayer/optimization/bender---episode-4,0,123.0,,optim,OPTIM,,24,,Bender - Episode 4,123.0,SOLO,0,,4.9,20
 462,0,77,True,2019-02-12 07:57:00.354000000,,/training/medium/domino-puzzle,0,,,medium,,,56,,\ Domino Puzzle /,,CODE,0,50.0,4.25,20
-463,0,66,True,2019-02-18 08:14:31.718000000,,/training/hard/basic-decision-tree---1,0,,,hard,,,35,,Basic Decision Tree - 1,,CODE,0,50.0,4.0,12
-464,0,1305,False,2019-02-19 15:47:40.837000000,Description par défaut.,/multiplayer/codegolf/chuck-norris-codesize,0,1217.0,,codegolf,CODESIZE,279.0,862,1741914742dcc0097badab57536ef620b0a0389d,Chuck Norris - Code Golf,1217.0,CODE,100,,4.457142857142857,140
-465,0,4327,True,2019-02-20 10:39:47.174000000,,/training/easy/lumen,0,,2019-02-27 17:48:22.038000128,easy,,,2773,16801061fd720b65df19d063540137b41848c398,Lumen,,CODE,100,50.0,4.436661698956781,671
-466,0,73,True,2019-02-21 11:17:24.674000000,,/training/medium/european-rugby-champions-cup-ranking,0,,,medium,,,51,,EUROPEAN RUGBY CHAMPIONS CUP RANKING,,CODE,0,50.0,3.65,20
-467,0,758,True,2019-02-22 13:18:47.097000000,,/training/easy/the-frog-jump-1,0,,2019-03-30 22:36:54.046000128,easy,,,380,17663981bbee0a848c65a91a69b6572a28fbd3c0,The Frog Jump 1,,CODE,100,50.0,3.034188034188034,117
-468,0,410,True,2019-02-27 15:23:21.561000000,,/multiplayer/bot-programming/langton-s-ant,0,225.0,,multi,,,0,19748282d7e535992589b34cd468e23caa093291,Langton s Ant,225.0,ARENA,0,,4.631578947368421,19
-469,0,1448,True,2019-02-27 22:57:05.357000000,,/training/easy/blowing-fuse,0,,2019-03-24 00:08:54.048000000,easy,,,1113,174786402d0e27fd327cfa1660f75409c3ab9b61,Blowing Fuse,,CODE,100,50.0,4.251012145748988,247
-470,0,112,True,2019-03-06 12:43:18.746000000,,/training/medium/find-the-winning-strategy,0,,2019-03-24 15:43:51.560000000,medium,,,70,174900066c1668fe5e18ec7f3cc6bb8f51b7a2fb,Find the winning strategy,,SOLO,0,50.0,4.580645161290323,31
-471,0,170,True,2019-03-21 18:56:42.392000000,,/multiplayer/bot-programming/checkers,0,79.0,,multi,,,0,,Checkers,79.0,ARENA,0,,4.384615384615385,13
+463,0,67,True,2019-02-18 08:14:31.718000000,,/training/hard/basic-decision-tree---1,0,,,hard,,,35,,Basic Decision Tree - 1,,CODE,0,50.0,4.0,12
+464,0,1344,False,2019-02-19 15:47:40.837000000,Description par défaut.,/multiplayer/codegolf/chuck-norris-codesize,0,1248.0,,codegolf,CODESIZE,280.0,886,1741914742dcc0097badab57536ef620b0a0389d,Chuck Norris - Code Golf,1248.0,CODE,100,,4.472602739726027,146
+465,0,4399,True,2019-02-20 10:39:47.174000000,,/training/easy/lumen,0,,2019-02-27 17:48:22.038000128,easy,,,2824,16801061fd720b65df19d063540137b41848c398,Lumen,,CODE,100,50.0,4.440233236151603,686
+466,0,74,True,2019-02-21 11:17:24.674000000,,/training/medium/european-rugby-champions-cup-ranking,0,,,medium,,,51,,EUROPEAN RUGBY CHAMPIONS CUP RANKING,,CODE,0,50.0,3.65,20
+468,0,412,True,2019-02-27 15:23:21.561000000,,/multiplayer/bot-programming/langton-s-ant,0,226.0,,multi,,,0,19748282d7e535992589b34cd468e23caa093291,Langton s Ant,226.0,ARENA,0,,4.631578947368421,19
+469,0,1480,True,2019-02-27 22:57:05.357000000,,/training/easy/blowing-fuse,0,,2019-03-24 00:08:54.048000000,easy,,,1135,174786402d0e27fd327cfa1660f75409c3ab9b61,Blowing Fuse,,CODE,100,50.0,4.240963855421687,249
+470,0,115,True,2019-03-06 12:43:18.746000000,,/training/medium/find-the-winning-strategy,0,,2019-03-24 15:43:51.560000000,medium,,,71,174900066c1668fe5e18ec7f3cc6bb8f51b7a2fb,Find the winning strategy,,SOLO,0,50.0,4.580645161290323,31
+471,0,173,True,2019-03-21 18:56:42.392000000,,/multiplayer/bot-programming/checkers,0,81.0,,multi,,,0,,Checkers,81.0,ARENA,0,,4.384615384615385,13
 472,0,185,True,2019-03-21 20:10:36.655000000,,/training/medium/go-competition,0,,,medium,,,83,,Go competition,,CODE,0,50.0,4.454545454545454,33
-473,0,115,True,2019-03-22 07:43:34.400000000,,/multiplayer/bot-programming/yavalath,0,74.0,,multi,,,0,,Yavalath,74.0,ARENA,0,,4.846153846153846,13
-474,0,927,False,2019-03-25 17:24:44.189000000,,/multiplayer/bot-programming/code-a-la-mode,0,537.0,,multi,,,0,,Code a la Mode,537.0,ARENA,0,,4.870967741935484,62
-475,0,324,True,2019-03-28 13:45:06.138000000,,/training/medium/barcode-scanner,0,,,medium,,,183,,Barcode scanner,,CODE,0,50.0,4.245901639344262,61
-476,0,87,True,2019-03-29 11:51:44.255000000,,/training/hard/11-puzzle,0,,,hard,,,25,,11-puzzle,,SOLO,0,50.0,4.909090909090909,11
-477,0,429,True,2019-03-30 22:18:09.886000000,,/training/hard/closest-number,0,,,hard,,,67,,Closest Number,,CODE,0,50.0,4.658536585365853,41
+473,0,117,True,2019-03-22 07:43:34.400000000,,/multiplayer/bot-programming/yavalath,0,76.0,,multi,,,0,,Yavalath,76.0,ARENA,0,,4.846153846153846,13
+474,0,942,False,2019-03-25 17:24:44.189000000,,/multiplayer/bot-programming/code-a-la-mode,0,542.0,,multi,,,0,,Code a la Mode,542.0,ARENA,0,,4.870967741935484,62
+475,0,327,True,2019-03-28 13:45:06.138000000,,/training/medium/barcode-scanner,0,,,medium,,,186,,Barcode scanner,,CODE,0,50.0,4.241935483870968,62
+476,0,91,True,2019-03-29 11:51:44.255000000,,/training/hard/11-puzzle,0,,,hard,,,25,,11-puzzle,,SOLO,0,50.0,4.909090909090909,11
+477,0,431,True,2019-03-30 22:18:09.886000000,,/training/hard/closest-number,0,,,hard,,,67,,Closest Number,,CODE,0,50.0,4.658536585365853,41
 478,0,69,True,2019-04-01 16:53:16.737000000,,/training/medium/fishing-with-a-stick,0,,,medium,,,42,,Fishing With A Stick,,CODE,0,50.0,3.7857142857142856,14
-479,0,43,True,2019-04-08 18:24:05.314000000,,/training/medium/elliptic-curve-cryptography,0,,2019-04-08 18:52:40.068000000,medium,,,26,17890513d2e247592c2d837b73cc68eace914ba9,Elliptic curve cryptography,,CODE,100,50.0,3.625,8
-480,0,93,True,2019-04-08 20:28:34.215000000,,/training/medium/criminal,0,,2019-08-19 17:16:24.148999936,medium,,,51,17912902b6de7b175f359db3656c1de3d95ec018,Criminal,,CODE,100,50.0,3.6,15
-481,0,276,True,2019-04-15 18:45:57.950000000,,/multiplayer/bot-programming/cultist-wars,0,72.0,,multi,,,0,200898474042a36cd03b62378c68a3de3d6c4f0e,Cultist Wars,72.0,ARENA,0,,4.75,4
-482,0,412,True,2019-04-16 08:53:39.661000000,,/training/medium/rearrange-string-to-two-numbers,0,,2019-08-15 13:51:49.092000000,medium,,,88,1849524146da5a30b2e39c552c121a3035b964d4,Rearrange string to two numbers,,CODE,100,50.0,4.24,25
-483,0,361,True,2019-04-19 17:00:47.814000000,,/multiplayer/bot-programming/bit-runner-2048,0,162.0,,multi,,,0,,Bit Runner 2048,162.0,ARENA,0,,4.764705882352941,17
-484,0,186,True,2019-04-21 12:44:32.729000000,,/training/medium/seam-carving,0,,2019-05-15 15:11:05.084000000,medium,,,66,18227949bfd223c73d4ca3962d084c9fea46c327,Seam Carving,,CODE,100,50.0,4.478260869565218,23
-485,0,842,True,2019-04-22 16:06:37.261000000,,/training/medium/robbery-optimisation,0,,2019-04-23 15:06:31.104999936,medium,,,359,1827760127135ece78f51377131566eefad6da68,Robbery optimisation,,CODE,100,50.0,4.516949152542373,118
+479,0,44,True,2019-04-08 18:24:05.314000000,,/training/medium/elliptic-curve-cryptography,0,,2019-04-08 18:52:40.068000000,medium,,,27,17890513d2e247592c2d837b73cc68eace914ba9,Elliptic curve cryptography,,CODE,100,50.0,3.7777777777777777,9
+480,0,93,True,2019-04-08 20:28:34.215000000,,/training/medium/criminal,0,,2019-08-19 17:16:24.148999936,medium,,,52,17912902b6de7b175f359db3656c1de3d95ec018,Criminal,,CODE,100,50.0,3.6,15
+481,0,278,True,2019-04-15 18:45:57.950000000,,/multiplayer/bot-programming/cultist-wars,0,72.0,,multi,,,0,200898474042a36cd03b62378c68a3de3d6c4f0e,Cultist Wars,72.0,ARENA,0,,4.75,4
+482,0,417,True,2019-04-16 08:53:39.661000000,,/training/medium/rearrange-string-to-two-numbers,0,,2019-08-15 13:51:49.092000000,medium,,,90,1849524146da5a30b2e39c552c121a3035b964d4,Rearrange string to two numbers,,CODE,100,50.0,4.153846153846154,26
+483,0,361,True,2019-04-19 17:00:47.814000000,,/multiplayer/bot-programming/bit-runner-2048,0,163.0,,multi,,,0,,Bit Runner 2048,163.0,ARENA,0,,4.764705882352941,17
+484,0,187,True,2019-04-21 12:44:32.729000000,,/training/medium/seam-carving,0,,2019-05-15 15:11:05.084000000,medium,,,67,18227949bfd223c73d4ca3962d084c9fea46c327,Seam Carving,,CODE,100,50.0,4.478260869565218,23
+485,0,846,True,2019-04-22 16:06:37.261000000,,/training/medium/robbery-optimisation,0,,2019-04-23 15:06:31.104999936,medium,,,361,1827760127135ece78f51377131566eefad6da68,Robbery optimisation,,CODE,100,50.0,4.516949152542373,118
 486,0,45,True,2019-04-22 19:57:45.042000000,,/training/hard/discrete-log-problem,0,,2019-04-23 15:07:05.080000000,hard,,,30,182776202a44509b5d8d1c0d0119f0201f78de21,Discrete Log Problem,,CODE,100,50.0,4.363636363636363,11
 487,0,314,True,2019-04-25 10:20:30.580000000,,/training/medium/palindromic-decomposition,0,,2019-05-01 18:46:06.145999872,medium,,,72,18386568d353a5f2e4c9f96e18eb9ae062b1bd46,Palindromic Decomposition,,CODE,0,50.0,4.28125,32
-488,0,127,True,2019-04-25 20:48:37.363000000,,/training/medium/length-of-syracuse-conjecture-sequence,0,,2019-05-01 16:53:53.060999936,medium,,,115,183866116402c1ed2a2a51b1f74702c291dae182,Length of Syracuse Conjecture Sequence,,CODE,100,50.0,4.379310344827586,29
-490,0,179,True,2019-05-02 14:44:54.532000000,,/training/medium/shikaku-solver,0,,2019-05-04 08:00:29.736000000,medium,,,48,185612070f2fda06b2e55e4be9296c672bf08925,Shikaku Solver,,CODE,0,50.0,4.75,16
-491,0,133,True,2019-05-02 17:42:06.527000000,,/multiplayer/bot-programming/bandas,0,97.0,,multi,,,0,,Bandas,97.0,ARENA,0,,4.8,10
-492,0,290,True,2019-05-09 13:03:41.483000000,,/training/medium/regular-polygons,0,,,medium,,,146,21409537bf622ef5b7f9b40fef2492d09b2fcccd,Regular polygons,,CODE,0,50.0,4.555555555555555,45
-499,0,333,True,2019-06-03 13:41:34.543000000,,/training/medium/road-trip,0,,,medium,,,119,,Road Trip,,CODE,0,50.0,4.619047619047619,42
-500,0,470,True,2019-06-05 17:07:19.415000000,,/multiplayer/bot-programming/a-code-of-ice-and-fire,0,416.0,,multi,,,0,,A Code of Ice And Fire,416.0,ARENA,0,,4.950819672131147,61
-501,0,263,True,2019-06-06 22:32:28.862000000,,/training/easy/stall-tilt,0,,2019-06-09 16:29:24.056000000,easy,,,191,19524189846744a86dc09f73906d8498702dd5b7,Stall tilt,,CODE,100,50.0,3.864406779661017,59
-502,0,66,True,2019-06-14 09:32:39.848000000,,/training/medium/jumping-frogs,0,,,medium,,,52,,Jumping Frogs,,CODE,0,50.0,4.318181818181818,22
-503,0,94,True,2019-06-17 12:12:27.114000000,,/training/medium/forest-fire,0,,,medium,,,39,,Forest Fire,,SOLO,0,50.0,4.388888888888889,18
-505,0,1890,True,2019-06-21 12:26:18.240000000,,/training/easy/1d-spreadsheet,0,,2019-06-22 08:43:04.049999872,easy,,,1305,198427049b7bc6017512d714e7a03c420a0118b6,1D Spreadsheet,,CODE,100,50.0,4.610958904109589,365
-506,0,34,True,2019-06-23 17:38:48.660000000,,/training/hard/nonogram-inversor,0,,,hard,,,17,,Nonogram inversor,,CODE,0,50.0,5.0,6
+488,0,129,True,2019-04-25 20:48:37.363000000,,/training/medium/length-of-syracuse-conjecture-sequence,0,,2019-05-01 16:53:53.060999936,medium,,,116,183866116402c1ed2a2a51b1f74702c291dae182,Length of Syracuse Conjecture Sequence,,CODE,100,50.0,4.379310344827586,29
+490,0,182,True,2019-05-02 14:44:54.532000000,,/training/medium/shikaku-solver,0,,2019-05-04 08:00:29.736000000,medium,,,49,185612070f2fda06b2e55e4be9296c672bf08925,Shikaku Solver,,CODE,0,50.0,4.75,16
+491,0,136,True,2019-05-02 17:42:06.527000000,,/multiplayer/bot-programming/bandas,0,100.0,,multi,,,0,,Bandas,100.0,ARENA,0,,4.8,10
+492,0,293,True,2019-05-09 13:03:41.483000000,,/training/medium/regular-polygons,0,,,medium,,,149,21409537bf622ef5b7f9b40fef2492d09b2fcccd,Regular polygons,,CODE,0,50.0,4.543478260869565,46
+499,0,339,True,2019-06-03 13:41:34.543000000,,/training/medium/road-trip,0,,,medium,,,120,,Road Trip,,CODE,0,50.0,4.619047619047619,42
+500,0,474,True,2019-06-05 17:07:19.415000000,,/multiplayer/bot-programming/a-code-of-ice-and-fire,0,419.0,,multi,,,0,,A Code of Ice And Fire,419.0,ARENA,0,,4.951612903225806,62
+501,0,267,True,2019-06-06 22:32:28.862000000,,/training/easy/stall-tilt,0,,2019-06-09 16:29:24.056000000,easy,,,195,19524189846744a86dc09f73906d8498702dd5b7,Stall tilt,,CODE,100,50.0,3.8833333333333333,60
+502,0,66,True,2019-06-14 09:32:39.848000000,,/training/medium/jumping-frogs,0,,,medium,,,53,,Jumping Frogs,,CODE,0,50.0,4.318181818181818,22
+503,0,95,True,2019-06-17 12:12:27.114000000,,/training/medium/forest-fire,0,,,medium,,,43,,Forest Fire,,SOLO,0,50.0,4.388888888888889,18
+505,0,2068,True,2019-06-21 12:26:18.240000000,,/training/easy/1d-spreadsheet,0,,2019-06-22 08:43:04.049999872,easy,,,1435,198427049b7bc6017512d714e7a03c420a0118b6,1D Spreadsheet,,CODE,100,50.0,4.622784810126582,395
+506,0,35,True,2019-06-23 17:38:48.660000000,,/training/hard/nonogram-inversor,0,,,hard,,,17,,Nonogram inversor,,CODE,0,50.0,5.0,6
 507,0,16,True,2019-06-23 17:39:52.745000000,,/training/hard/basic-decision-tree---2,0,,,hard,,,9,,Basic Decision Tree - 2,,CODE,0,50.0,4.0,3
-508,0,192,True,2019-06-23 18:53:32.615000000,,/training/easy/hooch-clash,0,,2019-06-24 16:40:39.064000000,easy,,,139,19892875a2d8dae2fa17acaa24ecdd784ebc5c44,Hooch Clash,,CODE,100,50.0,3.3333333333333335,45
-510,0,153,True,2019-06-28 20:36:41.597000000,,/training/medium/sudoku-solver,0,,,medium,,,84,,Sudoku Solver,,CODE,0,50.0,4.464285714285714,28
-511,0,319,True,2019-06-29 19:31:29.804000000,,/training/medium/knights-jam,0,,,medium,,,133,,Knights Jam,,CODE,0,50.0,4.644444444444445,45
-512,0,714,True,2019-06-30 11:45:17.839000000,,/training/easy/plague-jr,0,,2019-07-24 17:59:45.060000000,easy,,,318,20288537f80b311b707b00c45845d4fdec89a30f,"Plague, Jr",,CODE,100,50.0,4.371134020618556,97
-515,0,296,True,2019-07-09 19:13:38.240000000,,/training/easy/count-as-i-count,0,,2019-07-10 15:35:29.048000000,easy,,,199,20288169a771ad59945796a2f0d5cf4953c72dcf,Count as I count,,CODE,100,50.0,4.294117647058823,51
-516,0,156,True,2019-07-10 08:06:43.698000000,,/training/easy/are-the-clumps-normal,0,,2019-07-10 15:51:50.464000000,easy,,,143,202887079a56ab8c7a1504138f86e9e97375ec41,Are The Clumps Normal,,CODE,100,50.0,4.0256410256410255,39
-517,0,132,True,2019-07-10 16:59:26.958000000,,/training/easy/smooth,0,,2019-07-23 18:46:07.065999872,easy,,,122,205740075aec867e24b0270ef0390e8afd51f301,Smooth!,,CODE,100,50.0,4.0,40
+508,0,196,True,2019-06-23 18:53:32.615000000,,/training/easy/hooch-clash,0,,2019-06-24 16:40:39.064000000,easy,,,141,19892875a2d8dae2fa17acaa24ecdd784ebc5c44,Hooch Clash,,CODE,100,50.0,3.3333333333333335,45
+510,0,161,True,2019-06-28 20:36:41.597000000,,/training/medium/sudoku-solver,0,,,medium,,,87,,Sudoku Solver,,CODE,0,50.0,4.464285714285714,28
+511,0,325,True,2019-06-29 19:31:29.804000000,,/training/medium/knights-jam,0,,,medium,,,136,,Knights Jam,,CODE,0,50.0,4.630434782608695,46
+512,0,737,True,2019-06-30 11:45:17.839000000,,/training/easy/plague-jr,0,,2019-07-24 17:59:45.060000000,easy,,,331,20288537f80b311b707b00c45845d4fdec89a30f,"Plague, Jr",,CODE,100,50.0,4.352941176470588,102
+515,0,307,True,2019-07-09 19:13:38.240000000,,/training/easy/count-as-i-count,0,,2019-07-10 15:35:29.048000000,easy,,,207,20288169a771ad59945796a2f0d5cf4953c72dcf,Count as I count,,CODE,100,50.0,4.283018867924528,53
+516,0,158,True,2019-07-10 08:06:43.698000000,,/training/easy/are-the-clumps-normal,0,,2019-07-10 15:51:50.464000000,easy,,,145,202887079a56ab8c7a1504138f86e9e97375ec41,Are The Clumps Normal,,CODE,100,50.0,4.0256410256410255,39
+517,0,135,True,2019-07-10 16:59:26.958000000,,/training/easy/smooth,0,,2019-07-23 18:46:07.065999872,easy,,,125,205740075aec867e24b0270ef0390e8afd51f301,Smooth!,,CODE,100,50.0,4.0,40
 518,0,33,True,2019-07-11 08:53:20.438000000,,/training/medium/smooth-factory,0,,,medium,,,25,,Smooth Factory,,CODE,0,50.0,4.0,10
-519,0,247,True,2019-07-13 16:24:56.337000000,,/training/easy/a-childs-play,0,,2019-07-27 19:36:47.046000128,easy,,,184,20745864f048f8f1593723ef1ef68f9ad4b9b837,A child's play,,CODE,100,50.0,4.223880597014926,67
-520,0,1008,True,2019-07-25 14:08:02.975000000,,/training/easy/detective-pikaptcha-ep1,0,,2019-07-25 18:54:38.044000000,easy,,,807,206997831f9e1a4866d91e0f16faf2d6ce28a7d1,Detective Pikaptcha EP1,,SOLO,100,50.0,4.382857142857143,175
-521,0,1164,True,2019-07-25 14:08:27.476000000,,/training/easy/detective-pikaptcha-ep2,0,,2019-07-26 16:18:04.049999872,easy,,,590,20700770c20ff370802f3b350c02a526e3dfa567,Detective Pikaptcha EP2,,SOLO,100,50.0,4.4605263157894735,152
-522,0,221,True,2019-07-25 14:08:42.213000000,,/training/medium/detective-pikaptcha-ep3,0,,2019-07-30 15:49:40.407000064,medium,,,163,20751565d5d17887f08106c5791d11270deb448e,Detective Pikaptcha EP3,,SOLO,100,50.0,3.8378378378378377,37
-523,0,155,True,2019-07-25 14:09:07.408000000,,/training/hard/detective-pikaptcha-ep4,0,,2019-08-10 20:39:53.043000064,hard,,,105,208277035034093f884ed9c0a95bad472f49727e,Detective Pikaptcha EP4,,SOLO,100,50.0,4.346153846153846,26
-524,0,287,True,2019-07-29 07:58:47.448000000,,/multiplayer/optimization/cgfunge-prime,0,67.0,,optim,OPTIM,,49,2231810962dda177f414a7234b083607636d197b,CGFunge Prime,67.0,SOLO,0,,4.869565217391305,23
-525,0,749,True,2019-08-01 04:22:33.058000000,,/training/easy/happy-numbers,0,,2019-08-10 20:47:22.040000000,easy,,,601,21130542eae5c5bb21bb3f39537be75b08d15aa4,Happy Numbers,,CODE,100,50.0,4.361111111111111,144
-526,0,64,True,2019-08-01 09:16:23.157000000,,/training/medium/battleship,0,,,medium,,,47,,Battleship,,CODE,0,50.0,4.25,20
-527,0,58,True,2019-08-05 04:54:50.704000000,,/training/expert/breach,0,,,expert,,,16,,Breach,,SOLO,0,50.0,3.909090909090909,11
-528,0,249,True,2019-08-07 23:41:22.811000000,,/training/easy/dolbears-law,0,,2019-08-10 21:10:22.044000000,easy,,,204,21130622b5e8d41096e26f95a6b3d8eab7fb93cd,Dolbear's Law,,CODE,100,50.0,4.087719298245614,57
-529,0,28,True,2019-08-13 07:01:21.404000000,,/training/medium/surakarta,0,,,medium,,,22,,Surakarta,,CODE,0,50.0,4.2,10
-530,0,64,True,2019-08-17 15:38:57.404000000,,/multiplayer/bot-programming/oware-abapa,0,55.0,,multi,,,0,,Oware Abapa,55.0,ARENA,0,,4.454545454545454,11
-531,0,46,True,2019-08-19 09:43:40.533000000,,/training/medium/identifying-data-structure,0,,2019-09-29 18:13:43.073999872,medium,,,39,22504267661a250b2d454e1cc36f97e235276328,Identifying data structure,,CODE,100,50.0,4.388888888888889,18
-532,0,136,True,2019-08-20 19:19:28.122000000,,/training/easy/a-story-to-go-in-circles,0,,2019-08-21 17:14:27.881999872,easy,,,79,21408195471cce6933c5907efb299e34c4ca789f,A story to go in circles,,CODE,100,50.0,3.7058823529411766,34
-533,0,47,True,2019-08-21 15:51:52.752000000,,/training/medium/fun-with-set-theory,0,,,medium,,,35,,Fun with Set theory,,CODE,0,50.0,4.3,10
-535,0,126,True,2019-08-25 05:17:48.668000000,,/training/easy/hello-world,0,,2019-08-31 20:13:50.985999872,easy,,,72,21670507acd9a905a6b4230aaa8776f233dd1c64,"Hello, World!",,CODE,100,50.0,3.5161290322580645,31
-537,0,27,True,2019-09-03 16:35:02.571000000,,/training/medium/dice-galaxy,0,,2019-09-12 18:12:39.048000000,medium,,,22,220190112f568199feecd9415ac16dce228556d9,Dice galaxy,,CODE,100,50.0,3.3636363636363638,11
-538,0,30,True,2019-09-06 19:10:38.163000000,,/training/medium/a-coin-guessing-game,0,,2019-09-12 18:15:29.056999936,medium,,,25,22019049490d83feb2abeb6eaa6d2dca9e93f88b,A Coin Guessing Game,,CODE,100,50.0,3.909090909090909,11
-539,0,20,True,2019-09-09 17:07:42.569000000,,/training/medium/lets-go-to-the-cinema,0,,,medium,,,17,,Let's Go To The Cinema!,,CODE,0,50.0,3.7142857142857144,7
-542,0,370,True,2019-09-16 17:16:56.704000000,,/training/easy/rectangle-partition,0,,2019-09-21 09:45:45.996000000,easy,,,234,22263835fba03d0c4e408a4bc95f7ebb1c6a2d57,Rectangle Partition,,CODE,100,50.0,4.506849315068493,73
-543,0,25,True,2019-09-17 21:30:34.230000000,,/training/medium/windmill-problem,0,,2019-09-22 10:56:53.980999936,medium,,,15,2217850852b0c3fddb249e7af004ef7e6a2cc55f,Windmill problem,,CODE,100,50.0,4.833333333333333,6
-544,0,29,True,2019-09-21 01:17:07.224000000,,/training/medium/photo-booth-transformation,0,,,medium,,,23,,Photo Booth Transformation,,CODE,0,50.0,4.8,5
-545,0,23,True,2019-09-27 10:54:33.998000000,,/training/medium/light-bulbs,0,,,medium,,,15,,Light Bulbs,,CODE,0,50.0,4.8,5
+519,0,262,True,2019-07-13 16:24:56.337000000,,/training/easy/a-childs-play,0,,2019-07-27 19:36:47.046000128,easy,,,197,20745864f048f8f1593723ef1ef68f9ad4b9b837,A child's play,,CODE,100,50.0,4.211267605633803,71
+520,0,1085,True,2019-07-25 14:08:02.975000000,,/training/easy/detective-pikaptcha-ep1,0,,2019-07-25 18:54:38.044000000,easy,,,856,206997831f9e1a4866d91e0f16faf2d6ce28a7d1,Detective Pikaptcha EP1,,SOLO,100,50.0,4.376344086021505,186
+521,0,1234,True,2019-07-25 14:08:27.476000000,,/training/easy/detective-pikaptcha-ep2,0,,2019-07-26 16:18:04.049999872,easy,,,615,20700770c20ff370802f3b350c02a526e3dfa567,Detective Pikaptcha EP2,,SOLO,100,50.0,4.427672955974843,159
+522,0,227,True,2019-07-25 14:08:42.213000000,,/training/medium/detective-pikaptcha-ep3,0,,2019-07-30 15:49:40.407000064,medium,,,164,20751565d5d17887f08106c5791d11270deb448e,Detective Pikaptcha EP3,,SOLO,100,50.0,3.8684210526315788,38
+523,0,156,True,2019-07-25 14:09:07.408000000,,/training/hard/detective-pikaptcha-ep4,0,,2019-08-10 20:39:53.043000064,hard,,,107,208277035034093f884ed9c0a95bad472f49727e,Detective Pikaptcha EP4,,SOLO,100,50.0,4.346153846153846,26
+524,0,331,True,2019-07-29 07:58:47.448000000,,/multiplayer/optimization/cgfunge-prime,0,76.0,,optim,OPTIM,,54,2231810962dda177f414a7234b083607636d197b,CGFunge Prime,76.0,SOLO,0,,4.869565217391305,23
+525,0,804,True,2019-08-01 04:22:33.058000000,,/training/easy/happy-numbers,0,,2019-08-10 20:47:22.040000000,easy,,,634,21130542eae5c5bb21bb3f39537be75b08d15aa4,Happy Numbers,,CODE,100,50.0,4.34640522875817,153
+526,0,67,True,2019-08-01 09:16:23.157000000,,/training/medium/battleship,0,,,medium,,,48,,Battleship,,CODE,0,50.0,4.25,20
+527,0,61,True,2019-08-05 04:54:50.704000000,,/training/expert/breach,0,,,expert,,,16,,Breach,,SOLO,0,50.0,3.909090909090909,11
+528,0,259,True,2019-08-07 23:41:22.811000000,,/training/easy/dolbears-law,0,,2019-08-10 21:10:22.044000000,easy,,,214,21130622b5e8d41096e26f95a6b3d8eab7fb93cd,Dolbear's Law,,CODE,100,50.0,4.086206896551724,58
+529,0,29,True,2019-08-13 07:01:21.404000000,,/training/medium/surakarta,0,,,medium,,,23,,Surakarta,,CODE,0,50.0,4.2,10
+530,0,69,True,2019-08-17 15:38:57.404000000,,/multiplayer/bot-programming/oware-abapa,0,58.0,,multi,,,0,,Oware Abapa,58.0,ARENA,0,,4.5,12
+531,0,47,True,2019-08-19 09:43:40.533000000,,/training/medium/identifying-data-structure,0,,2019-09-29 18:13:43.073999872,medium,,,39,22504267661a250b2d454e1cc36f97e235276328,Identifying data structure,,CODE,100,50.0,4.388888888888889,18
+532,0,143,True,2019-08-20 19:19:28.122000000,,/training/easy/a-story-to-go-in-circles,0,,2019-08-21 17:14:27.881999872,easy,,,81,21408195471cce6933c5907efb299e34c4ca789f,A story to go in circles,,CODE,100,50.0,3.7058823529411766,34
+533,0,48,True,2019-08-21 15:51:52.752000000,,/training/medium/fun-with-set-theory,0,,,medium,,,35,,Fun with Set theory,,CODE,0,50.0,4.3,10
+535,0,135,True,2019-08-25 05:17:48.668000000,,/training/easy/hello-world,0,,2019-08-31 20:13:50.985999872,easy,,,79,21670507acd9a905a6b4230aaa8776f233dd1c64,"Hello, World!",,CODE,100,50.0,3.5454545454545454,33
+537,0,28,True,2019-09-03 16:35:02.571000000,,/training/medium/dice-galaxy,0,,2019-09-12 18:12:39.048000000,medium,,,23,220190112f568199feecd9415ac16dce228556d9,Dice galaxy,,CODE,100,50.0,3.3636363636363638,11
+538,0,32,True,2019-09-06 19:10:38.163000000,,/training/medium/a-coin-guessing-game,0,,2019-09-12 18:15:29.056999936,medium,,,27,22019049490d83feb2abeb6eaa6d2dca9e93f88b,A Coin Guessing Game,,CODE,100,50.0,3.909090909090909,11
+539,0,21,True,2019-09-09 17:07:42.569000000,,/training/medium/lets-go-to-the-cinema,0,,,medium,,,18,,Let's Go To The Cinema!,,CODE,0,50.0,3.7142857142857144,7
+542,0,592,True,2019-09-16 17:16:56.704000000,,/training/easy/rectangle-partition,0,,2019-09-21 09:45:45.996000000,easy,,,337,22263835fba03d0c4e408a4bc95f7ebb1c6a2d57,Rectangle Partition,,CODE,100,50.0,4.544554455445544,101
+543,0,32,True,2019-09-17 21:30:34.230000000,,/training/medium/windmill-problem,0,,2019-09-22 10:56:53.980999936,medium,,,16,2217850852b0c3fddb249e7af004ef7e6a2cc55f,Windmill problem,,CODE,100,50.0,4.833333333333333,6
+544,0,40,True,2019-09-21 01:17:07.224000000,,/training/medium/photo-booth-transformation,0,,,medium,,,31,,Photo Booth Transformation,,CODE,0,50.0,4.833333333333333,6
+545,0,30,True,2019-09-27 10:54:33.998000000,,/training/medium/light-bulbs,0,,,medium,,,21,,Light Bulbs,,CODE,0,50.0,4.571428571428571,7
+546,0,91,True,2019-09-30 10:43:19.878000000,,/training/easy/unit-fractions,0,,2019-09-30 18:29:18.140000000,easy,,,75,2253608439de5db84a7583c73858d952a375abb9,Unit Fractions,,CODE,100,50.0,4.346153846153846,26

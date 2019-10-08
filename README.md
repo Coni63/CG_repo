@@ -47,7 +47,6 @@
 | The Dart 101                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-dart-101)                                 |
 | Brick in the Wall                       | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/brick-in-the-wall)                            |
 | Lumen                                   | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/lumen)                                        |
-| The Frog Jump 1                         | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/the-frog-jump-1)                              |
 | Blowing Fuse                            | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/blowing-fuse)                                 |
 | Stall tilt                              | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/stall-tilt)                                   |
 | 1D Spreadsheet                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/1d-spreadsheet)                               |
@@ -64,6 +63,7 @@
 | A story to go in circles                | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/a-story-to-go-in-circles)                     |
 | Hello, World!                           | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/hello-world)                                  |
 | Rectangle Partition                     | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/rectangle-partition)                          |
+| Unit Fractions                          | easy     | :heavy_check_mark: | [Link](https://www.codingame.com/training/easy/unit-fractions)                               |
 | Skynet Revolution - Episode 1           | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/skynet-revolution-episode-1)                |
 | The Last Crusade - Episode 1            | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/the-last-crusade-episode-1)                 |
 | Mars Lander - Episode 2                 | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/mars-lander-episode-2)                      |
@@ -216,6 +216,7 @@
 | Light Bulbs                             | medium   |                    | [Link](https://www.codingame.com/training/medium/light-bulbs)                                |
 | Skynet Revolution - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/skynet-revolution-episode-2)                  |
 | The Bridge                              | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/the-bridge-episode-2)                         |
+| Power of Thor - Episode 2               | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/power-of-thor-episode-2)                      |
 | Super calculateur                       | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/super-computer)                               |
 | Montagnes russes                        | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/roller-coaster)                               |
 | Indentation CGX                         | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/cgx-formatter)                                |
@@ -225,6 +226,7 @@
 | Bender - Episode 2                      | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/bender-episode-2)                             |
 | Bender - Episode 3                      | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/bender-episode-3)                             |
 | Vox Codei - Episode 1                   | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/vox-codei-episode-1)                          |
+| There is no Spoon - Episode 2           | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/there-is-no-spoon-episode-2)                  |
 | Vote alternatif                         | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/alternative-vote)                             |
 | Spreadsheet Labels                      | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/spreadsheet-labels)                           |
 | Candies                                 | hard     | :heavy_check_mark: | [Link](https://www.codingame.com/training/hard/candies)                                      |
@@ -261,10 +263,8 @@
 | Inertia ride                            | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/inertia-ride)                                 |
 | Tester avant Valider!                   | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/test-before-validate!)                        |
 | Don't Panic - Episode 2                 | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/don't-panic-episode-2)                        |
-| There is no Spoon - Episode 2           | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/there-is-no-spoon-episode-2)                  |
 | Le labyrinthe                           | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/the-labyrinth)                                |
 | The Last Crusade - Episode 2            | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/the-last-crusade-episode-2)                   |
-| Power of Thor - Episode 2               | hard     | :white_check_mark: | [Link](https://www.codingame.com/training/hard/power-of-thor-episode-2)                      |
 | Cryptorithme                            | hard     |                    | [Link](https://www.codingame.com/training/hard/cryptarithm)                                  |
 | Calcul à trous                          | hard     |                    | [Link](https://www.codingame.com/training/hard/mystery-sums)                                 |
 | Solveur de mini sudoku                  | hard     |                    | [Link](https://www.codingame.com/training/hard/mini-sudoku-solver)                           |
