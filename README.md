@@ -132,6 +132,7 @@
 | ANEO Sponsored Puzzle                   | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/aneo)                                       |
 | Bulgarian solitaire                     | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/bulgarian-solitaire)                        |
 | Trits (Balanced Ternary Computing)      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/trits-balanced-ternary-computing)           |
+| The Optimal Urinal Problem              | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/the-optimal-urinal-problem)                 |
 | Counting Squares on Pegs                | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/counting-squares-on-pegs)                   |
 | Kaprekar's routine                      | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/kaprekars-routine)                          |
 | Maximum sub-sequence                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/maximum-sub-sequence)                       |
@@ -153,6 +154,7 @@
 | Dice galaxy                             | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/dice-galaxy)                                |
 | A Coin Guessing Game                    | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/a-coin-guessing-game)                       |
 | Windmill problem                        | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/windmill-problem)                           |
+| Fair Numbering                          | medium   | :heavy_check_mark: | [Link](https://www.codingame.com/training/medium/fair-numbering)                             |
 | Le chemin de dominos                    | medium   |                    | [Link](https://www.codingame.com/training/medium/dominoes-path)                              |
 | DDCG Mapper                             | medium   |                    | [Link](https://www.codingame.com/training/medium/ddcg-mapper)                                |
 | The Ultimate Test                       | medium   |                    | [Link](https://www.codingame.com/training/medium/the-ultimate-test)                          |
@@ -182,8 +184,8 @@
 | Brackets, Ultimate Edition              | medium   |                    | [Link](https://www.codingame.com/training/medium/brackets-ultimate-edition)                  |
 | Bag of Balls                            | medium   |                    | [Link](https://www.codingame.com/training/medium/bag-of-balls)                               |
 | Depot organization                      | medium   |                    | [Link](https://www.codingame.com/training/medium/depot-organization)                         |
-| The Optimal Urinal Problem              | medium   |                    | [Link](https://www.codingame.com/training/medium/the-optimal-urinal-problem)                 |
 | Brackets, Extended Edition              | medium   |                    | [Link](https://www.codingame.com/training/medium/brackets-extended-edition)                  |
+| Remainder Fantasy                       | medium   |                    | [Link](https://www.codingame.com/training/medium/remainder-fantasy)                          |
 | Dice probability calculator             | medium   |                    | [Link](https://www.codingame.com/training/medium/dice-probability-calculator)                |
 | Enigma - 3 rotors without plugboard     | medium   |                    | [Link](https://www.codingame.com/training/medium/enigma---3-rotors-without-plugboard)        |
 | HTML table cell split                   | medium   |                    | [Link](https://www.codingame.com/training/medium/html-table-cell-split)                      |
@@ -316,7 +318,6 @@
 | Breakout                                | hard     |                    | [Link](https://www.codingame.com/training/hard/breakout)                                     |
 | Dumbbells solver                        | hard     |                    | [Link](https://www.codingame.com/training/hard/dumbbells-solver)                             |
 | Sum of odd                              | hard     |                    | [Link](https://www.codingame.com/training/hard/sum-of-odd)                                   |
-| Remainder Fantasy                       | hard     |                    | [Link](https://www.codingame.com/training/hard/remainder-fantasy)                            |
 | Harmless Rooks                          | hard     |                    | [Link](https://www.codingame.com/training/hard/harmless-rooks)                               |
 | Neighbor-Sum Grids                      | hard     |                    | [Link](https://www.codingame.com/training/hard/neighbor-sum-grids)                           |
 | The Balanced Centrifuge Problem         | hard     |                    | [Link](https://www.codingame.com/training/hard/the-balanced-centrifuge-problem)              |
@@ -326,18 +327,19 @@
 | Closest Number                          | hard     |                    | [Link](https://www.codingame.com/training/hard/closest-number)                               |
 | Nonogram inversor                       | hard     |                    | [Link](https://www.codingame.com/training/hard/nonogram-inversor)                            |
 | Basic Decision Tree - 2                 | hard     |                    | [Link](https://www.codingame.com/training/hard/basic-decision-tree---2)                      |
+| Cloudy Weather                          | hard     |                    | [Link](https://www.codingame.com/training/hard/cloudy-weather)                               |
 | La résistance                           | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-resistance)                             |
+| Shadows of the Knight - Episode 2       | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2)            |
 | The barnyard                            | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-barnyard)                               |
 | The Crime Scene                         | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-crime-scene)                            |
 | OneWay City                             | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/oneway-city)                                |
 | Skylines                                | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/skylines)                                   |
 | The two piles difference                | expert   | :heavy_check_mark: | [Link](https://www.codingame.com/training/expert/the-two-piles-difference)                   |
 | The Lucky Number                        | expert   | :white_check_mark: | [Link](https://www.codingame.com/training/expert/the-lucky-number)                           |
-| Shadows of the Knight - Episode 2       | expert   | :white_check_mark: | [Link](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2)            |
+| Partitions de musique                   | expert   | :white_check_mark: | [Link](https://www.codingame.com/training/expert/music-scores)                               |
 | Recurring Decimals                      | expert   | :white_check_mark: | [Link](https://www.codingame.com/training/expert/recurring-decimals)                         |
 | Mars Lander - Episode 3                 | expert   | :white_check_mark: | [Link](https://www.codingame.com/training/expert/mars-lander-episode-3)                      |
 | The Last Crusade - Episode 3            | expert   |                    | [Link](https://www.codingame.com/training/expert/the-last-crusade-episode-3)                 |
-| Partitions de musique                   | expert   |                    | [Link](https://www.codingame.com/training/expert/music-scores)                               |
 | Vox Codei - Episode 2                   | expert   |                    | [Link](https://www.codingame.com/training/expert/vox-codei-episode-2)                        |
 | Nintendo Sponsored Challenge            | expert   |                    | [Link](https://www.codingame.com/training/expert/nintendo-sponsored-contest)                 |
 | Escaliers                               | expert   |                    | [Link](https://www.codingame.com/training/expert/staircases)                                 |
